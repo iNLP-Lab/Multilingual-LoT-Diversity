@@ -1,0 +1,3115 @@
+[
+  {
+    "Q_id": "Q1",
+    "question": "Hur viktig är familjen i ditt liv? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q2",
+    "question": "Hur viktiga är vänner i ditt liv? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q3",
+    "question": "Hur viktig är fritiden i ditt liv? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q4",
+    "question": "Hur viktig är politik i ditt liv? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q5",
+    "question": "Hur viktigt är arbetet i ditt liv? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q6",
+    "question": "Hur viktig är religion i ditt liv? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q7",
+    "question": "Anser du att gott uppförande är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q8",
+    "question": "Anser du att självständighet är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q9",
+    "question": "Anser du att hårt arbete är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q10",
+    "question": "Anser du att en ansvarskänsla är särskilt viktig för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q11",
+    "question": "Anser du att fantasi är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q12",
+    "question": "Anser du att tolerans och respekt för andra människor är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q13",
+    "question": "Anser du att sparsamhet, att spara pengar och saker är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q14",
+    "question": "Anser du att beslutsamhet och uthållighet är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q15",
+    "question": "Anser du att religiös tro är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q16",
+    "question": "Anser du att inte vara självisk (osjälvisk) är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q17",
+    "question": "Anser du att lydnad är särskilt viktigt för barn att lära sig hemma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q18",
+    "question": "Skulle du inte vilja ha narkomaner som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q19",
+    "question": "Skulle du inte vilja ha människor av en annan ras som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q20",
+    "question": "Skulle du inte vilja ha människor som har aids som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q21",
+    "question": "Skulle du inte vilja ha invandrare eller utländska arbetare som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q22",
+    "question": "Skulle du inte vilja ha homosexuella som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q23",
+    "question": "Skulle du inte vilja ha människor av en annan religion som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q24",
+    "question": "Skulle du inte vilja ha stordrinkare som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q25",
+    "question": "Skulle du inte vilja ha ogifta par som bor tillsammans som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q26",
+    "question": "Skulle du inte vilja ha människor som talar ett annat språk som grannar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q27",
+    "question": "Håller du med om att ett av dina främsta mål i livet har varit att göra dina föräldrar stolta? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q28",
+    "question": "Håller du med om att barnen lider när en mamma arbetar för lön? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q29",
+    "question": "Håller du med om att män på det hela taget är bättre politiska ledare än kvinnor? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q30",
+    "question": "Håller du med om att en universitetsutbildning är viktigare för en pojke än för en flicka? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q31",
+    "question": "Håller du med om att män på det hela taget är bättre företagsledare än kvinnor? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q32",
+    "question": "Håller du med om att det är lika givande att vara hemmafru som att arbeta för lön? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q33",
+    "question": "Håller du med om att när det är ont om jobb ska män ha mer rätt till ett jobb än kvinnor? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q34",
+    "question": "Håller du med om att när det är ont om jobb bör arbetsgivare prioritera människor i detta land framför invandrare? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q35",
+    "question": "Håller du med om att om en kvinna tjänar mer pengar än sin man är det nästan säkert att det orsakar problem? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q36",
+    "question": "Håller du med om att homosexuella par är lika bra föräldrar som andra par? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q37",
+    "question": "Håller du med om att det är en plikt gentemot samhället att skaffa barn? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q38",
+    "question": "Håller du med om att vuxna barn har skyldighet att ge långtidsvård åt sina föräldrar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q39",
+    "question": "Håller du med om att folk som inte jobbar blir lata? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q40",
+    "question": "Håller du med om att arbete är en plikt gentemot samhället? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q41",
+    "question": "Håller du med om att arbetet alltid ska komma först, även om det innebär mindre fritid? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q42",
+    "question": "Vilket av följande beskriver bäst din egen åsikt om det samhälle vi lever i: hela sättet vårt samhälle är organiserat på måste radikalt förändras genom revolutionära åtgärder, vårt samhälle måste gradvis förbättras genom reformer, eller vårt nuvarande samhälle måste tappert försvaras mot alla subversiva krafter? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The entire way our society is organized must be radically changed by revolutionary action 2. Our society must be gradually improved by reforms 3. Our present society must be valiantly defended against all subversive forces",
+    "option": [
+      "The entire way our society is organized must be radically changed by revolutionary action",
+      "Our society must be gradually improved by reforms",
+      "Our present society must be valiantly defended against all subversive forces"
+    ]
+  },
+  {
+    "Q_id": "Q43",
+    "question": "Om mindre vikt lades på arbete i våra liv, skulle du tro att det skulle vara en bra sak, en dålig sak, eller har du inget emot det? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q44",
+    "question": "Om det fanns mer betoning på utvecklingen av teknik, skulle du tro att det skulle vara en bra sak, en dålig sak, eller har du inget emot det? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q45",
+    "question": "Om det fanns större respekt för auktoritet, skulle du tro att det skulle vara en bra sak, en dålig sak, eller har du inget emot det? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q46",
+    "question": "Om du tar allt tillsammans, skulle du säga att du är väldigt glad, ganska glad, inte särskilt glad eller inte alls glad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very happy 2. Rather happy 3. Not very happy 4. Not at all happy",
+    "option": [
+      "Very happy",
+      "Rather happy",
+      "Not very happy",
+      "Not at all happy"
+    ]
+  },
+  {
+    "Q_id": "Q47",
+    "question": "Sammantaget, hur skulle du beskriva ditt hälsotillstånd nuförtiden? Skulle du säga att det är mycket bra, bra, rättvist, dåligt eller mycket dåligt? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Good 3. Fair 4. Poor 5. Very poor",
+    "option": [
+      "Very good",
+      "Good",
+      "Fair",
+      "Poor",
+      "Very poor"
+    ]
+  },
+  {
+    "Q_id": "Q48",
+    "question": "Vissa människor känner att de har helt fritt val och kontroll över sina liv, medan andra känner att det de gör inte har någon verklig effekt på vad som händer med dem. Använd den här skalan där 1 betyder \"inget val alls\" och 10 betyder \"mycket valfrihet\" för att indikera hur mycket valfrihet och kontroll du känner att du har över hur ditt liv blir. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q49",
+    "question": "Sammantaget, hur nöjd är du med ditt liv som helhet nu för tiden? Om du använder det här kortet där 1 betyder att du är \"helt missnöjd\" och 10 betyder att du är \"helt nöjd\", var skulle du lägga din tillfredsställelse med ditt liv som helhet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q50",
+    "question": "Hur nöjd är du med ditt hushålls ekonomiska situation? Att använda detta kort där 1 betyder att du är \"helt missnöjd\" och 10 betyder att du är \"helt nöjd\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q51",
+    "question": "Under de senaste 12 månaderna, hur ofta har du eller din familj saknat tillräckligt med mat att äta? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q52",
+    "question": "Under de senaste 12 månaderna, hur ofta har du eller din familj känt dig osäkra från brott i ditt hem? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q53",
+    "question": "Under de senaste 12 månaderna, hur ofta har du eller din familj gått utan medicin eller medicinsk behandling som du behövt? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q54",
+    "question": "Under de senaste 12 månaderna, hur ofta har du eller din familj gått utan kontantinkomst? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q55",
+    "question": "Under de senaste 12 månaderna, hur ofta har du eller din familj gått utan ett säkert skydd över huvudet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q56",
+    "question": "Om du jämför din levnadsstandard med dina föräldrars levnadsstandard när de var ungefär i din ålder, skulle du säga att du har det bättre, sämre eller ungefär likadant? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Better off 2. Worse off 3. About the same",
+    "option": [
+      "Better off",
+      "Worse off",
+      "About the same"
+    ]
+  },
+  {
+    "Q_id": "Q57",
+    "question": "Generellt sett, skulle du säga att man kan lita på de flesta människor eller att man måste vara mycket försiktig i mötet med människor? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Most people can be trusted 2. Need to be very careful",
+    "option": [
+      "Most people can be trusted",
+      "Need to be very careful"
+    ]
+  },
+  {
+    "Q_id": "Q58",
+    "question": "Hur mycket litar du på din familj: helt, något, inte särskilt mycket eller inte alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q59",
+    "question": "Hur mycket litar du på ditt område: helt, något, inte särskilt mycket eller inte alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q60",
+    "question": "Hur mycket litar du på människor du känner personligen: helt, något, inte särskilt mycket eller inte alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q61",
+    "question": "Hur mycket litar du på människor du träffar för första gången: helt, något, inte särskilt mycket eller inte alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q62",
+    "question": "Hur mycket litar du på människor från en annan religion: helt, något, inte särskilt mycket eller inte alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q63",
+    "question": "Hur mycket litar du på människor av en annan nationalitet: helt, något, inte särskilt mycket eller inte alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q64",
+    "question": "Hur stort förtroende har du för platser som används för gudstjänst och andra religiösa aktiviteter: mycket, ganska mycket, inte särskilt mycket eller inga alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q65",
+    "question": "Hur stort förtroende har du för de väpnade styrkorna: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q66",
+    "question": "Hur stort förtroende har du för pressen: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q67",
+    "question": "Hur stort förtroende har du för tv: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q68",
+    "question": "Hur stort förtroende har du för fackföreningar: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q69",
+    "question": "Hur stort förtroende har du för polisen: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q70",
+    "question": "Hur stort förtroende har du för domstolarna: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q71",
+    "question": "Hur stort förtroende har du för regeringen: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q72",
+    "question": "Hur stort förtroende har du för politiska partier: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q73",
+    "question": "Hur stort förtroende har du för parlamentet: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q74",
+    "question": "Hur stort förtroende har du för den offentliga förvaltningen: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q75",
+    "question": "Hur stort förtroende har du för universiteten: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q76",
+    "question": "Hur stort förtroende har du för val: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q77",
+    "question": "Hur stort förtroende har du för stora företag: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q78",
+    "question": "Hur stort förtroende har du för banker: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q79",
+    "question": "Hur stort förtroende har du för miljöorganisationer: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q80",
+    "question": "Hur stort förtroende har du för kvinnoorganisationer: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q81",
+    "question": "Hur stort förtroende har du för välgörenhetsorganisationer eller humanitära organisationer: mycket, ganska mycket, inte särskilt mycket eller ingen alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q82",
+    "question": "Hur stort förtroende har du för regionala organisationer som syftar till att främja samarbete och integration mellan länder: mycket, ganska mycket, inte särskilt mycket eller inga alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q83",
+    "question": "Hur stort förtroende har du för FN: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q84",
+    "question": "Hur stort förtroende har du för Internationella valutafonden (IMF): mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q85",
+    "question": "Hur stort förtroende har du för Internationella brottmålsdomstolen (ICC): mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q86",
+    "question": "Hur stort förtroende har du för Nordatlantiska Fördragsorganisationen (NATO): mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q87",
+    "question": "Hur stort förtroende har du för Världsbanken: mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q88",
+    "question": "Hur stort förtroende har du för Världshälsoorganisationen (WHO): mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q89",
+    "question": "Hur stort förtroende har du för Världshandelsorganisationen (WTO): mycket, ganska mycket, inte särskilt mycket eller inget alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q90",
+    "question": "Nu för tiden pratas det mycket om internationella organisationer. Man säger ibland att internationella organisationer bör prioritera att förbättra människors liv, även om det kan innebära att beslut inte fattas demokratiskt. Vad tycker du bör internationella organisationer prioritera, vara effektiva eller demokratiska? Att använda detta kort där 1 betyder \"Att vara effektiv\" och 10 betyder \"Att vara demokratisk\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q91",
+    "question": "Vilket av följande är inte medlem i de fem länderna med permanenta platser i FN:s säkerhetsråd: Frankrike, Kina eller Indien? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. France 2. China 3. India",
+    "option": [
+      "France",
+      "China",
+      "India"
+    ]
+  },
+  {
+    "Q_id": "Q92",
+    "question": "Var finns Internationella valutafondens (IMF) högkvarter: Washington DC, London eller Genève? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Washington DC 2. London 3. Geneva",
+    "option": [
+      "Washington DC",
+      "London",
+      "Geneva"
+    ]
+  },
+  {
+    "Q_id": "Q93",
+    "question": "Vilka av följande problem hanterar organisationen Amnesty International: klimatförändringar, mänskliga rättigheter eller förstörelse av historiska monument? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Climate change 2. Human rights 3. Destruction of historic monuments",
+    "option": [
+      "Climate change",
+      "Human rights",
+      "Destruction of historic monuments"
+    ]
+  },
+  {
+    "Q_id": "Q94",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i en kyrka eller religiös organisation? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q95",
+    "question": "Är du en aktiv medlem, en inaktiv medlem, eller inte medlem i en sport- eller fritidsorganisation, fotboll/baseboll/rugbylag? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q96",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i en konst-, musik- eller utbildningsorganisation? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q97",
+    "question": "Är du aktiv medlem, inaktiv medlem eller inte medlem i ett fackförbund? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q98",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i ett politiskt parti? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q99",
+    "question": "Är du aktiv medlem, inaktiv medlem eller inte medlem i en miljöorganisation? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q100",
+    "question": "Är du aktiv medlem, inaktiv medlem eller inte medlem i en yrkesförening? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q101",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i en humanitär eller välgörenhetsorganisation? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q102",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i en konsumentorganisation? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q103",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i en självhjälpsgrupp, ömsesidig hjälpgrupp? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q104",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i en kvinnogrupp? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q105",
+    "question": "Är du en aktiv medlem, en inaktiv medlem eller inte medlem i en annan typ av organisation? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q106",
+    "question": "Håller du med om påståendet1 'Inkomsterna bör göras mer jämställda' eller påståendet2 'Det bör finnas större incitament för individuell insats'? Om du använder detta kort där 1 betyder att du håller helt med \"påståendet1\" och 10 betyder att du håller helt med \"påståendet2\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q107",
+    "question": "Håller du med om påståendet1 'Det privata ägandet av näringslivet bör ökas' eller påståendet2 'Det statliga ägandet av näringslivet bör ökas'? Om du använder detta kort där 1 betyder att du håller helt med \"påståendet1\" och 10 betyder att du håller helt med \"påståendet2\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q108",
+    "question": "Håller du med om påståendet1 'Regeringen borde ta mer ansvar för att se till att alla får försörjning' eller påståendet2 'Människor borde ta mer ansvar för att försörja sig själva'? Om du använder detta kort där 1 betyder att du håller helt med \"påståendet1\" och 10 betyder att du håller helt med \"påståendet2\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q109",
+    "question": "Håller du med om påståendet1 \"Konkurrens är bra\" eller påståendet2 \"Konkurrens är skadligt\"? Om du använder detta kort där 1 betyder att du håller helt med \"påståendet1\" och 10 betyder att du håller helt med \"påståendet2\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q110",
+    "question": "Håller du med om påståendet1 'I det långa loppet ger hårt arbete vanligtvis ett bättre liv' eller påståendet2 'Hårt arbete ger i allmänhet inte framgång – det är mer en fråga om tur och kontakter'? Om du använder detta kort där 1 betyder att du håller helt med \"påståendet1\" och 10 betyder att du håller helt med \"påståendet2\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q111",
+    "question": "Vilket av dessa påståenden kommer närmast din egen synvinkel? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs. 2. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent. 3. Other answer",
+    "option": [
+      "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.",
+      "Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.",
+      "Other answer"
+    ]
+  },
+  {
+    "Q_id": "Q112",
+    "question": "Hur skulle du bedöma korruption i ditt land på en skala från \"1\" som betyder \"det finns ingen korruption i mitt land\" till \"10\" som betyder \"det finns riklig korruption i mitt land\"? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q113",
+    "question": "Hur många statliga myndigheter tror du är inblandade i korruption: ingen av dem, få av dem, de flesta av dem eller alla? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q114",
+    "question": "Hur många företagsledare tror du är inblandade i korruption: ingen av dem, få av dem, de flesta av dem eller alla? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q115",
+    "question": "Hur många lokala myndigheter tror du är inblandade i korruption: ingen av dem, få av dem, de flesta av dem eller alla? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q116",
+    "question": "Hur många tjänsteleverantörer (polis, rättsväsende, tjänstemän, läkare, lärare) tror du är inblandade i korruption: ingen av dem, få av dem, de flesta av dem eller alla? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q117",
+    "question": "Hur många journalister och medier tror du är inblandade i korruption: ingen av dem, få av dem, de flesta av dem eller alla? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q118",
+    "question": "Hur ofta tror du att vanliga människor måste betala muta, ge en gåva eller göra en tjänst till lokala tjänstemän och tjänsteleverantörer för att få de tjänster du behöver: aldrig, sällan, ofta eller alltid? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Never 2. Rarely 3. Frequently 4. Always",
+    "option": [
+      "Never",
+      "Rarely",
+      "Frequently",
+      "Always"
+    ]
+  },
+  {
+    "Q_id": "Q119",
+    "question": "Hur mycket instämmer eller tar du avstånd från påståendet \"på det hela taget är kvinnor mindre korrupta än män\", eller har du svårt att säga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Hard to say 2. Strongly agree 3. Agree 4. Disagree 5. Strongly disagree",
+    "option": [
+      "Hard to say",
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q120",
+    "question": "Hur skulle du bedöma risken att ställas till svars för att ge eller ta emot en muta, gåva eller tjänst i utbyte mot offentlig tjänst i detta land på en skala från '1' som betyder 'ingen risk alls' till '10' som betyder 'mycket hög risk'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q121",
+    "question": "Hur skulle du utvärdera invandrarnas inverkan på ditt lands utveckling? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very bad 2. Quite bad 3. Neither good, nor bad 4. Quite good 5. Very good",
+    "option": [
+      "Very bad",
+      "Quite bad",
+      "Neither good, nor bad",
+      "Quite good",
+      "Very good"
+    ]
+  },
+  {
+    "Q_id": "Q122",
+    "question": "Håller du med om att invandring fyller viktiga lediga jobb? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q123",
+    "question": "Håller du med om att invandring stärker den kulturella mångfalden? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q124",
+    "question": "Håller du med om att invandringen ökar brottsligheten? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q125",
+    "question": "Håller du med om att invandring ger asyl till politiska flyktingar som förföljs någon annanstans? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q126",
+    "question": "Håller du med om att invandring ökar riskerna för terrorism? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q127",
+    "question": "Håller du med om att invandring ger människor från fattiga länder ett bättre liv? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q128",
+    "question": "Håller du med om att invandringen ökar arbetslösheten? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q129",
+    "question": "Håller du med om att invandring leder till sociala konflikter? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q130",
+    "question": "Vad ska regeringen göra åt att människor från andra länder kommer hit för att arbeta? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Let anyone come who wants to 2. Let people come as long as there are jobs available 3. Place strict limits on the number of foreigners who can come here 4. Prohibit people coming here from other countries",
+    "option": [
+      "Let anyone come who wants to",
+      "Let people come as long as there are jobs available",
+      "Place strict limits on the number of foreigners who can come here",
+      "Prohibit people coming here from other countries"
+    ]
+  },
+  {
+    "Q_id": "Q131",
+    "question": "Hur säker känner du dig nuförtiden? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very secure 2. Quite secure 3. Not very secure 4. Not at all secure",
+    "option": [
+      "Very secure",
+      "Quite secure",
+      "Not very secure",
+      "Not at all secure"
+    ]
+  },
+  {
+    "Q_id": "Q132",
+    "question": "Hur ofta sker rån i ditt närområde? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q133",
+    "question": "Hur ofta konsumeras alkohol på gatorna i ditt närområde? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q134",
+    "question": "Hur ofta stör polis eller militär människors privatliv i ditt närområde? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q135",
+    "question": "Hur ofta förekommer rasistiskt beteende i ditt närområde? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q136",
+    "question": "Hur ofta förekommer drogförsäljning på gator i ditt närområde? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q137",
+    "question": "Hur ofta förekommer gatuvåld och slagsmål i ditt närområde? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q138",
+    "question": "Hur ofta förekommer sexuella trakasserier i ditt närområde? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q139",
+    "question": "Har du av säkerhetsskäl avstått från att bära mycket pengar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q140",
+    "question": "Har du föredragit att inte gå ut på natten av säkerhetsskäl? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q141",
+    "question": "Har du burit kniv, pistol eller annat vapen av säkerhetsskäl? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q142",
+    "question": "Hur orolig är du över att förlora ditt jobb eller att inte hitta ett jobb? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q143",
+    "question": "Hur orolig är du över att inte kunna ge dina barn en bra utbildning? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q144",
+    "question": "Har du blivit utsatt för ett brott under det senaste året? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q145",
+    "question": "Har någon i din närmaste familj blivit utsatt för ett brott under det senaste året? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q146",
+    "question": "Hur orolig är du för ett krig som involverar ditt land? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q147",
+    "question": "Hur orolig är du för en terrorattack? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q148",
+    "question": "Hur orolig är du för ett inbördeskrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q149",
+    "question": "Om du fick välja mellan frihet och jämlikhet, vilken skulle du anse som viktigast? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Equality",
+    "option": [
+      "Freedom",
+      "Equality"
+    ]
+  },
+  {
+    "Q_id": "Q150",
+    "question": "Om du fick välja mellan frihet och säkerhet, vilken skulle du anse som viktigast? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Security",
+    "option": [
+      "Freedom",
+      "Security"
+    ]
+  },
+  {
+    "Q_id": "Q151",
+    "question": "Om det skulle komma till det, skulle du vara villig att kämpa för ditt land? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q152",
+    "question": "Vilket av följande anser du är viktigast för ditt lands mål för de kommande tio åren? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q153",
+    "question": "Vilket av följande skulle vara det näst viktigaste för ditt lands mål för de kommande tio åren? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q154",
+    "question": "Om du fick välja, vilken av sakerna skulle du säga är viktigast? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q155",
+    "question": "Om du fick välja, vilken av sakerna skulle du säga är den näst viktigaste? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q156",
+    "question": "Vilken av dessa är enligt din åsikt viktigast? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q157",
+    "question": "Vilken av dessa är enligt din åsikt den näst viktigaste? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q158",
+    "question": "Håller du med om att vetenskap och teknik gör våra liv hälsosammare, enklare och bekvämare? Om du använder det här kortet där 1 betyder att du \"inte håller helt med\" och 10 betyder att du \"håller helt med\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q159",
+    "question": "Håller du med om att det på grund av vetenskap och teknik kommer att finnas fler möjligheter för nästa generation? Om du använder det här kortet där 1 betyder att du \"inte håller helt med\" och 10 betyder att du \"håller helt med\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q160",
+    "question": "Håller du med om att vi är för mycket beroende av vetenskap och inte tillräckligt av tro? Om du använder det här kortet där 1 betyder att du \"inte håller helt med\" och 10 betyder att du \"håller helt med\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q161",
+    "question": "Håller du med om att en av vetenskapens dåliga effekter är att den bryter ner människors idéer om rätt och fel? Om du använder det här kortet där 1 betyder att du \"inte håller helt med\" och 10 betyder att du \"håller helt med\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q162",
+    "question": "Håller du med om att det inte är viktigt för dig att veta om vetenskap i ditt dagliga liv? Om du använder det här kortet där 1 betyder att du \"inte håller helt med\" och 10 betyder att du \"håller helt med\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q163",
+    "question": "När allt kommer omkring, skulle du säga att världen har det bättre eller sämre på grund av vetenskap och teknik? Att använda detta kort där 1 betyder \"mycket sämre ställd\" och 10 betyder \"mycket bättre ställd\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q164",
+    "question": "Hur viktig är Gud i ditt liv på en skala från '1' som betyder 'inte alls viktig' till '10' som betyder 'mycket viktig'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q165",
+    "question": "Tror du på Gud? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q166",
+    "question": "Tror du på ett liv efter döden? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q167",
+    "question": "Tror du på helvetet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q168",
+    "question": "Tror du på himlen? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q169",
+    "question": "Håller du helt med, håller med, inte håller med eller inte håller med om att religion alltid har rätt när vetenskap och religion står i konflikt? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q170",
+    "question": "Håller du helt med, håller med, inte håller med eller inte håller med om att den enda acceptabla religionen är din religion? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q171",
+    "question": "Förutom bröllop och begravningar, hur ofta går du på gudstjänster nuförtiden? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. More than once a week 2. Once a week 3. Once a month 4. Only on special holy days 5. Once a year 6. Less often 7. Never, practically never",
+    "option": [
+      "More than once a week",
+      "Once a week",
+      "Once a month",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q172",
+    "question": "Förutom bröllop och begravningar, hur ofta ber du? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Several times a day 2. Once a day 3. Several times each week 4. Only when attending religious services 5. Only on special holy days 6. Once a year 7. Less often 8. Never, practically never",
+    "option": [
+      "Several times a day",
+      "Once a day",
+      "Several times each week",
+      "Only when attending religious services",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q173",
+    "question": "Oberoende av om du går på gudstjänster eller inte, skulle du säga att du är en religiös person, inte en religiös person eller en ateist? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A religious person 2. Not a religious person 3. An atheist",
+    "option": [
+      "A religious person",
+      "Not a religious person",
+      "An atheist"
+    ]
+  },
+  {
+    "Q_id": "Q174",
+    "question": "Vilket av följande påståenden håller du mest med om? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to follow religious norms and ceremonies 2. The basic meaning of religion is to do good to other people",
+    "option": [
+      "The basic meaning of religion is to follow religious norms and ceremonies",
+      "The basic meaning of religion is to do good to other people"
+    ]
+  },
+  {
+    "Q_id": "Q175",
+    "question": "Vilket av följande påstående håller du mest med om? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to make sense of life after death 2. The basic meaning of religion is to make sense of life in this world",
+    "option": [
+      "The basic meaning of religion is to make sense of life after death",
+      "The basic meaning of religion is to make sense of life in this world"
+    ]
+  },
+  {
+    "Q_id": "Q176",
+    "question": "Hur mycket håller du med eller inte håller med om påståendet att man numera ofta har svårt att avgöra vilka moraliska regler som är de rätta att följa? Om du använder det här kortet där 1 betyder att du \"inte håller helt med\" och 10 betyder att du \"håller helt med\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q177",
+    "question": "Tycker du att det alltid kan vara berättigat att kräva statliga förmåner som du inte har rätt till, eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q178",
+    "question": "Tycker du att det alltid kan vara motiverat att undvika ett pris på kollektivtrafiken, aldrig vara motiverat eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q179",
+    "question": "Tror du att att stjäla egendom alltid kan vara berättigat, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q180",
+    "question": "Tycker du att skattefusk om man har en chans alltid kan vara motiverat, aldrig motiveras eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q181",
+    "question": "Tror du att någon som tar emot en muta i sin tjänst alltid kan vara berättigad, aldrig berättigad eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q182",
+    "question": "Tror du att homosexualitet alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q183",
+    "question": "Tror du att prostitutionen alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q184",
+    "question": "Tror du att aborten alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q185",
+    "question": "Tror du att skilsmässan alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q186",
+    "question": "Tror du att sex före äktenskapet alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q187",
+    "question": "Tror du att självmordet alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q188",
+    "question": "Tror du att dödshjälp alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q189",
+    "question": "Tror du att för en man att slå sin fru alltid kan vara berättigat, aldrig vara berättigat, eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q190",
+    "question": "Tror du att föräldrar som slår barn alltid kan vara berättigade, aldrig vara berättigade eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q191",
+    "question": "Tror du att våld mot andra människor alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q192",
+    "question": "Tror du att terrorismen som ett politiskt, ideologiskt eller religiöst medel alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q193",
+    "question": "Tror du att det alltid kan vara berättigat att ha tillfälligt sex, aldrig vara berättigat eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q194",
+    "question": "Tror du att det politiska våldet alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q195",
+    "question": "Tror du att dödsstraff alltid kan rättfärdigas, aldrig rättfärdigas eller något däremellan? Att använda detta kort där 1 betyder \"aldrig försvarbart\" och 10 betyder \"alltid försvarbart\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q196",
+    "question": "Tycker du att ditt lands regering borde eller inte borde ha rätt att hålla människor under videoövervakning i offentliga områden? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q197",
+    "question": "Anser du att ditt lands regering borde eller inte borde ha rätt att övervaka all e-post och all annan information som utbyts på Internet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q198",
+    "question": "Tycker du att ditt lands regering borde eller inte borde ha rätt att samla in information om alla som bor i detta land utan deras vetskap? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q199",
+    "question": "Hur intresserad skulle du säga att du är av politik? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very interested 2. Somewhat interested 3. Not very interested 4. Not at all interested",
+    "option": [
+      "Very interested",
+      "Somewhat interested",
+      "Not very interested",
+      "Not at all interested"
+    ]
+  },
+  {
+    "Q_id": "Q200",
+    "question": "När du träffas med dina vänner, skulle du säga att du diskuterar politiska frågor ofta, ibland eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Frequently 2. Occasionally 3. Never",
+    "option": [
+      "Frequently",
+      "Occasionally",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q201",
+    "question": "Hur ofta använder du dagstidningar för att få information: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q202",
+    "question": "Hur ofta använder du TV-nyheter för att få information: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q203",
+    "question": "Hur ofta använder du radionyheter för att få information: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q204",
+    "question": "Hur ofta använder du en mobiltelefon för att få information: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q205",
+    "question": "Hur ofta använder du e-post för att få information: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q206",
+    "question": "Hur ofta använder du internet för att få information: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q207",
+    "question": "Hur ofta använder du sociala medier för att få information: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q208",
+    "question": "Hur ofta får du information genom att prata med vänner eller kollegor: dagligen, veckovis, månadsvis, mindre än månadsvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q209",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig skriva under en petition? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q210",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig göra att gå med i bojkotter? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q211",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig delta i fredliga demonstrationer? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q212",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig göra anslutningsstrejker? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q213",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig donera till en grupp eller kampanj? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q214",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig kontakta en myndighetstjänsteman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q215",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig uppmuntra andra att agera i politiska frågor? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q216",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig uppmuntra andra att rösta? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q217",
+    "question": "Har du sökt information om politik och politiska händelser på nätet, kanske eller skulle du aldrig göra det? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q218",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig skriva under en elektronisk petition? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q219",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig uppmuntra andra människor att vidta någon form av politisk handling? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q220",
+    "question": "Har du gjort, kanske gör eller skulle du aldrig organisera politiska aktiviteter, evenemang, protester? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q221",
+    "question": "När val äger rum på lokal nivå, röstar du alltid, vanligtvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q222",
+    "question": "När val äger rum på nationell nivå, röstar du alltid, vanligtvis eller aldrig? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q223",
+    "question": "Om det var riksval imorgon, vilket parti på den här listan skulle du rösta på? Om VET INTE: Vilket parti tilltalar dig mest? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Party 1 2. Party 2 3. Party 3 4. etc.",
+    "option": [
+      "Party 1",
+      "Party 2",
+      "Party 3",
+      "etc."
+    ]
+  },
+  {
+    "Q_id": "Q224",
+    "question": "Hur ofta räknas rösterna rättvist i det här landets val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q225",
+    "question": "Hur ofta hindras oppositionskandidater från att ställa upp i detta lands val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q226",
+    "question": "Hur ofta gynnar TV-nyheterna regeringspartiet i detta lands val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q227",
+    "question": "Hur ofta mutas väljarna i detta lands val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q228",
+    "question": "Hur ofta ger journalister rättvis bevakning av valen i det här landets val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q229",
+    "question": "Hur ofta är valförrättarna rättvisa i det här landets val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q230",
+    "question": "Hur ofta köper rika människor val i det här landets val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q231",
+    "question": "Hur ofta hotas väljarna med våld vid vallokalerna i det här landets val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q232",
+    "question": "Hur ofta erbjuds väljarna ett genuint val i detta lands val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q233",
+    "question": "Hur ofta har kvinnor lika möjligheter att kandidera i detta lands val? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q234",
+    "question": "Hur viktigt är det att ha ärliga val för dig: mycket viktigt, ganska viktigt, inte särskilt viktigt eller inte alls viktigt? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q234A",
+    "question": "Hur mycket tror du att det politiska systemet i ditt land tillåter människor som du att ha att säga till om vad regeringen gör: mycket, mycket, en del, väldigt lite eller inte alls? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. A lot 3. Some 4. Very little 5. Not at all",
+    "option": [
+      "A great deal",
+      "A lot",
+      "Some",
+      "Very little",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q235",
+    "question": "Vad tycker du om att ha en stark ledare som inte behöver krångla till riksdag och val som ett sätt att styra det här landet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q236",
+    "question": "Vad tycker du om att låta experter, inte regering, fatta beslut efter vad de tycker är bäst för landet som ett sätt att styra det här landet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q237",
+    "question": "Vad tycker du om att ha armén styr som ett sätt att styra det här landet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q238",
+    "question": "Vad tycker du om att ha ett demokratiskt politiskt system som ett sätt att styra det här landet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q239",
+    "question": "Vad tycker du om att ha ett system som styrs av religiös lag där det inte finns några politiska partier eller val som ett sätt att styra det här landet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q240",
+    "question": "I politiska frågor, hur skulle du placera dina åsikter på denna skala från 'vänster' till 'höger'? Att använda detta kort där 1 betyder 'vänster' och 10 betyder 'höger' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q241",
+    "question": "Hur viktigt tror du att det är för demokratin att regeringar beskattar de rika och subventionerar de fattiga? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q242",
+    "question": "Hur viktigt tror du att det är för demokratin att religiösa myndigheter i slutändan tolkar lagarna? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q243",
+    "question": "Hur viktigt tror du att det är för demokratin att människor väljer sina ledare i fria val? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q244",
+    "question": "Hur viktigt tror du att det är för demokratin att människor får statligt stöd för arbetslöshet? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q245",
+    "question": "Hur viktigt tror du att det är för demokratin att armén tar över när regeringen är inkompetent? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q246",
+    "question": "Hur viktigt tror du att det är för demokratin att medborgerliga rättigheter skyddar människor från statligt förtryck? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q247",
+    "question": "Hur viktigt tror du att det är för demokratin att staten gör människors inkomster lika? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q248",
+    "question": "Hur viktigt tror du att det är för demokratin att människor lyder sina makthavare? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q249",
+    "question": "Hur viktigt tror du att det är för demokratin att kvinnor har samma rättigheter som män? Att använda detta kort där 0 betyder \"det är emot demokrati\", 1 betyder \"inte alls en väsentlig egenskap hos demokrati\" och 10 betyder \"en väsentlig egenskap hos demokrati\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q250",
+    "question": "Hur viktigt är det för dig att leva i ett land som styrs demokratiskt? Att använda detta kort där 1 betyder \"inte alls viktigt\" och 10 betyder \"absolut viktigt\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q251",
+    "question": "Hur demokratiskt styrs detta land idag? Att använda detta kort där 1 betyder \"inte alls demokratisk\" och 10 betyder \"fullständigt demokratisk\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q252",
+    "question": "Hur nöjd är du med hur det politiska systemet fungerar i ditt land nuförtiden? Att använda detta kort där 1 betyder \"inte nöjd alls\" och 10 betyder \"helt nöjd\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q253",
+    "question": "Hur mycket respekt finns det för individuella mänskliga rättigheter nuförtiden i detta land? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal of respect for individual human rights 2. Fairly much respect 3. Not much respect 4. No respect at all",
+    "option": [
+      "A great deal of respect for individual human rights",
+      "Fairly much respect",
+      "Not much respect",
+      "No respect at all"
+    ]
+  },
+  {
+    "Q_id": "Q254",
+    "question": "Hur stolt är du över din nationalitet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very proud 2. Quite proud 3. Not very proud 4. Not at all proud 5. I am not of this nationality",
+    "option": [
+      "Very proud",
+      "Quite proud",
+      "Not very proud",
+      "Not at all proud",
+      "I am not of this nationality"
+    ]
+  },
+  {
+    "Q_id": "Q255",
+    "question": "Hur nära känner du din by, stad eller stad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q256",
+    "question": "Hur nära känner du dig till ditt län, din region eller ditt distrikt? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q257",
+    "question": "Hur nära känner du ditt land? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q258",
+    "question": "Hur nära känner du dig till din kontinent (t.ex. Europa, Asien, etc.)? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q259",
+    "question": "Hur nära känner du världen? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q260",
+    "question": "Vad är ditt kön? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Male 2. Female",
+    "option": [
+      "Male",
+      "Female"
+    ]
+  },
+  {
+    "Q_id": "Q263",
+    "question": "Är du född i det här landet eller är du invandrare till det här landet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q264",
+    "question": "Är din mamma en invandrare till det här landet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q265",
+    "question": "Är din far en invandrare till detta land? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q269",
+    "question": "Är du medborgare i detta land? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, I am a citizen of this country 2. No, I am not a citizen of this country",
+    "option": [
+      "Yes, I am a citizen of this country",
+      "No, I am not a citizen of this country"
+    ]
+  },
+  {
+    "Q_id": "Q271",
+    "question": "Bor du med dina föräldrar eller dina svärföräldrar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No 2. Yes, own parent(s) 3. Yes, parent(s) in law 4. Yes, both own parent(s) and parent(s) in law",
+    "option": [
+      "No",
+      "Yes, own parent(s)",
+      "Yes, parent(s) in law",
+      "Yes, both own parent(s) and parent(s) in law"
+    ]
+  },
+  {
+    "Q_id": "Q273",
+    "question": "Vad är ditt nuvarande civilstånd? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Married 2. Living together as married 3. Divorced 4. Separated 5. Widowed 6. Single",
+    "option": [
+      "Married",
+      "Living together as married",
+      "Divorced",
+      "Separated",
+      "Widowed",
+      "Single"
+    ]
+  },
+  {
+    "Q_id": "Q275",
+    "question": "Vilken är den högsta utbildningsnivån du har uppnått? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q276",
+    "question": "Vilken är den högsta utbildningsnivån som din make har uppnått? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q277",
+    "question": "Vilken är den högsta utbildningsnivån som din mamma har uppnått? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q278",
+    "question": "Vilken är den högsta utbildningsnivån som din far har uppnått? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q279",
+    "question": "Är du anställd för närvarande? Om ja, hur många timmar i veckan ungefär? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q280",
+    "question": "Är din make för närvarande anställd? Om ja, var han/hon anställd (antingen heltid eller deltid) eller egenföretagare i sitt senaste jobb? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q281",
+    "question": "Vilken av följande yrkesgrupper tillhör du? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q282",
+    "question": "Till vilken av följande yrkesgrupper tillhör din make? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q283",
+    "question": "När du var 14, vilken av följande yrkesgrupper tillhörde din pappa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q284",
+    "question": "Arbetar du för staten eller offentlig institution, för privat näringsliv eller industri, eller för en privat ideell organisation? Om du inte arbetar för närvarande, karakterisera ditt stora arbete i det förflutna. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Government or public institution 2. Private business or industry 3. Private non-profit organization",
+    "option": [
+      "Government or public institution",
+      "Private business or industry",
+      "Private non-profit organization"
+    ]
+  },
+  {
+    "Q_id": "Q285",
+    "question": "Är du den främsta löntagaren i ditt hushåll? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q286",
+    "question": "Under det senaste året, har din familj sparat pengar, bara klarat sig, spenderat några besparingar eller spenderat besparingar och lånade pengar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Saved money 2. Just get by 3. Spent some savings 4. Spent savings and borrowed money",
+    "option": [
+      "Saved money",
+      "Just get by",
+      "Spent some savings",
+      "Spent savings and borrowed money"
+    ]
+  },
+  {
+    "Q_id": "Q287",
+    "question": "Skulle du beskriva dig själv som tillhörande överklassen, övre medelklassen, lägre medelklassen, arbetarklassen eller underklassen? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Upper class 2. Upper middle class 3. Lower middle class 4. Working class 5. Lower class",
+    "option": [
+      "Upper class",
+      "Upper middle class",
+      "Lower middle class",
+      "Working class",
+      "Lower class"
+    ]
+  },
+  {
+    "Q_id": "Q288",
+    "question": "På en inkomstskala där 1 anger den lägsta inkomstgruppen och 10 den högsta inkomstgruppen i ditt land, vilken grupp är ditt hushåll i? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q289",
+    "question": "Tillhör du en religion eller ett religiöst samfund? Om ja, vilken? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No denomination 2. Roman Catholic 3. Protestant 4. Orthodox (Russian/Greek/etc.) 5. Jew 6. Muslim 7. Hindu 8. Buddhist 9. Other (write in):",
+    "option": [
+      "No denomination",
+      "Roman Catholic",
+      "Protestant",
+      "Orthodox (Russian/Greek/etc.)",
+      "Jew",
+      "Muslim",
+      "Hindu",
+      "Buddhist",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q290",
+    "question": "Vad är din etniska grupp? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. White 2. Black 3. South Asian Indian, Pakistani, etc. 4. East Asian Chinese, Japanese, etc. 5. Arabic, Central Asian 6. Other (write in):",
+    "option": [
+      "White",
+      "Black",
+      "South Asian Indian, Pakistani, etc.",
+      "East Asian Chinese, Japanese, etc.",
+      "Arabic, Central Asian",
+      "Other (write in):"
+    ]
+  }
+]

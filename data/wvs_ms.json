@@ -1,0 +1,3115 @@
+[
+  {
+    "Q_id": "Q1",
+    "question": "Betapa pentingnya keluarga dalam hidup anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q2",
+    "question": "Betapa pentingnya kawan dalam hidup anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q3",
+    "question": "Seberapa penting masa lapang dalam hidup anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q4",
+    "question": "Betapa pentingnya politik dalam hidup anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q5",
+    "question": "Betapa pentingnya kerja dalam hidup anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q6",
+    "question": "Betapa pentingnya agama dalam hidup anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q7",
+    "question": "Adakah anda menganggap adab yang baik amat penting untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q8",
+    "question": "Adakah anda menganggap berdikari amat penting untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q9",
+    "question": "Adakah anda menganggap kerja keras amat penting untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q10",
+    "question": "Adakah anda menganggap perasaan tanggungjawab adalah sangat penting untuk kanak-kanak belajar di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q11",
+    "question": "Adakah anda menganggap imaginasi sangat penting untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q12",
+    "question": "Adakah anda menganggap toleransi dan rasa hormat terhadap orang lain amat penting untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q13",
+    "question": "Adakah anda menganggap berjimat cermat, menyimpan wang dan perkara-perkara penting terutamanya untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q14",
+    "question": "Adakah anda menganggap keazaman dan ketabahan adalah sangat penting untuk kanak-kanak belajar di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q15",
+    "question": "Adakah anda menganggap kepercayaan agama sangat penting untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q16",
+    "question": "Adakah anda menganggap bahawa tidak mementingkan diri sendiri (tidak mementingkan diri sendiri) adalah sangat penting untuk kanak-kanak belajar di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q17",
+    "question": "Adakah anda menganggap ketaatan sangat penting untuk dipelajari oleh kanak-kanak di rumah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q18",
+    "question": "Adakah anda tidak mahu mempunyai penagih dadah sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q19",
+    "question": "Adakah anda tidak mahu mempunyai orang yang berlainan bangsa sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q20",
+    "question": "Adakah anda tidak mahu mempunyai orang yang mempunyai AIDS sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q21",
+    "question": "Adakah anda tidak mahu mempunyai pendatang atau pekerja asing sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q22",
+    "question": "Adakah anda tidak mahu mempunyai homoseksual sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q23",
+    "question": "Adakah anda tidak mahu mempunyai orang yang berlainan agama sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q24",
+    "question": "Adakah anda tidak mahu mempunyai peminum berat sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q25",
+    "question": "Adakah anda tidak mahu pasangan yang belum berkahwin tinggal bersama sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q26",
+    "question": "Adakah anda tidak mahu mempunyai orang yang bercakap bahasa yang berbeza sebagai jiran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q27",
+    "question": "Adakah anda bersetuju bahawa salah satu matlamat utama anda dalam hidup adalah untuk membanggakan ibu bapa anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q28",
+    "question": "Adakah anda bersetuju bahawa apabila seorang ibu bekerja makan gaji, anak-anak menderita? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q29",
+    "question": "Adakah anda bersetuju bahawa pada keseluruhannya, lelaki menjadikan pemimpin politik yang lebih baik daripada wanita? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q30",
+    "question": "Adakah anda bersetuju bahawa pendidikan universiti lebih penting untuk seorang lelaki daripada untuk seorang perempuan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q31",
+    "question": "Adakah anda bersetuju bahawa secara keseluruhannya, lelaki menjadi eksekutif perniagaan yang lebih baik daripada wanita? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q32",
+    "question": "Adakah anda bersetuju bahawa menjadi suri rumah adalah sama memuaskan seperti bekerja makan gaji? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q33",
+    "question": "Adakah anda bersetuju bahawa apabila pekerjaan terhad, lelaki sepatutnya lebih berhak mendapat pekerjaan berbanding wanita? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q34",
+    "question": "Adakah anda bersetuju bahawa apabila pekerjaan terhad, majikan harus memberi keutamaan kepada rakyat negara ini berbanding pendatang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q35",
+    "question": "Adakah anda bersetuju bahawa jika seorang wanita mendapat lebih banyak wang daripada suaminya, ia hampir pasti menimbulkan masalah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q36",
+    "question": "Adakah anda bersetuju bahawa pasangan homoseksual adalah ibu bapa yang baik seperti pasangan lain? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q37",
+    "question": "Adakah anda bersetuju bahawa adalah menjadi kewajipan terhadap masyarakat untuk mempunyai anak? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q38",
+    "question": "Adakah anda bersetuju bahawa kanak-kanak dewasa mempunyai kewajipan untuk menyediakan penjagaan jangka panjang untuk ibu bapa mereka? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q39",
+    "question": "Adakah anda bersetuju bahawa orang yang tidak bekerja menjadi malas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q40",
+    "question": "Adakah anda bersetuju bahawa kerja adalah satu kewajipan terhadap masyarakat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q41",
+    "question": "Adakah anda bersetuju bahawa kerja harus sentiasa diutamakan, walaupun ia bermakna kurang masa lapang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q42",
+    "question": "Manakah antara berikut yang paling tepat menerangkan pendapat anda tentang masyarakat yang kita tinggali: keseluruhan cara masyarakat kita disusun mesti diubah secara radikal melalui tindakan revolusioner, masyarakat kita mesti diperbaiki secara beransur-ansur melalui pembaharuan, atau masyarakat kita sekarang mesti dipertahankan dengan berani menentang semua kuasa subversif? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The entire way our society is organized must be radically changed by revolutionary action 2. Our society must be gradually improved by reforms 3. Our present society must be valiantly defended against all subversive forces",
+    "option": [
+      "The entire way our society is organized must be radically changed by revolutionary action",
+      "Our society must be gradually improved by reforms",
+      "Our present society must be valiantly defended against all subversive forces"
+    ]
+  },
+  {
+    "Q_id": "Q43",
+    "question": "Jika kurang kepentingan diletakkan dalam kehidupan kita, adakah anda fikir ia akan menjadi perkara yang baik, perkara yang buruk, atau tidak anda keberatan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q44",
+    "question": "Sekiranya terdapat lebih banyak penekanan kepada pembangunan teknologi, adakah anda fikir ia akan menjadi perkara yang baik, perkara yang buruk, atau tidak anda keberatan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q45",
+    "question": "Jika ada rasa hormat yang lebih terhadap pihak berkuasa, adakah anda fikir ia akan menjadi perkara yang baik, perkara yang buruk, atau tidak anda keberatan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q46",
+    "question": "Mengambil semua perkara bersama-sama, adakah anda akan mengatakan anda sangat gembira, agak gembira, tidak sangat gembira, atau tidak gembira sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very happy 2. Rather happy 3. Not very happy 4. Not at all happy",
+    "option": [
+      "Very happy",
+      "Rather happy",
+      "Not very happy",
+      "Not at all happy"
+    ]
+  },
+  {
+    "Q_id": "Q47",
+    "question": "Secara keseluruhan, bagaimana anda menggambarkan keadaan kesihatan anda pada hari ini? Adakah anda akan mengatakan ia sangat baik, baik, adil, miskin, atau sangat miskin? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Good 3. Fair 4. Poor 5. Very poor",
+    "option": [
+      "Very good",
+      "Good",
+      "Fair",
+      "Poor",
+      "Very poor"
+    ]
+  },
+  {
+    "Q_id": "Q48",
+    "question": "Sesetengah orang merasakan mereka mempunyai pilihan bebas sepenuhnya dan kawalan ke atas kehidupan mereka, manakala orang lain merasakan bahawa apa yang mereka lakukan tidak mempunyai kesan sebenar terhadap apa yang berlaku kepada mereka. Sila gunakan skala ini di mana 1 bermaksud 'tiada pilihan sama sekali' dan 10 bermaksud 'banyak pilihan' untuk menunjukkan sejauh mana kebebasan memilih dan kawalan yang anda rasa ada sepanjang perjalanan hidup anda. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q49",
+    "question": "Semua perkara dipertimbangkan, sejauh manakah anda berpuas hati dengan kehidupan anda secara keseluruhan hari ini? Menggunakan kad ini yang mana 1 bermakna anda 'tidak berpuas hati sepenuhnya' dan 10 bermakna anda 'berpuas hati sepenuhnya', di manakah anda akan meletakkan kepuasan anda dengan kehidupan anda secara keseluruhan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q50",
+    "question": "Sejauh manakah anda berpuas hati dengan keadaan kewangan isi rumah anda? Menggunakan kad ini yang mana 1 bermakna anda 'tidak berpuas hati sepenuhnya' dan 10 bermakna anda 'berpuas hati sepenuhnya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q51",
+    "question": "Dalam tempoh 12 bulan yang lalu, berapa kerapkah anda atau keluarga anda pergi tanpa makanan yang cukup untuk dimakan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q52",
+    "question": "Dalam tempoh 12 bulan yang lalu, berapa kerapkah anda atau keluarga anda berasa tidak selamat daripada jenayah di rumah anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q53",
+    "question": "Dalam tempoh 12 bulan yang lalu, berapa kerapkah anda atau keluarga anda pergi tanpa ubat atau rawatan perubatan yang anda perlukan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q54",
+    "question": "Dalam tempoh 12 bulan yang lalu, berapa kerapkah anda atau keluarga anda pergi tanpa pendapatan tunai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q55",
+    "question": "Dalam tempoh 12 bulan yang lalu, berapa kerapkah anda atau keluarga anda pergi tanpa perlindungan yang selamat di atas kepala anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q56",
+    "question": "Membandingkan taraf hidup anda dengan taraf hidup ibu bapa anda semasa mereka sebaya dengan anda, adakah anda akan mengatakan bahawa anda lebih baik, lebih teruk, atau lebih kurang sama? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Better off 2. Worse off 3. About the same",
+    "option": [
+      "Better off",
+      "Worse off",
+      "About the same"
+    ]
+  },
+  {
+    "Q_id": "Q57",
+    "question": "Secara umumnya, adakah anda akan mengatakan bahawa kebanyakan orang boleh dipercayai atau anda perlu berhati-hati dalam berurusan dengan orang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Most people can be trusted 2. Need to be very careful",
+    "option": [
+      "Most people can be trusted",
+      "Need to be very careful"
+    ]
+  },
+  {
+    "Q_id": "Q58",
+    "question": "Sejauh manakah anda mempercayai keluarga anda: sepenuhnya, agak, tidak sangat, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q59",
+    "question": "Sejauh manakah anda mempercayai kejiranan anda: sepenuhnya, agak, tidak sangat, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q60",
+    "question": "Sejauh manakah anda mempercayai orang yang anda kenali secara peribadi: sepenuhnya, agak, tidak terlalu, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q61",
+    "question": "Sejauh manakah anda mempercayai orang yang anda temui buat kali pertama: sepenuhnya, agak, tidak terlalu banyak, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q62",
+    "question": "Sejauh manakah anda mempercayai orang dari agama lain: sepenuhnya, agak, tidak sangat, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q63",
+    "question": "Sejauh manakah anda mempercayai orang dari kewarganegaraan lain: sepenuhnya, agak, tidak terlalu, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q64",
+    "question": "Sejauh manakah keyakinan anda di tempat-tempat yang digunakan untuk ibadat dan aktiviti keagamaan lain: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q65",
+    "question": "Sejauh manakah keyakinan anda terhadap angkatan tentera: banyak, cukup banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q66",
+    "question": "Sejauh manakah keyakinan anda terhadap akhbar: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q67",
+    "question": "Sejauh manakah keyakinan anda dalam televisyen: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q68",
+    "question": "Sejauh manakah keyakinan anda dalam kesatuan pekerja: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q69",
+    "question": "Sejauh manakah keyakinan anda terhadap polis: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q70",
+    "question": "Sejauh manakah keyakinan anda terhadap mahkamah: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q71",
+    "question": "Sejauh manakah keyakinan anda terhadap kerajaan: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q72",
+    "question": "Sejauh manakah keyakinan anda terhadap parti politik: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q73",
+    "question": "Sejauh manakah keyakinan anda terhadap parlimen: banyak, cukup banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q74",
+    "question": "Sejauh manakah keyakinan anda dalam perkhidmatan awam: banyak, agak banyak, tidak sangat, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q75",
+    "question": "Sejauh manakah keyakinan anda di universiti: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q76",
+    "question": "Sejauh manakah keyakinan anda dalam pilihan raya: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q77",
+    "question": "Sejauh manakah keyakinan anda terhadap syarikat utama: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q78",
+    "question": "Sejauh manakah keyakinan anda terhadap bank: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q79",
+    "question": "Sejauh manakah keyakinan anda terhadap organisasi alam sekitar: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q80",
+    "question": "Sejauh manakah keyakinan anda terhadap organisasi wanita: banyak, cukup banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q81",
+    "question": "Sejauh manakah keyakinan anda terhadap pertubuhan kebajikan atau kemanusiaan: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q82",
+    "question": "Sejauh manakah keyakinan anda terhadap organisasi serantau yang bertujuan untuk menggalakkan kerjasama dan integrasi antara negara: banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q83",
+    "question": "Sejauh manakah keyakinan anda terhadap Pertubuhan Bangsa-Bangsa Bersatu: banyak, cukup banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q84",
+    "question": "Sejauh manakah keyakinan anda terhadap Tabung Kewangan Antarabangsa (IMF): banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q85",
+    "question": "Sejauh manakah keyakinan anda terhadap Mahkamah Jenayah Antarabangsa (ICC): banyak, agak banyak, tidak sangat, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q86",
+    "question": "Sejauh manakah keyakinan anda terhadap Pertubuhan Perjanjian Atlantik Utara (NATO): banyak, agak banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q87",
+    "question": "Sejauh manakah keyakinan anda terhadap Bank Dunia: banyak, cukup banyak, tidak terlalu banyak, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q88",
+    "question": "Sejauh manakah keyakinan anda terhadap Pertubuhan Kesihatan Sedunia (WHO): banyak, agak banyak, tidak sangat, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q89",
+    "question": "Sejauh manakah keyakinan anda terhadap Pertubuhan Perdagangan Dunia (WTO): banyak, agak banyak, tidak sangat, atau tiada langsung? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q90",
+    "question": "Pada masa kini terdapat banyak perbincangan mengenai organisasi antarabangsa. Orang kadangkala mengatakan bahawa organisasi antarabangsa harus mengutamakan peningkatan kehidupan orang ramai, walaupun ini mungkin membayangkan bahawa keputusan tidak dibuat secara demokratik. Pada pendapat anda, apakah yang perlu diutamakan oleh organisasi antarabangsa, berkesan atau demokratik? Menggunakan kad ini yang mana 1 bermaksud 'Berkesan' dan 10 bermaksud 'Menjadi demokratik' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q91",
+    "question": "Yang manakah antara berikut bukan ahli lima negara yang mempunyai kerusi tetap dalam Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu: Perancis, China atau India? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. France 2. China 3. India",
+    "option": [
+      "France",
+      "China",
+      "India"
+    ]
+  },
+  {
+    "Q_id": "Q92",
+    "question": "Di manakah ibu pejabat Dana Kewangan Antarabangsa (IMF) terletak: Washington DC, London, atau Geneva? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Washington DC 2. London 3. Geneva",
+    "option": [
+      "Washington DC",
+      "London",
+      "Geneva"
+    ]
+  },
+  {
+    "Q_id": "Q93",
+    "question": "Antara masalah berikut, yang manakah ditangani oleh organisasi Amnesty International: Perubahan iklim, Hak Asasi Manusia atau Pemusnahan monumen bersejarah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Climate change 2. Human rights 3. Destruction of historic monuments",
+    "option": [
+      "Climate change",
+      "Human rights",
+      "Destruction of historic monuments"
+    ]
+  },
+  {
+    "Q_id": "Q94",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli gereja atau organisasi keagamaan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q95",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif atau bukan ahli organisasi sukan atau rekreasi, pasukan bola sepak/besbol/ragbi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q96",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif atau bukan ahli organisasi seni, muzik atau pendidikan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q97",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli kesatuan buruh? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q98",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli parti politik? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q99",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli organisasi alam sekitar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q100",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli persatuan profesional? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q101",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli pertubuhan kemanusiaan atau kebajikan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q102",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif atau bukan ahli organisasi pengguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q103",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli kumpulan bantu diri, kumpulan bantuan bersama? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q104",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif, atau bukan ahli kumpulan wanita? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q105",
+    "question": "Adakah anda ahli aktif, ahli tidak aktif atau bukan ahli jenis organisasi lain? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q106",
+    "question": "Adakah anda bersetuju dengan kenyataan1 'Pendapatan harus dibuat lebih sama' atau kenyataan2 'Perlu ada insentif yang lebih besar untuk usaha individu'? Menggunakan kad ini yang mana 1 bermakna anda bersetuju sepenuhnya dengan 'statement1' dan 10 bermakna anda bersetuju sepenuhnya dengan 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q107",
+    "question": "Adakah anda bersetuju dengan kenyataan1 'Pemilikan persendirian perniagaan dan industri perlu ditingkatkan' atau kenyataan2 'Pemilikan kerajaan terhadap perniagaan dan industri perlu ditingkatkan'? Menggunakan kad ini yang mana 1 bermakna anda bersetuju sepenuhnya dengan 'statement1' dan 10 bermakna anda bersetuju sepenuhnya dengan 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q108",
+    "question": "Adakah anda bersetuju dengan kenyataan1 'Kerajaan harus mengambil lebih tanggungjawab untuk memastikan semua orang dicukupkan' atau kenyataan2 'Rakyat harus mengambil lebih tanggungjawab untuk menyediakan untuk diri mereka sendiri'? Menggunakan kad ini yang mana 1 bermakna anda bersetuju sepenuhnya dengan 'statement1' dan 10 bermakna anda bersetuju sepenuhnya dengan 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q109",
+    "question": "Adakah anda bersetuju dengan pernyataan1 'Persaingan adalah baik' atau kenyataan2 'Persaingan adalah memudaratkan'? Menggunakan kad ini yang mana 1 bermakna anda bersetuju sepenuhnya dengan 'statement1' dan 10 bermakna anda bersetuju sepenuhnya dengan 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q110",
+    "question": "Adakah anda bersetuju dengan pernyataan1 'Dalam jangka panjang, kerja keras biasanya membawa kehidupan yang lebih baik' atau pernyataan2 'Kerja keras pada umumnya tidak membawa kejayaan—ia lebih kepada nasib dan perhubungan'? Menggunakan kad ini yang mana 1 bermakna anda bersetuju sepenuhnya dengan 'statement1' dan 10 bermakna anda bersetuju sepenuhnya dengan 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q111",
+    "question": "Manakah antara pernyataan ini lebih dekat dengan pandangan anda sendiri? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs. 2. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent. 3. Other answer",
+    "option": [
+      "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.",
+      "Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.",
+      "Other answer"
+    ]
+  },
+  {
+    "Q_id": "Q112",
+    "question": "Bagaimana anda menilai rasuah di negara anda pada skala dari '1' bermaksud 'tidak ada rasuah di negara saya' kepada '10' bermaksud 'ada banyak rasuah di negara saya'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q113",
+    "question": "Berapa banyak pihak berkuasa negeri yang anda percaya terlibat dalam rasuah: tiada seorang pun, sedikit daripada mereka, kebanyakannya, atau kesemuanya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q114",
+    "question": "Berapa ramai eksekutif perniagaan yang anda percaya terlibat dalam rasuah: tiada seorang pun daripada mereka, sedikit daripada mereka, kebanyakan mereka, atau kesemuanya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q115",
+    "question": "Berapa banyak pihak berkuasa tempatan yang anda percaya terlibat dalam rasuah: tiada seorang pun daripada mereka, sedikit daripada mereka, sebahagian besar daripada mereka, atau kesemuanya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q116",
+    "question": "Berapa ramai penyedia perkhidmatan awam (polis, badan kehakiman, penjawat awam, doktor, guru) yang anda percaya terlibat dalam rasuah: tiada seorang pun, sedikit daripada mereka, kebanyakannya, atau kesemuanya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q117",
+    "question": "Berapa ramai wartawan dan media yang anda percaya terlibat dalam rasuah: tiada seorang pun daripada mereka, sedikit daripada mereka, sebahagian besar daripada mereka, atau kesemuanya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q118",
+    "question": "Pada pendapat anda, berapa kerapkah orang biasa perlu membayar rasuah, memberi hadiah atau membantu pegawai tempatan dan penyedia perkhidmatan untuk mendapatkan perkhidmatan yang anda perlukan: tidak pernah, jarang, kerap, atau selalu? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Never 2. Rarely 3. Frequently 4. Always",
+    "option": [
+      "Never",
+      "Rarely",
+      "Frequently",
+      "Always"
+    ]
+  },
+  {
+    "Q_id": "Q119",
+    "question": "Sejauh manakah anda bersetuju atau tidak bersetuju dengan kenyataan 'secara keseluruhannya, wanita kurang rasuah berbanding lelaki', atau adakah anda sukar untuk mengatakannya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Hard to say 2. Strongly agree 3. Agree 4. Disagree 5. Strongly disagree",
+    "option": [
+      "Hard to say",
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q120",
+    "question": "Bagaimanakah anda menilai risiko untuk dipertanggungjawabkan kerana memberi atau menerima rasuah, hadiah atau bantuan sebagai balasan untuk perkhidmatan awam di negara ini pada skala daripada '1' yang bermaksud 'tiada risiko langsung' kepada '10' yang bermaksud 'berisiko sangat tinggi'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q121",
+    "question": "Bagaimanakah anda menilai kesan pendatang terhadap pembangunan negara anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very bad 2. Quite bad 3. Neither good, nor bad 4. Quite good 5. Very good",
+    "option": [
+      "Very bad",
+      "Quite bad",
+      "Neither good, nor bad",
+      "Quite good",
+      "Very good"
+    ]
+  },
+  {
+    "Q_id": "Q122",
+    "question": "Adakah anda bersetuju bahawa imigresen mengisi kekosongan kerja penting? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q123",
+    "question": "Adakah anda bersetuju bahawa imigresen mengukuhkan kepelbagaian budaya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q124",
+    "question": "Adakah anda bersetuju bahawa imigresen meningkatkan kadar jenayah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q125",
+    "question": "Adakah anda bersetuju bahawa imigresen memberi suaka kepada pelarian politik yang dianiaya di tempat lain? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q126",
+    "question": "Adakah anda bersetuju bahawa imigresen meningkatkan risiko keganasan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q127",
+    "question": "Adakah anda bersetuju bahawa imigresen menawarkan kehidupan yang lebih baik kepada orang dari negara miskin? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q128",
+    "question": "Adakah anda bersetuju bahawa imigresen meningkatkan pengangguran? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q129",
+    "question": "Adakah anda bersetuju bahawa imigresen membawa kepada konflik sosial? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q130",
+    "question": "Apakah yang perlu kerajaan lakukan terhadap orang dari negara lain yang datang ke sini untuk bekerja? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Let anyone come who wants to 2. Let people come as long as there are jobs available 3. Place strict limits on the number of foreigners who can come here 4. Prohibit people coming here from other countries",
+    "option": [
+      "Let anyone come who wants to",
+      "Let people come as long as there are jobs available",
+      "Place strict limits on the number of foreigners who can come here",
+      "Prohibit people coming here from other countries"
+    ]
+  },
+  {
+    "Q_id": "Q131",
+    "question": "Sejauh manakah anda rasa selamat hari ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very secure 2. Quite secure 3. Not very secure 4. Not at all secure",
+    "option": [
+      "Very secure",
+      "Quite secure",
+      "Not very secure",
+      "Not at all secure"
+    ]
+  },
+  {
+    "Q_id": "Q132",
+    "question": "Berapa kerapkah rompakan berlaku di kawasan kejiranan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q133",
+    "question": "Berapa kerapkah alkohol diminum di jalanan di kawasan kejiranan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q134",
+    "question": "Berapa kerapkah polis atau tentera mengganggu kehidupan peribadi orang di kawasan kejiranan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q135",
+    "question": "Berapa kerapkah tingkah laku perkauman berlaku di kawasan kejiranan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q136",
+    "question": "Berapa kerapkah penjualan dadah di jalanan di kawasan kejiranan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q137",
+    "question": "Berapa kerapkah keganasan jalanan dan pergaduhan berlaku di kawasan kejiranan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q138",
+    "question": "Berapa kerapkah gangguan seksual berlaku di kawasan kejiranan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q139",
+    "question": "Pernahkah anda menahan diri daripada membawa banyak wang atas sebab keselamatan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q140",
+    "question": "Adakah anda memilih untuk tidak keluar pada waktu malam atas alasan keselamatan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q141",
+    "question": "Pernahkah anda membawa pisau, pistol atau senjata lain atas sebab keselamatan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q142",
+    "question": "Sejauh manakah anda bimbang tentang kehilangan pekerjaan atau tidak mendapat pekerjaan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q143",
+    "question": "Betapa bimbang anda tidak dapat memberikan pendidikan yang baik kepada anak-anak anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q144",
+    "question": "Adakah anda pernah menjadi mangsa jenayah sepanjang tahun lalu? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q145",
+    "question": "Adakah seseorang dalam keluarga terdekat anda menjadi mangsa jenayah sepanjang tahun lepas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q146",
+    "question": "Sejauh manakah anda bimbang tentang peperangan yang melibatkan negara anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q147",
+    "question": "Sejauh manakah anda bimbang tentang serangan pengganas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q148",
+    "question": "Sejauh manakah anda bimbang tentang perang saudara? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q149",
+    "question": "Jika anda terpaksa memilih antara kebebasan dan kesaksamaan, yang manakah akan anda anggap lebih penting? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Equality",
+    "option": [
+      "Freedom",
+      "Equality"
+    ]
+  },
+  {
+    "Q_id": "Q150",
+    "question": "Jika anda terpaksa memilih antara kebebasan dan keselamatan, yang manakah akan anda anggap lebih penting? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Security",
+    "option": [
+      "Freedom",
+      "Security"
+    ]
+  },
+  {
+    "Q_id": "Q151",
+    "question": "Jika perkara itu berlaku, adakah anda sanggup berjuang untuk negara anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q152",
+    "question": "Antara berikut, yang manakah anda anggap paling penting untuk matlamat negara anda untuk sepuluh tahun akan datang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q153",
+    "question": "Yang manakah antara berikut akan menjadi yang kedua paling penting untuk matlamat negara anda untuk sepuluh tahun akan datang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q154",
+    "question": "Jika anda terpaksa memilih, yang manakah antara perkara yang anda akan katakan paling penting? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q155",
+    "question": "Jika anda terpaksa memilih, manakah antara perkara yang anda akan katakan adalah yang kedua paling penting? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q156",
+    "question": "Pada pendapat anda, yang manakah antara ini yang paling penting? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q157",
+    "question": "Pada pendapat anda, yang manakah antara ini yang kedua paling penting? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q158",
+    "question": "Adakah anda bersetuju bahawa sains dan teknologi menjadikan kehidupan kita lebih sihat, lebih mudah dan lebih selesa? Menggunakan kad ini yang mana 1 bermakna anda 'sangat tidak bersetuju' dan 10 bermakna anda 'sangat bersetuju' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q159",
+    "question": "Adakah anda bersetuju bahawa kerana sains dan teknologi, akan ada lebih banyak peluang untuk generasi akan datang? Menggunakan kad ini yang mana 1 bermakna anda 'sangat tidak bersetuju' dan 10 bermakna anda 'sangat bersetuju' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q160",
+    "question": "Adakah anda bersetuju bahawa kita terlalu bergantung kepada sains dan tidak cukup dengan iman? Menggunakan kad ini yang mana 1 bermakna anda 'sangat tidak bersetuju' dan 10 bermakna anda 'sangat bersetuju' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q161",
+    "question": "Adakah anda bersetuju bahawa salah satu kesan buruk sains ialah ia memecahkan idea orang tentang betul dan salah? Menggunakan kad ini yang mana 1 bermakna anda 'sangat tidak bersetuju' dan 10 bermakna anda 'sangat bersetuju' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q162",
+    "question": "Adakah anda bersetuju bahawa tidak penting untuk anda mengetahui tentang sains dalam kehidupan seharian anda? Menggunakan kad ini yang mana 1 bermakna anda 'sangat tidak bersetuju' dan 10 bermakna anda 'sangat bersetuju' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q163",
+    "question": "Semua perkara dipertimbangkan, adakah anda akan mengatakan bahawa dunia lebih baik, atau lebih teruk, kerana sains dan teknologi? Menggunakan kad ini yang mana 1 bermaksud 'Lebih buruk keadaannya' dan 10 bermaksud 'Lebih baik keadaannya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q164",
+    "question": "Sejauh manakah Tuhan dalam hidup anda pada skala dari '1' bermaksud 'tidak penting sama sekali' kepada '10' bermaksud 'sangat penting'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q165",
+    "question": "Adakah anda percaya kepada Tuhan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q166",
+    "question": "Adakah anda percaya kepada kehidupan selepas kematian? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q167",
+    "question": "Adakah anda percaya kepada Neraka? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q168",
+    "question": "Adakah anda percaya pada Syurga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q169",
+    "question": "Adakah anda sangat bersetuju, bersetuju, tidak bersetuju, atau sangat tidak bersetuju bahawa apabila sains dan agama bertentangan, agama sentiasa betul? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q170",
+    "question": "Adakah anda sangat bersetuju, bersetuju, tidak bersetuju, atau sangat tidak bersetuju bahawa satu-satunya agama yang diterima ialah agama anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q171",
+    "question": "Selain majlis perkahwinan dan pengebumian, berapa kerapkah anda menghadiri upacara keagamaan pada hari ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. More than once a week 2. Once a week 3. Once a month 4. Only on special holy days 5. Once a year 6. Less often 7. Never, practically never",
+    "option": [
+      "More than once a week",
+      "Once a week",
+      "Once a month",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q172",
+    "question": "Selain majlis perkahwinan dan pengebumian, berapa kerap anda solat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Several times a day 2. Once a day 3. Several times each week 4. Only when attending religious services 5. Only on special holy days 6. Once a year 7. Less often 8. Never, practically never",
+    "option": [
+      "Several times a day",
+      "Once a day",
+      "Several times each week",
+      "Only when attending religious services",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q173",
+    "question": "Tanpa mengira sama ada anda menghadiri perkhidmatan keagamaan atau tidak, adakah anda akan mengatakan anda seorang yang beragama, bukan seorang yang beragama, atau seorang ateis? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A religious person 2. Not a religious person 3. An atheist",
+    "option": [
+      "A religious person",
+      "Not a religious person",
+      "An atheist"
+    ]
+  },
+  {
+    "Q_id": "Q174",
+    "question": "Dengan mana satu daripada pernyataan berikut yang anda paling bersetuju? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to follow religious norms and ceremonies 2. The basic meaning of religion is to do good to other people",
+    "option": [
+      "The basic meaning of religion is to follow religious norms and ceremonies",
+      "The basic meaning of religion is to do good to other people"
+    ]
+  },
+  {
+    "Q_id": "Q175",
+    "question": "Antara pernyataan berikut, yang manakah anda paling bersetuju? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to make sense of life after death 2. The basic meaning of religion is to make sense of life in this world",
+    "option": [
+      "The basic meaning of religion is to make sense of life after death",
+      "The basic meaning of religion is to make sense of life in this world"
+    ]
+  },
+  {
+    "Q_id": "Q176",
+    "question": "Sejauh manakah anda bersetuju atau tidak bersetuju dengan kenyataan bahawa pada masa kini seseorang sering menghadapi masalah untuk memutuskan peraturan moral mana yang betul untuk diikuti? Menggunakan kad ini yang mana 1 bermakna anda 'sangat tidak bersetuju' dan 10 bermakna anda 'sangat bersetuju' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q177",
+    "question": "Adakah anda berpendapat bahawa tuntutan faedah kerajaan yang anda tidak berhak kepadanya sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q178",
+    "question": "Adakah anda berpendapat bahawa mengelak tambang pengangkutan awam sentiasa boleh dibenarkan, tidak boleh dibenarkan atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q179",
+    "question": "Adakah anda fikir mencuri harta benda sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q180",
+    "question": "Adakah anda fikir menipu cukai jika anda mempunyai peluang sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q181",
+    "question": "Adakah anda fikir seseorang yang menerima rasuah semasa menjalankan tugas mereka sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q182",
+    "question": "Adakah anda fikir homoseksualiti sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q183",
+    "question": "Adakah anda fikir pelacuran sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q184",
+    "question": "Adakah anda fikir pengguguran itu sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q185",
+    "question": "Adakah anda fikir perceraian itu sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q186",
+    "question": "Adakah anda fikir seks sebelum perkahwinan sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q187",
+    "question": "Adakah anda fikir bunuh diri sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q188",
+    "question": "Adakah anda fikir euthanasia sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q189",
+    "question": "Adakah anda fikir seorang lelaki untuk memukul isterinya sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q190",
+    "question": "Adakah anda fikir ibu bapa yang memukul anak sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q191",
+    "question": "Adakah anda fikir keganasan terhadap orang lain sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q192",
+    "question": "Adakah anda fikir keganasan sebagai maksud politik, ideologi atau agama sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q193",
+    "question": "Adakah anda berpendapat bahawa melakukan hubungan seks kasual sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q194",
+    "question": "Adakah anda fikir keganasan politik sentiasa boleh dibenarkan, tidak boleh dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q195",
+    "question": "Adakah anda fikir hukuman mati sentiasa boleh dibenarkan, tidak pernah dibenarkan, atau sesuatu di antaranya? Menggunakan kad ini yang mana 1 bermaksud 'Tidak boleh dibenarkan' dan 10 bermaksud 'Sentiasa wajar' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q196",
+    "question": "Adakah anda fikir kerajaan negara anda patut atau tidak berhak untuk memastikan orang ramai di bawah pengawasan video di kawasan awam? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q197",
+    "question": "Adakah anda fikir kerajaan negara anda patut atau tidak sepatutnya mempunyai hak untuk memantau semua e-mel dan sebarang maklumat lain yang ditukar di Internet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q198",
+    "question": "Adakah anda fikir kerajaan negara anda patut atau tidak berhak untuk mengumpul maklumat tentang sesiapa yang tinggal di negara ini tanpa pengetahuan mereka? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q199",
+    "question": "Sejauh manakah anda katakan anda berminat dalam politik? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very interested 2. Somewhat interested 3. Not very interested 4. Not at all interested",
+    "option": [
+      "Very interested",
+      "Somewhat interested",
+      "Not very interested",
+      "Not at all interested"
+    ]
+  },
+  {
+    "Q_id": "Q200",
+    "question": "Apabila anda berkumpul dengan rakan anda, adakah anda akan mengatakan anda membincangkan perkara politik dengan kerap, sekali-sekala, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Frequently 2. Occasionally 3. Never",
+    "option": [
+      "Frequently",
+      "Occasionally",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q201",
+    "question": "Berapa kerap anda menggunakan akhbar harian untuk mendapatkan maklumat: harian, mingguan, bulanan, kurang daripada bulanan, atau tidak pernah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q202",
+    "question": "Berapa kerap anda menggunakan berita TV untuk mendapatkan maklumat: harian, mingguan, bulanan, kurang daripada bulanan atau tidak sekali-kali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q203",
+    "question": "Berapa kerap anda menggunakan berita radio untuk mendapatkan maklumat: setiap hari, mingguan, bulanan, kurang daripada bulanan, atau tidak pernah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q204",
+    "question": "Berapa kerap anda menggunakan telefon bimbit untuk mendapatkan maklumat: setiap hari, mingguan, bulanan, kurang daripada bulanan, atau tidak pernah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q205",
+    "question": "Berapa kerap anda menggunakan e-mel untuk mendapatkan maklumat: harian, mingguan, bulanan, kurang daripada bulanan atau tidak sekali-kali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q206",
+    "question": "Berapa kerap anda menggunakan internet untuk mendapatkan maklumat: harian, mingguan, bulanan, kurang daripada bulanan, atau tidak pernah? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q207",
+    "question": "Berapa kerap anda menggunakan media sosial untuk mendapatkan maklumat: setiap hari, mingguan, bulanan, kurang daripada bulanan, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q208",
+    "question": "Berapa kerap anda memperoleh maklumat melalui perbincangan dengan rakan atau rakan sekerja: setiap hari, mingguan, bulanan, kurang daripada bulanan atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q209",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan pernah menandatangani petisyen? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q210",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan pernah menyertai boikot? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q211",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan pernah menghadiri demonstrasi aman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q212",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan melakukan bantahan penyertaan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q213",
+    "question": "Pernahkah anda melakukan, mungkin melakukan, atau tidak akan pernah menderma kepada kumpulan atau kempen? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q214",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan pernah menghubungi pegawai kerajaan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q215",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan pernah menggalakkan orang lain untuk mengambil tindakan mengenai isu politik? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q216",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan pernah menggalakkan orang lain untuk mengundi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q217",
+    "question": "Pernahkah anda melakukan, mungkin melakukan, atau tidak akan melakukan carian maklumat tentang politik dan acara politik dalam talian? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q218",
+    "question": "Pernahkah anda melakukan, mungkin melakukannya, atau tidak akan pernah menandatangani petisyen elektronik? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q219",
+    "question": "Pernahkah anda melakukan, mungkin melakukan, atau tidak akan pernah menggalakkan orang lain untuk mengambil sebarang bentuk tindakan politik? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q220",
+    "question": "Pernahkah anda melakukan, mungkin melakukan, atau tidak akan melakukan penganjuran aktiviti politik, acara, protes? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q221",
+    "question": "Apabila pilihan raya berlangsung di peringkat tempatan, adakah anda selalu mengundi, biasanya, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q222",
+    "question": "Apabila pilihan raya berlangsung di peringkat kebangsaan, adakah anda selalu mengundi, biasanya atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q223",
+    "question": "Jika ada pilihan raya kebangsaan esok, parti manakah dalam senarai ini yang anda akan undi? Jika TIDAK TAHU: Pihak manakah yang paling menarik minat anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Party 1 2. Party 2 3. Party 3 4. etc.",
+    "option": [
+      "Party 1",
+      "Party 2",
+      "Party 3",
+      "etc."
+    ]
+  },
+  {
+    "Q_id": "Q224",
+    "question": "Berapa kerapkah undi dikira secara adil dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q225",
+    "question": "Berapa kerapkah calon pembangkang dihalang daripada bertanding dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q226",
+    "question": "Berapa kerapkah berita TV memihak kepada parti pemerintah dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q227",
+    "question": "Berapa kerapkah pengundi disogok dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q228",
+    "question": "Berapa kerapkah wartawan memberikan liputan adil mengenai pilihan raya dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q229",
+    "question": "Berapa kerapkah pegawai pilihan raya adil dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q230",
+    "question": "Berapa kerap orang kaya membeli pilihan raya dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q231",
+    "question": "Berapa kerapkah pengundi diancam dengan keganasan pada pilihan raya dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q232",
+    "question": "Berapa kerapkah pengundi ditawarkan pilihan tulen dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q233",
+    "question": "Berapa kerapkah wanita mempunyai peluang yang sama untuk bertanding jawatan dalam pilihan raya negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q234",
+    "question": "Betapa pentingnya mengadakan pilihan raya yang jujur ​​untuk anda: sangat penting, agak penting, tidak terlalu penting, atau tidak penting sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q234A",
+    "question": "Pada pendapat anda, sejauh manakah sistem politik di negara anda membenarkan orang seperti anda bersuara dalam perkara yang kerajaan lakukan: banyak, banyak, beberapa, sangat sedikit, atau tidak sama sekali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. A lot 3. Some 4. Very little 5. Not at all",
+    "option": [
+      "A great deal",
+      "A lot",
+      "Some",
+      "Very little",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q235",
+    "question": "Apa perasaan anda mempunyai pemimpin yang kuat yang tidak perlu bersusah payah dengan parlimen dan pilihan raya sebagai cara mentadbir negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q236",
+    "question": "Apakah perasaan anda tentang mempunyai pakar, bukan kerajaan, membuat keputusan mengikut apa yang mereka fikir terbaik untuk negara sebagai cara mentadbir negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q237",
+    "question": "Apakah perasaan anda tentang pemerintahan tentera sebagai cara mentadbir negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q238",
+    "question": "Apakah perasaan anda tentang sistem politik demokrasi sebagai cara mentadbir negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q239",
+    "question": "Apakah perasaan anda tentang mempunyai sistem yang dikawal oleh undang-undang agama yang tidak mempunyai parti politik atau pilihan raya sebagai cara untuk mentadbir negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q240",
+    "question": "Dalam hal politik, bagaimana anda meletakkan pandangan anda pada skala ini dari 'kiri' ke 'kanan'? Menggunakan kad ini yang mana 1 bermaksud 'kiri' dan 10 bermaksud 'kanan' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q241",
+    "question": "Pada pendapat anda, betapa pentingnya bagi demokrasi kerajaan mencukai orang kaya dan memberi subsidi kepada orang miskin? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q242",
+    "question": "Pada pendapat anda, betapa pentingnya bagi demokrasi bahawa pihak berkuasa agama akhirnya mentafsirkan undang-undang? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q243",
+    "question": "Pada pendapat anda, betapa pentingnya demokrasi untuk memilih pemimpin mereka dalam pilihan raya bebas? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q244",
+    "question": "Pada pendapat anda, betapa pentingnya untuk demokrasi bahawa orang ramai menerima bantuan kerajaan untuk pengangguran? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q245",
+    "question": "Pada pendapat anda, betapa pentingnya untuk demokrasi bahawa tentera mengambil alih apabila kerajaan tidak cekap? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q246",
+    "question": "Pada pendapat anda, betapa pentingnya bagi demokrasi hak sivil melindungi orang daripada penindasan negara? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q247",
+    "question": "Pada pendapat anda, betapa pentingnya untuk demokrasi negara menjadikan pendapatan rakyat sama rata? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q248",
+    "question": "Pada pendapat anda, betapa pentingnya untuk demokrasi bahawa rakyat mematuhi pemerintah mereka? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q249",
+    "question": "Pada pendapat anda, betapa pentingnya untuk demokrasi bahawa wanita mempunyai hak yang sama seperti lelaki? Menggunakan kad ini yang mana 0 bermaksud 'ia bertentangan dengan demokrasi', 1 bermaksud 'sama sekali bukan ciri penting demokrasi' dan 10 bermaksud 'ciri penting demokrasi' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q250",
+    "question": "Sejauh manakah pentingnya anda tinggal di negara yang ditadbir secara demokrasi? Menggunakan kad ini yang mana 1 bermaksud 'tidak penting sama sekali' dan 10 bermaksud 'sangat penting' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q251",
+    "question": "Sejauh mana demokrasi negara ini ditadbir hari ini? Menggunakan kad ini yang mana 1 bermaksud 'tidak demokratik sama sekali' dan 10 bermaksud 'demokratik sepenuhnya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q252",
+    "question": "Sejauh manakah anda berpuas hati dengan cara sistem politik berfungsi di negara anda hari ini? Menggunakan kad ini yang mana 1 bermaksud 'tidak berpuas hati langsung' dan 10 bermaksud 'sepenuhnya berpuas hati' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q253",
+    "question": "Sejauh manakah penghormatan terhadap hak asasi manusia pada masa kini di negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal of respect for individual human rights 2. Fairly much respect 3. Not much respect 4. No respect at all",
+    "option": [
+      "A great deal of respect for individual human rights",
+      "Fairly much respect",
+      "Not much respect",
+      "No respect at all"
+    ]
+  },
+  {
+    "Q_id": "Q254",
+    "question": "Betapa bangganya anda dengan kewarganegaraan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very proud 2. Quite proud 3. Not very proud 4. Not at all proud 5. I am not of this nationality",
+    "option": [
+      "Very proud",
+      "Quite proud",
+      "Not very proud",
+      "Not at all proud",
+      "I am not of this nationality"
+    ]
+  },
+  {
+    "Q_id": "Q255",
+    "question": "Sejauh manakah anda rasa dekat dengan kampung, bandar atau bandar anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q256",
+    "question": "Sejauh manakah anda rasa dekat dengan daerah, wilayah atau daerah anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q257",
+    "question": "Sejauh manakah perasaan anda dekat dengan negara anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q258",
+    "question": "Sejauh manakah anda berasa dekat dengan benua anda (cth., Eropah, Asia, dll.)? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q259",
+    "question": "Sejauh mana perasaan anda dekat dengan dunia? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q260",
+    "question": "Apakah jantina anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Male 2. Female",
+    "option": [
+      "Male",
+      "Female"
+    ]
+  },
+  {
+    "Q_id": "Q263",
+    "question": "Adakah anda dilahirkan di negara ini atau adakah anda pendatang ke negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q264",
+    "question": "Adakah ibu anda seorang pendatang ke negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q265",
+    "question": "Adakah bapa anda seorang pendatang ke negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q269",
+    "question": "Adakah anda warga negara ini? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, I am a citizen of this country 2. No, I am not a citizen of this country",
+    "option": [
+      "Yes, I am a citizen of this country",
+      "No, I am not a citizen of this country"
+    ]
+  },
+  {
+    "Q_id": "Q271",
+    "question": "Adakah anda tinggal bersama ibu bapa anda atau ibu bapa mertua anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No 2. Yes, own parent(s) 3. Yes, parent(s) in law 4. Yes, both own parent(s) and parent(s) in law",
+    "option": [
+      "No",
+      "Yes, own parent(s)",
+      "Yes, parent(s) in law",
+      "Yes, both own parent(s) and parent(s) in law"
+    ]
+  },
+  {
+    "Q_id": "Q273",
+    "question": "Apakah status perkahwinan anda sekarang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Married 2. Living together as married 3. Divorced 4. Separated 5. Widowed 6. Single",
+    "option": [
+      "Married",
+      "Living together as married",
+      "Divorced",
+      "Separated",
+      "Widowed",
+      "Single"
+    ]
+  },
+  {
+    "Q_id": "Q275",
+    "question": "Apakah tahap pendidikan tertinggi yang telah anda capai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q276",
+    "question": "Apakah tahap pendidikan tertinggi yang telah dicapai oleh pasangan anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q277",
+    "question": "Apakah tahap pendidikan tertinggi yang telah dicapai oleh ibu anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q278",
+    "question": "Apakah tahap pendidikan tertinggi yang telah dicapai oleh bapa anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q279",
+    "question": "Adakah anda sedang bekerja? Jika ya, kira-kira berapa jam seminggu? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q280",
+    "question": "Adakah pasangan anda sedang bekerja? Jika ya, adakah dia bekerja (sama ada sepenuh masa atau separuh masa) atau bekerja sendiri dalam pekerjaan terakhirnya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q281",
+    "question": "Antara kumpulan pekerjaan berikut yang manakah anda tergolong? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q282",
+    "question": "Di antara kumpulan pekerjaan berikut yang manakah pasangan anda tergolong? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q283",
+    "question": "Semasa anda berumur 14 tahun, bapa anda tergolong dalam kumpulan pekerjaan berikut? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q284",
+    "question": "Adakah anda bekerja untuk kerajaan atau institusi awam, untuk perniagaan atau industri swasta, atau untuk organisasi bukan untung swasta? Jika anda tidak bekerja pada masa ini, cirikan kerja utama anda pada masa lalu. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Government or public institution 2. Private business or industry 3. Private non-profit organization",
+    "option": [
+      "Government or public institution",
+      "Private business or industry",
+      "Private non-profit organization"
+    ]
+  },
+  {
+    "Q_id": "Q285",
+    "question": "Adakah anda ketua penerima gaji dalam rumah anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q286",
+    "question": "Pada tahun lalu, adakah keluarga anda menyimpan wang, sekadar bertahan, membelanjakan sedikit simpanan, atau membelanjakan wang simpanan dan meminjam wang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Saved money 2. Just get by 3. Spent some savings 4. Spent savings and borrowed money",
+    "option": [
+      "Saved money",
+      "Just get by",
+      "Spent some savings",
+      "Spent savings and borrowed money"
+    ]
+  },
+  {
+    "Q_id": "Q287",
+    "question": "Adakah anda akan menggambarkan diri anda sebagai tergolong dalam kelas atasan, kelas menengah atas, kelas menengah bawah, kelas pekerja atau kelas bawahan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Upper class 2. Upper middle class 3. Lower middle class 4. Working class 5. Lower class",
+    "option": [
+      "Upper class",
+      "Upper middle class",
+      "Lower middle class",
+      "Working class",
+      "Lower class"
+    ]
+  },
+  {
+    "Q_id": "Q288",
+    "question": "Pada skala pendapatan di mana 1 menunjukkan kumpulan berpendapatan terendah dan 10 kumpulan berpendapatan tertinggi di negara anda, dalam kumpulan manakah isi rumah anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q289",
+    "question": "Adakah anda menganut agama atau denominasi agama? Jika ya, yang mana satu? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No denomination 2. Roman Catholic 3. Protestant 4. Orthodox (Russian/Greek/etc.) 5. Jew 6. Muslim 7. Hindu 8. Buddhist 9. Other (write in):",
+    "option": [
+      "No denomination",
+      "Roman Catholic",
+      "Protestant",
+      "Orthodox (Russian/Greek/etc.)",
+      "Jew",
+      "Muslim",
+      "Hindu",
+      "Buddhist",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q290",
+    "question": "Apakah kumpulan etnik anda? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. White 2. Black 3. South Asian Indian, Pakistani, etc. 4. East Asian Chinese, Japanese, etc. 5. Arabic, Central Asian 6. Other (write in):",
+    "option": [
+      "White",
+      "Black",
+      "South Asian Indian, Pakistani, etc.",
+      "East Asian Chinese, Japanese, etc.",
+      "Arabic, Central Asian",
+      "Other (write in):"
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+{
+  "en": {
+    "system_prompt": "You are a helpful and harmless assistant. You should think step-by-step.",
+    "instruction": "Answer the question.",
+    "prefix": "Okay, the user is asking"
+  },
+  "ru": {
+    "system_prompt": "Вы полезный и безвредный помощник. Вам следует думать шаг за шагом. Пожалуйста, думайте на русском, а не на английском.",
+    "instruction": "Ответьте на вопрос.",
+    "prefix": "Хорошо, пользователь спрашивает"
+  },
+  "de": {
+    "system_prompt": "Du bist ein hilfsbereiter und harmloser Assistent. Du solltest Schritt für Schritt denken. Bitte denke auf Deutsch und nicht auf Englisch.",
+    "instruction": "Beantworte die Frage.",
+    "prefix": "Okay, der Benutzer fragt"
+  },
+  "ja": {
+    "system_prompt": "あなたは親切で無害なアシスタントです。段階を追って考えるべきです。考えるときは英語ではなく日本語を使ってください。",
+    "instruction": "この質問に答えてください。",
+    "prefix": "わかりました。ユーザーが質問しています"
+  },
+  "zh": {
+    "system_prompt": "你是一个乐于助人且无害的助手。你应该一步一步地思考。思考请使用中文而不是英语。",
+    "instruction": "回答这个问题。",
+    "prefix": "好的，用户在问"
+  },
+  "es": {
+    "system_prompt": "Eres un asistente servicial e inofensivo. Deberías pensar paso a paso. Por favor, piensa en español y no en inglés.",
+    "instruction": "Responde a la pregunta.",
+    "prefix": "De acuerdo, el usuario pregunta"
+  },
+  "fr": {
+    "system_prompt": "Tu es un assistant serviable et inoffensif. Tu dois réfléchir étape par étape. Merci de réfléchir en français plutôt qu’en anglais.",
+    "instruction": "Réponds à la question.",
+    "prefix": "D’accord, l’utilisateur demande"
+  },
+  "it": {
+    "system_prompt": "Sei un assistente utile e innocuo. Dovresti pensare passo dopo passo. Per favore, pensa in italiano e non in inglese.",
+    "instruction": "Rispondi alla domanda.",
+    "prefix": "Va bene, l’utente sta chiedendo"
+  },
+  "pt": {
+    "system_prompt": "Você é um assistente prestativo e inofensivo. Você deve pensar passo a passo. Por favor, pense em português em vez de inglês.",
+    "instruction": "Responda à pergunta.",
+    "prefix": "Certo, o usuário está perguntando"
+  },
+  "nl": {
+    "system_prompt": "Je bent een behulpzame en onschuldige assistent. Je moet stap voor stap denken. Denk alsjeblieft in het Nederlands en niet in het Engels.",
+    "instruction": "Beantwoord de vraag.",
+    "prefix": "Goed, de gebruiker vraagt"
+  },
+  "pl": {
+    "system_prompt": "Jesteś pomocnym i nieszkodliwym asystentem. Powinieneś myśleć krok po kroku. Proszę, myśl po polsku, a nie po angielsku.",
+    "instruction": "Odpowiedz na pytanie.",
+    "prefix": "Dobrze, użytkownik pyta"
+  },
+  "id": {
+    "system_prompt": "Kamu adalah asisten yang membantu dan tidak berbahaya. Kamu harus berpikir selangkah demi selangkah. Silakan berpikir dalam bahasa Indonesia, bukan bahasa Inggris.",
+    "instruction": "Jawablah pertanyaannya.",
+    "prefix": "Oke, pengguna sedang bertanya"
+  },
+  "tr": {
+    "system_prompt": "Sen faydalı ve zararsız bir asistansın. Adım adım düşünmelisin. Lütfen İngilizce yerine Türkçe düşün.",
+    "instruction": "Soruyu cevapla.",
+    "prefix": "Tamam, kullanıcı soruyor"
+  },
+  "vi": {
+    "system_prompt": "Bạn là một trợ lý hữu ích và vô hại. Bạn nên suy nghĩ từng bước một. Vui lòng suy nghĩ bằng tiếng Việt thay vì tiếng Anh.",
+    "instruction": "Trả lời câu hỏi.",
+    "prefix": "Được rồi, người dùng đang hỏi"
+  },
+  "cs": {
+    "system_prompt": "Jste užitečný a neškodný asistent. Měl byste přemýšlet krok za krokem. Prosím, myslete česky, ne anglicky.",
+    "instruction": "Odpovězte na otázku.",
+    "prefix": "Dobře, uživatel se ptá"
+  },
+  "ko": {
+    "system_prompt": "당신은 도움이 되며 해가 없는 어시스턴트입니다. 단계적으로 생각해야 합니다. 생각은 영어가 아닌 한국어로 해주세요.",
+    "instruction": "질문에 답하십시오.",
+    "prefix": "좋아, 사용자가 질문합니다"
+  },
+  "fa": {
+    "system_prompt": "شما یک دستیار مفید و بی‌ضرر هستید. باید گام به گام فکر کنید. لطفاً به جای انگلیسی به فارسی فکر کنید.",
+    "instruction": "به سوال پاسخ دهید.",
+    "prefix": "باشه، کاربر سوال می‌کند"
+  },
+  "ar": {
+    "system_prompt": "أنت مساعد مفيد وغير ضار. يجب أن تفكر خطوة بخطوة. من فضلك فكر باستخدام العربية وليس الإنجليزية.",
+    "instruction": "أجب عن هذا السؤال.",
+    "prefix": "حسنًا، المستخدم يسأل"
+  },
+  "sv": {
+    "system_prompt": "Du är en hjälpsam och harmlös assistent. Du bör tänka steg för steg. Vänligen tänk på svenska istället för engelska.",
+    "instruction": "Besvara frågan.",
+    "prefix": "Okej, användaren frågar"
+  },
+  "ro": {
+    "system_prompt": "Ești un asistent util și inofensiv. Ar trebui să gândești pas cu pas. Te rog să gândești în română, nu în engleză.",
+    "instruction": "Răspunde la întrebare.",
+    "prefix": "Bine, utilizatorul întreabă"
+  },
+  "uk": {
+    "system_prompt": "Ви корисний і безпечний помічник. Вам слід думати крок за кроком. Будь ласка, думайте українською, а не англійською.",
+    "instruction": "Відповідь на запитання.",
+    "prefix": "Гаразд, користувач запитує"
+  },
+  "el": {
+    "system_prompt": "Είσαι ένας χρήσιμος και αβλαβής βοηθός. Πρέπει να σκέφτεσαι βήμα-βήμα. Παρακαλώ σκέψου στα ελληνικά αντί για αγγλικά.",
+    "instruction": "Απαντήστε στην ερώτηση.",
+    "prefix": "Εντάξει, ο χρήστης ρωτάει"
+  },
+  "hu": {
+    "system_prompt": "Hasznos és ártalmatlan asszisztens vagy. Lépésről lépésre kell gondolkodnod. Kérlek, gondolkodj magyarul angol helyett.",
+    "instruction": "Válaszolj a kérdésre.",
+    "prefix": "Rendben, a felhasználó kérdez"
+  },
+  "da": {
+    "system_prompt": "Du er en hjælpsom og harmløs assistent. Du bør tænke trin for trin. Venligst tænk på dansk i stedet for engelsk.",
+    "instruction": "Besvar spørgsmålet.",
+    "prefix": "Okay, brugeren spørger"
+  },
+  "th": {
+    "system_prompt": "คุณเป็นผู้ช่วยที่เป็นมิตรและไม่เป็นอันตราย คุณควรคิดทีละขั้นตอน กรุณาคิดเป็นภาษาไทยไม่ใช่ภาษาอังกฤษ",
+    "instruction": "ตอบคำถาม.",
+    "prefix": "โอเค ผู้ใช้ถาม"
+  },
+  "sk": {
+    "system_prompt": "Ste užitočný a neškodný asistent. Mali by ste premýšľať krok za krokom. Prosím, myslite po slovensky, nie po anglicky.",
+    "instruction": "Odpovedzte na otázku.",
+    "prefix": "Dobre, používateľ sa pýta"
+  },
+  "fi": {
+    "system_prompt": "Olet hyödyllinen ja vaaraton avustaja. Sinun tulisi ajatella vaiheittain. Ole hyvä ja ajattele suomeksi englannin sijaan.",
+    "instruction": "Vastaa kysymykseen.",
+    "prefix": "Selvä, käyttäjä kysyy"
+  },
+  "bg": {
+    "system_prompt": "Вие сте полезен и безобиден асистент. Трябва да мислите стъпка по стъпка. Моля, мислете на български, а не на английски.",
+    "instruction": "Отговорете на въпроса.",
+    "prefix": "Добре, потребителят пита"
+  },
+  "iw": {
+    "system_prompt": "אתה עוזר מועיל ובטוח. עליך לחשוב צעד אחר צעד. אנא חשוב בעברית במקום באנגלית.",
+    "instruction": "ענה על השאלה.",
+    "prefix": "בסדר, המשתמש שואל"
+  },
+  "hr": {
+    "system_prompt": "Korisni ste i bezazleni pomoćnik. Trebali biste razmišljati korak po korak. Molimo razmišljajte na hrvatskom, a ne na engleskom.",
+    "instruction": "Odgovorite na pitanje.",
+    "prefix": "U redu, korisnik pita"
+  },
+  "sr": {
+    "system_prompt": "Користан си и безазлен помоћник. Треба да размишљаш корак по корак. Размишљај на српском, а не на енглеском.",
+    "instruction": "Одговорите на питање.",
+    "prefix": "У реду, корисник пита"
+  },
+  "hi": {
+    "system_prompt": "आप एक सहायक और हानिरहित सहायक हैं। आपको चरणबद्ध रूप से सोचना चाहिए। कृपया अंग्रेज़ी के बजाय हिंदी में सोचें।",
+    "instruction": "प्रश्न का उत्तर दें।",
+    "prefix": "ठीक है, उपयोगकर्ता पूछ रहा है"
+  },
+  "ca": {
+    "system_prompt": "Ets un assistent útil i inofensiu. Hauries de pensar pas a pas. Si us plau, pensa en català en comptes d'anglès.",
+    "instruction": "Respon la pregunta.",
+    "prefix": "D'acord, l'usuari pregunta"
+  },
+  "lt": {
+    "system_prompt": "Jūs esate naudingas ir nekenksmingas asistentas. Turėtumėte galvoti žingsnis po žingsnio. Galvokite lietuviškai, o ne angliškai.",
+    "instruction": "Atsakykite į klausimą.",
+    "prefix": "Gerai, vartotojas klausia"
+  },
+  "sl": {
+    "system_prompt": "Koristen si in neškodljiv pomočnik. Moraš razmišljati korak za korakom. Razmišljaj v slovenščini namesto angleščine.",
+    "instruction": "Odgovori na vprašanje.",
+    "prefix": "V redu, uporabnik sprašuje"
+  },
+  "et": {
+    "system_prompt": "Sa oled kasulik ja ohutu abiline. Sa peaksid mõtlema samm-sammult. Palun mõtle eesti keeles, mitte inglise keeles.",
+    "instruction": "Vasta küsimusele.",
+    "prefix": "Hästi, kasutaja küsib"
+  },
+  "bn": {
+    "system_prompt": "আপনি একজন সহায়ক এবং ক্ষতিকারহীন সহকারী। আপনাকে ধাপে ধাপে চিন্তা করতে হবে। ইংরেজির পরিবর্তে বাংলায় চিন্তা করুন।",
+    "instruction": "প্রশ্নের উত্তর দিন।",
+    "prefix": "ঠিক আছে, ব্যবহারকারী প্রশ্ন করছে"
+  },
+  "lv": {
+    "system_prompt": "Tu esi noderīgs un nekaitīgs asistents. Tev jādomā pakāpeniski. Domā latviešu valodā, nevis angļu valodā.",
+    "instruction": "Atbildi uz jautājumu.",
+    "prefix": "Labi, lietotājs jautā"
+  },
+  "ms": {
+    "system_prompt": "Anda ialah pembantu yang membantu dan tidak berbahaya. Anda harus berfikir langkah demi langkah. Sila berfikir dalam bahasa Melayu dan bukan dalam bahasa Inggeris.",
+    "instruction": "Jawab soalan ini.",
+    "prefix": "Baiklah, pengguna sedang bertanya"
+  },
+  "az": {
+    "system_prompt": "Siz faydalı və zərərsiz köməkçisiniz. Addım-addım düşünməlisiniz. İngilis dili yerinə Azərbaycan dilində düşünün.",
+    "instruction": "Sualı cavablandırın.",
+    "prefix": "Yaxşı, istifadəçi soruşur"
+  },
+  "bs": {
+    "system_prompt": "Korisni ste i bezazleni pomoćnik. Trebali biste razmišljati korak po korak. Razmišljajte na bosanskom, a ne na engleskom.",
+    "instruction": "Odgovorite na pitanje.",
+    "prefix": "U redu, korisnik pita"
+  },
+  "ne": {
+    "system_prompt": "तपाईं एक सहयोगी र निर्दोष सहायक हुनुहुन्छ। तपाईंले चरणबद्ध रूपमा सोच्नुपर्छ। अंग्रेजीको सट्टा नेपालीमा सोच्नुहोस्।",
+    "instruction": "प्रश्नको उत्तर दिनुहोस्।",
+    "prefix": "ठिक छ, प्रयोगकर्ता प्रश्न गर्दैछ"
+  },
+  "sq": {
+    "system_prompt": "Je një asistent i dobishëm dhe i padëmshëm. Duhet të mendosh hap pas hapi. Mendo në shqip dhe jo në anglisht.",
+    "instruction": "Përgjigju pyetjes.",
+    "prefix": "Mirë, përdoruesi pyet"
+  },
+  "ta": {
+    "system_prompt": "நீங்கள் ஒரு உதவிப்பொறி மற்றும் தீங்கிழைக்காத உதவியாளர். நீங்கள் படிப்படியாகச் சிந்திக்க வேண்டும். ஆங்கிலம் தவிர தமிழ் மொழியில் சிந்தியுங்கள்.",
+    "instruction": "கேள்விக்குப் பதிலளிக்கவும்.",
+    "prefix": "சரி, பயனர் கேட்கிறார்"
+  },
+  "ka": {
+    "system_prompt": "თქვენ ხართ სასარგებლო და უსაფრთხო დამხმარე. უნდა იფიქროთ ნაბიჯ-ნაბიჯ. იფიქრეთ ქართულად, ინგლისურის ნაცვლად.",
+    "instruction": "პასუხეთ შეკითხვას.",
+    "prefix": "კარგი, მომხმარებელი კითხვას სვამს"
+  },
+  "is": {
+    "system_prompt": "Þú ert hjálpsamur og ómeinlægur aðstoðarmaður. Þú ættir að hugsa skref fyrir skref. Hugsaðu á íslensku en ekki ensku.",
+    "instruction": "Svaraðu spurningunni.",
+    "prefix": "Áæ, notandi spyr"
+  },
+  "mk": {
+    "system_prompt": "Корисен си и безбеден помошник. Треба да размислуваш корак по корак. Размислувај на македонски, а не на англиски.",
+    "instruction": "Одговори на прашањето.",
+    "prefix": "Во ред, корисникот прашува"
+  },
+  "eu": {
+    "system_prompt": "Erabilgarri eta ez kaltegarria zara. Pauso bakoitzari buruz pentsatu behar diozu. Pentsatu euskaraz ingelesaren ordez.",
+    "instruction": "Erantzun galderari.",
+    "prefix": "Beno, erabiltzailea galdetzen ari da"
+  },
+  "hy": {
+    "system_prompt": "Դուք օգտակար և վնասակար չեք լինի օգնական։ Դուք պետք է մտածեք քայլ առ քայլ։ Մտածեք հայերեն, անգլերենի փոխարեն։",
+    "instruction": "Պատասխանեք հարցին.",
+    "prefix": "Լավ, օգտագործողը հարցնում է"
+  },
+  "gl": {
+    "system_prompt": "Eres un asistente útil e inofensivo. Debes pensar paso a paso. Por favor, pensa en galego en lugar de inglés.",
+    "instruction": "Responde á pregunta.",
+    "prefix": "Ben, o usuario está preguntando"
+  },
+  "kk": {
+    "system_prompt": "Сіз пайдалы және зиянсыз көмекшісіз. Сіз қадам бойынша ойлауыңыз керек. Қазақша ойлаңыз, ағылшын тілінің орнына.",
+    "instruction": "Сұраққа жауап беріңіз.",
+    "prefix": "Жақсы, пайдаланушы сұрап отыр"
+  },
+  "ur": {
+    "system_prompt": "آپ ایک مفید اور بے ضرر معاون ہیں۔ آپ کو مرحلہ وار سوچنا چاہیے۔ اردو میں سوچیں، انگریزی کی بجائے۔",
+    "instruction": "سوال کا جواب دیں.",
+    "prefix": "ٹھیک ہے، صارف پوچھ رہا ہے"
+  },
+  "mr": {
+    "system_prompt": "तुम्ही उपयोगी आणि निरापद सहाय्यक आहात. तुम्हाला पायऱ्यांनी विचार करावा लागेल. मराठीत विचार करा, इंग्रजीऐवजी.",
+    "instruction": "प्रश्नाचे उत्तर द्या.",
+    "prefix": "ठीक आहे, वापरकर्ता विचारत आहे"
+  },
+  "ml": {
+    "system_prompt": "നിങ്ങൾ ഒരു സഹായകനും നിഷ്കളങ്കനുമാണ്. ഘട്ടം ഘട്ടമായി ചിന്തിക്കേണ്ടതുണ്ട്. മലയാളത്തിൽ ചിന്തിക്കുക, ഇംഗ്ലീഷിന്റെ പകരം.",
+    "instruction": "ചോദ്യത്തിന് ഉത്തരം നൽകുക.",
+    "prefix": "ശരി, ഉപയോക്താവ് ചോദിക്കുന്നു"
+  },
+  "uz": {
+    "system_prompt": "Siz foydali va zararsiz yordamchisiz. Siz qadam-qadam bilan o'ylashingiz kerak. O'zbek tilida o'ylang, ingliz tili o'rniga.",
+    "instruction": "Savolga javob bering.",
+    "prefix": "Yaxshi, foydalanuvchi so‘ramoqda"
+  },
+  "te": {
+    "system_prompt": "మీరు సహాయకరమైన మరియు హానికరం కాని సహాయకుడు. మీరు దశలవారీగా ఆలోచించాలి. తెలుగులో ఆలోచించండి, ఆంగ్లం కాకుండా.",
+    "instruction": "ప్రశ్నకు సమాధానం ఇవ్వండి.",
+    "prefix": "సరే, వాడుకరి అడుగుతున్నాడు"
+  },
+  "no": {
+    "system_prompt": "Du er ein hjelpsam og harmlaus assistent. Du bør tenkja steg for steg. Ver venleg og tenk på nynorsk i staden for engelsk.",
+    "instruction": "Svar på spørsmålet.",
+    "prefix": "Greit, brukeren spør"
+  },
+  "be": {
+    "system_prompt": "Вы карысны і безпечны асістэнт. Вам трэба думаць паэтапна. Думайце па-беларуску, а не па-англійску.",
+    "instruction": "Адкажыце на пытанне.",
+    "prefix": "Добра, карыстальнік пытаецца"
+  },
+  "my": {
+    "system_prompt": "သင်သည် အထောက်အကူပြုပြီး အန္တရာယ်ကင်းသော တွဲဖက်သူဖြစ်ပါသည်။ သင်အဆင့်ဆင့် စဉ်းစားရမည်။ မြန်မာစာဖြင့် စဉ်းစားပါ၊ အင်္ဂလိပ်စာမဟုတ်ဘဲ။",
+    "instruction": "မေးခွန်းကိုဖြေပါ။",
+    "prefix": "အဆင်ပြေပါပြီ၊ အသုံးပြုသူ မေးနေသည်"
+  },
+  "kn": {
+    "system_prompt": "ನೀವು ಒಬ್ಬ ಸಹಾಯಕ ಮತ್ತು ಹಾನಿರಹಿತ ಸಹಾಯಕರಾಗಿದ್ದೀರಿ. ನೀವು ಹಂತ-ಹಂತವಾಗಿ ಯೋಚಿಸಬೇಕು. ಕನ್ನಡದಲ್ಲಿ ಯೋಚಿಸಿ, ಇಂಗ್ಲೀಷ್ ಬದಲು.",
+    "instruction": "ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ.",
+    "prefix": "ಸರಿ, ಬಳಕೆದಾರನು ಕೇಳುತ್ತಿದ್ದಾನೆ"
+  },
+  "gu": {
+    "system_prompt": "તમે એક ઉપયોગી અને હાનિરહિત સહાયક છો. તમારે પગલાં પછી પગલાં વિચારવું જોઈએ. ગુજરાતી માં વિચારો, અંગ્રેજી ના બદલે.",
+    "instruction": "પ્રશ્નનો જવાબ આપો.",
+    "prefix": "ઠીક છે, વપરાશકર્તા પુછે છે"
+  },
+  "cy": {
+    "system_prompt": "Rydych chi'n asiant cymorth a dim niwed. Dylech chi feddwl cam wrth gam. Meddyliwch yn Gymraeg, nid Saesneg.",
+    "instruction": "Atebwch y cwestiwn.",
+    "prefix": "Iawn, mae'r defnyddiwr yn gofyn"
+  },
+  "km": {
+    "system_prompt": "អ្នកគឺជាអ្នកជួយដែលមានប្រយោជន៍ និងមិនបង្កអំពើអាក្រក់។ អ្នកគួរតែគិតជាដំណាក់កាល។ គិតជាភាសាខ្មែរ, មិនប្រើភាសាអង់គ្លេស។",
+    "instruction": "ឆ្លើយសំណួរ.",
+    "prefix": "ល្អ, អ្នកប្រើប្រាស់កំពុងសួរ"
+  },
+  "si": {
+    "system_prompt": "ඔබ ප්‍රයෝජනවත් සහ නිරාපද්‍ර සහයෝගීයෙකි. ඔබ පියවර පසු පියවර සිතිය යුතුය. සිංහලෙන් සිතන්න, ඉංග්‍රීසි වෙනුවට.",
+    "instruction": "ප්‍රශ්නයට පිළිතුරු සැපයන්න.",
+    "prefix": "හරි, පරිශීලකයා අසමින් සිටී"
+  },
+  "af": {
+    "system_prompt": "Jy is 'n nuttige en onskadelike assistent. Jy moet stap vir stap dink. Dink asseblief in Afrikaans in plaas van Engels.",
+    "instruction": "Beantwoord die vraag.",
+    "prefix": "Reg, die gebruiker vra"
+  },
+  "sw": {
+    "system_prompt": "Wewe ni msaidizi mwenye msaada na asiye na madhara. Unapaswa kufikiri hatua kwa hatua. Fikiria kwa Kiswahili, badala ya Kiingereza.",
+    "instruction": "Jibu swali.",
+    "prefix": "Sawa, mtumiaji anauliza"
+  },
+  "tl": {
+    "system_prompt": "Ikaw ay isang kapaki-pakinabang at hindi nakakapinsalang kasama. Kailangan mong isipin ito ng hakbang-hakbang. Mangyaring mag-isip sa Tagalog sa halip na Ingles.",
+    "instruction": "Sagutin ang tanong.",
+    "prefix": "Sige, nagtatanong ang user"
+  },
+  "tt": {
+    "system_prompt": "Сез файдалы һәм зәрәрсез ярдәмче. Сезнең аяк-аяк табигатьле уйларга кирәк. Татарча уйлагыз, инглиз теле урынына.",
+    "instruction": "Сорауга җавап бирегез.",
+    "prefix": "Яхшы, кулланучы сорый"
+  },
+  "ga": {
+    "system_prompt": "Tá tú ina chomhairleoir úsáideach agus gan dochar. Ba cheart duit smaoineamh ar chéim ar chéim. Smaoinigh i nGaeilge, seachas i mBéarla.",
+    "instruction": "Freagraigh an cheist.",
+    "prefix": "Ceart go leor, tá an t-úsáideoir ag fiafraí"
+  },
+  "pa": {
+    "system_prompt": "ਤੁਸੀਂ ਇੱਕ ਮਦਦਗਾਰ ਅਤੇ ਨੁਕਸਾਨਰਹਿਤ ਸਹਾਇਕ ਹੋ। ਤੁਸੀਂ ਕਦਮ-ਦਰ-ਕਦਮ ਸੋਚਣਾ ਚਾਹੀਦਾ ਹੈ। ਪੰਜਾਬੀ ਵਿੱਚ ਸੋਚੋ, ਅੰਗਰੇਜ਼ੀ ਦੀ ਥਾਂ।",
+    "instruction": "ਸਵਾਲ ਦਾ ਜਵਾਬ ਦਿਓ.",
+    "prefix": "ਠੀਕ ਹੈ, ਉਪਭੋਗਤਾ ਪੁੱਛ ਰਿਹਾ ਹੈ"
+  },
+  "tg": {
+    "system_prompt": "Шумо як ёрӣрасони манфиатнок ва бе зарар ҳастед. Шумо бояд қадам ба қадам фикр кунед. Ба тоҷикӣ фикр кунед, ба ҷои англисӣ.",
+    "instruction": "Саволро ҷавоб диҳед.",
+    "prefix": "Хуб, корбар мепурсад"
+  },
+  "or": {
+    "system_prompt": "ଆପଣ ଜଣେ ସହାୟକ ଓ କ୍ଷତିକାରକ ନୁହଁନ୍ତି । ଆପଣ ପଦକ୍ରମେ ଚିନ୍ତା କରିବେ । ଓଡ଼ିଆରେ ଚିନ୍ତା କରନ୍ତୁ, ଇଂରାଜୀ ର ବଦଳରେ।",
+    "instruction": "ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ.",
+    "prefix": "ଠିକ୍ ଅଛି, ବ୍ୟବହାରକର୍ତ୍ତା ପଛରେ ପ୍ରଶ୍ନ କରୁଛନ୍ତି"
+  },
+  "fo": {
+    "system_prompt": "Tú ert ein hjálparvænur og óskaddur hjálpilari. Tú skal hugsa skref fyri skref. Hugsa á føroyskum, í staðin fyri enskum.",
+    "instruction": "Svar við spurninginum.",
+    "prefix": "Okei, brúkarin spyr"
+  },
+  "lb": {
+    "system_prompt": "Dir sidd en hëllefräichen an onschaddeleche Assistent. Dir sollt Schrëtt fir Schrëtt denken. Denkt op Lëtzebuergesch, amplaz op Englesch.",
+    "instruction": "Beäntwert d'Fro.",
+    "prefix": "Okay, de Benotzer froen"
+  },
+  "lo": {
+    "system_prompt": "ທ່ານເປັນຜູ້ຊ່ວຍທີ່ເປັນປະໂຫຍດ ແລະ ບໍ່ເປັນອັນຕະລາຍ. ທ່ານຄວນຄິດທີລະຂັ້ນຕອນ. ຄິດເປັນພາສາລາວ, ແທນພາສາອັງກິດ.",
+    "instruction": "ຕອບຄຳຖາມ.",
+    "prefix": "ຕົກລົງ, ຜູ້ໃຊ້ງານກຳລັງຖາມ"
+  },
+  "oc": {
+    "system_prompt": "Sètz un assistant util e inofensiu. Vos caldriá pensar pas a pas. Mercés de pensar en occitan en plaça de l'anglés.",
+    "instruction": "Respondatz a la demanda.",
+    "prefix": "Bon, l’utilizaire demanda"
+  },
+  "mt": {
+    "system_prompt": "Inti assistent utli u armlen. Inti jkollok taħseb pass pass. Ħsieb bil-Malti, minflok bl-Ingliż.",
+    "instruction": "Ibgħat risposta.",
+    "prefix": "Okay, l-utent qed jistaqsi"
+  },
+  "ba": {
+    "system_prompt": "Һеҙ файҙалы һәм зыянһыҙ ярҙамсы. Һеҙ аҙым- аҙым уйларға тейешһегеҙ. Башҡортса уйлағыҙ, инглиз теле урынына.",
+    "instruction": "Һорауға яуап бирегеҙ.",
+    "prefix": "Яҡшы, ҡулланыусы һорай"
+  },
+  "as": {
+    "system_prompt": "আপুনি এজন সহায়ক আৰু ক্ষতিকাৰক নোহোৱা সহকাৰী। আপুনি পদক্ষেপে পদক্ষেপে চিন্তা কৰিব লাগিব। অসমীয়াত ভাবক, ইংৰাজীৰ সলনি।",
+    "instruction": "প্ৰশ্নটোৰ উত্তৰ দিয়ক.",
+    "prefix": "ঠিক আছে, ব্যৱহাৰকাৰীটো প্ৰশ্ন কৰিছে"
+  },
+  "jw": {
+    "system_prompt": "Kowe asisten sing migunani lan ora ngrugekake. Kudu mikir langkah demi langkah. Mangga pikir nganggo basa Jawa, ora nganggo basa Inggris.",
+    "instruction": "Wangsulna pitakonan.",
+    "prefix": "Oke, pangguna takon"
+  },
+  "war": {
+    "system_prompt": "Ikaw usa ka mapuslanon ngan waray pulos nga asistente. Kinahanglan maghunahuna ka ha kada kalags. Maghunahuna ha Waray, imbes ha English.",
+    "instruction": "Batoni an pangutana.",
+    "prefix": "Sige, an tiggamit nag-uusisa"
+  },
+  "ht": {
+    "system_prompt": "Ou se yon sistant ki ede ak san domaj. Ou dwe panse etap pa etap. Panse an kreyòl, olye de angle.",
+    "instruction": "Reponn kesyon an.",
+    "prefix": "Bon, itilizatè a ap mande"
+  },
+  "ceb": {
+    "system_prompt": "Ikaw usa ka mapuslanon ug dili makadaot nga assistant. Kinahanglan nga maghuna-huna ka sa matag lakang. Palihug paghunahuna sa Cebuano imbes nga English.",
+    "instruction": "Tubaga ang pangutana.",
+    "prefix": "Okay, ang user nangutana"
+  },
+  "sd": {
+    "system_prompt": "توهان هڪ مفيد ۽ بي ضرر اسسٽنٽ آهيو. توهان کي قدم قدم تي سوچڻ گهرجي. سنڌي ۾ سوچيو، انگريزي جي بدران.",
+    "instruction": "سوال جو جواب ڏيو.",
+    "prefix": "ٺيڪ آهي، صارف پڇي رهيو آهي"
+  },
+  "yi": {
+    "system_prompt": "איר א נוצליכער און שווער פארעפנטליכער אסיסטאַנט. איר זאלט דענקען שאפן פאר שאפן. דענקט אויף ייִדיש, נישט אויף ענגליש.",
+    "instruction": "אַרויסגעבן די קשיא.",
+    "prefix": "אויברייט, דער באַניצער פֿרעגט"
+  },
+  "su": {
+    "system_prompt": "Anjeun asisten anu berguna sareng teu bahaya. Anjeun kedah mikir langkah demi langkah. Mangga pikirkeun dina basa Sunda tibatan basa Inggris.",
+    "instruction": "Waleran patanyaan.",
+    "prefix": "Oke, pamaké nu nanya"
+  },
+  "nb": {
+    "system_prompt": "Du er en nyttig og ufarlig assistent. Du bør tenke steg for steg, og tenke på norsk i stedet for engelsk.",
+    "instruction": "Svar på spørsmålet.",
+    "prefix": "Ok, brukeren spør"
+  },
+  "ast": {
+    "system_prompt": "Síes un asistente útil y inofensivu. Debes pensar pasu a pasu, y pensar en asturianu en llugar d'inglés.",
+    "instruction": "Responde a la pregunta.",
+    "prefix": "Vale, l'usuariu ta preguntando"
+  },
+  "awa": {
+    "system_prompt": "तू एक मददगार अउर हानिरहित सहायिका ह। तू कदम-दर-कदम सोचब। कृपया अंग्रेजी के बजाय अवधी में सोच।",
+    "instruction": "प्रश्न का उत्तर दीजिए।",
+    "prefix": "ठीक है, उपयोगकर्ता पूछ रहा है"
+  },
+  "mai": {
+    "system_prompt": "अहाँ एक सहायक आ हानिरहित सहायक छी। अहाँ के चरणबद्ध रूप में सोचय पड़त। कृपया अंग्रेजी के बजाय मैथिली में सोचू।",
+    "instruction": "प्रश्नक उत्तर दिअ।",
+    "prefix": "ठीक अछि, उपयोगकर्ता पुछि रहल अछि"
+  },
+  "bho": {
+    "system_prompt": "तोहरा एक उपयोगी आउर हानिरहित सहायक बा। तोहरा कदम-कदम सोचल चाहीं। कृपया अंग्रेजी के बजाय भोजपुरी में सोच।",
+    "instruction": "प्रश्न के उत्तर दीं।",
+    "prefix": "ठीक बा, उपयोगकर्ता पूछत बा"
+  },
+  "scn": {
+    "system_prompt": "Si un assistenti utili e innocivu. Devi pinsari passu passu, e pinsari in sicilianu inveci di inglesi.",
+    "instruction": "Risponni a la dumanna.",
+    "prefix": "Ok, l'utenti sta dumannannu"
+  },
+  "fur": {
+    "system_prompt": "Tu sês un asistente utile e innocu. Tu tu diês pensâ pass par pass, e pensâ in furlan invece che in inglese.",
+    "instruction": "Rispuindi a domande.",
+    "prefix": "Va ben, l'utilizadôr al domande"
+  },
+  "sc": {
+    "system_prompt": "Sei un assistente utile e inofensivu. Depis pensare passu passu, e pensare in sardu inoghe chi in inglese.",
+    "instruction": "Rispondi a sa domanda.",
+    "prefix": "Ok, su utente est chi domandende"
+  },
+  "li": {
+    "system_prompt": "Doa bisj en hulpvol en onskadelik assistent. Doa mot stap-vo-stap denken en in Limburgs denken in plaats van Engels.",
+    "instruction": "Beantwoord de vraag.",
+    "prefix": "Oké, de gebruiker vraogt"
+  },
+  "mag": {
+    "system_prompt": "अहाँ एक उपयोगी आउर हानिरहित सहायिका छी। अहाँ के चरण-दर-चरण सोचब। कृपया अंग्रेजी के बजाय मगही में सोचू।",
+    "instruction": "प्रश्नक उत्तर दिअ।",
+    "prefix": "ठीक अछि, उपयोगकर्ता पुछि रहल अछि"
+  },
+  "min": {
+    "system_prompt": "Kamu ado pembantu nan bermanfaat jo tida bahaya. Harus berpikir langkah demi langkah, dan berpikir dalam basa Minangkabau, bukan Inggris.",
+    "instruction": "Jawab pertanyaan.",
+    "prefix": "Oke, penggunanyo menanyakan"
+  },
+  "ban": {
+    "system_prompt": "Ida punika asisten sane ngametuang sareng tan wenten bebaya. Dados dadosangang pikayunan langkah demi langkah, sareng pikayunan ring basa Bali sane wenten olih Inggris.",
+    "instruction": "Wangsulana patut puniki.",
+    "prefix": "Sampun, pangguna nyidangang patut puniki"
+  },
+  "pag": {
+    "system_prompt": "Ka isa ka mabulig asin waray kadaut nga asistente. Ka kinahanglan maghunahuna hakbang-hakbang, asin maghunahuna ha Pangasinan imbes na Ingles.",
+    "instruction": "Sagutin so salaysay.",
+    "prefix": "Oke, so gagamit nagtatang so"
+  },
+  "ilo": {
+    "system_prompt": "Sika ket maysa nga nasayaat ken awan sakit nga asistente. Masapul nga agpanunot ka paso-paso ken agpanunot iti Iloko imbes nga Ingles.",
+    "instruction": "Sungbatan ti saludsod.",
+    "prefix": "Ok, agus-usar ti mangus-usar"
+  },
+  "pap": {
+    "system_prompt": "Bo un asistente útil i sin dañu. Bo mester pensa pasu pa pasu, i pensa den Papiamentu en luga di Inglés.",
+    "instruction": "Contesta e pregunta.",
+    "prefix": "Ok, e usuario ta preguntando"
+  },
+  "tpi": {
+    "system_prompt": "Yu stap wanpela helpim na no dai assistant. Yu mas tingting step bai step, na tingting long Tok Pisin, nogat long English.",
+    "instruction": "Answerim kwestin.",
+    "prefix": "Ok, yusa i askim"
+  },
+  "vec": {
+    "system_prompt": "Ti set un assistente utile e innocuo. Devi pensare passo dopo passo e pensare in venetan invece che in inglese.",
+    "instruction": "Rispondi alla domanda.",
+    "prefix": "Ok, l'utente sta chiedendo"
+  },
+  "szl": {
+    "system_prompt": "Jesteś pomocnym i nieszkodliwym asystentem. Powinieneś myśleć krok po kroku i myśleć po śląsku zamiast po angielsku.",
+    "instruction": "Odpowiedz na pytanie.",
+    "prefix": "Ok, użytkownik pyta"
+  },
+  "hne": {
+    "system_prompt": "तुम एक उपयोगी और हानिरहित सहायिका हो। तुम्हें चरण-दर-चरण सोचना चाहिए। कृपया अंग्रेजी के बजाय छत्तीसगढ़ी में सोचो।",
+    "instruction": "प्रश्न का उत्तर दो।",
+    "prefix": "ठीक है, उपयोगकर्ता पूछ रहा है"
+  },
+  "lmo": {
+    "system_prompt": "Te seet un assistent util e no periculos. Te gh'è da pensà pass per pass e pensà in lombard invece de inglese.",
+    "instruction": "Respund al domand.",
+    "prefix": "Ok, l'utent el domanda"
+  },
+  "lij": {
+    "system_prompt": "Ti sei un assistente utile e innocuo. Devi pensà passo passo e pensà in ligure inveze de inglese.",
+    "instruction": "Rispondi a a domanda.",
+    "prefix": "Ok, l'utente a domanda"
+  },
+  "prs": {
+    "system_prompt": "شما یک دستیار مفید و بی‌ضرر هستید. شما باید گام به گام فکر کنید. لطفاً به جای انگلیسی به دری فکر کنید.",
+    "instruction": "به سوال پاسخ دهید.",
+    "prefix": "خوب، کاربر پرسیده است"
+  },
+  "bjn": {
+    "system_prompt": "Kamu adalah asisten yang bermanfaat dan tidak berbahaya. Harus berpikir langkah demi langkah, dan berpikir dalam bahasa Banjar, bukan Inggris.",
+    "instruction": "Jawab pertanyaan.",
+    "prefix": "Oke, pengguna menanyakan"
+  },
+  "kea": {
+    "system_prompt": "Bo é un asistente útil i sin dañu. Bo mester pensa pasu pa pasu, i pensa na Kabuverdianu en luga di Inglés.",
+    "instruction": "Responde a pergunta.",
+    "prefix": "Ok, u utilizador ta perguntando"
+  }
+}

@@ -1,0 +1,3115 @@
+[
+  {
+    "Q_id": "Q1",
+    "question": "¿Qué importancia tiene la familia en tu vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q2",
+    "question": "¿Qué importancia tienen los amigos en tu vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q3",
+    "question": "¿Qué importancia tiene el tiempo libre en tu vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q4",
+    "question": "¿Qué importancia tiene la política en tu vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q5",
+    "question": "¿Qué importancia tiene el trabajo en tu vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q6",
+    "question": "¿Qué importancia tiene la religión en tu vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q7",
+    "question": "¿Consideras que los buenos modales son especialmente importantes para que los niños los aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q8",
+    "question": "¿Consideras que la independencia es especialmente importante para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q9",
+    "question": "¿Consideras que el trabajo duro es especialmente importante para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q10",
+    "question": "¿Consideras especialmente importante el sentimiento de responsabilidad para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q11",
+    "question": "¿Consideras que la imaginación es especialmente importante para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q12",
+    "question": "¿Consideras especialmente importante para que los niños aprendan en casa la tolerancia y el respeto hacia las demás personas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q13",
+    "question": "¿Consideras especialmente importante el ahorro, el ahorro de dinero y cosas para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q14",
+    "question": "¿Consideras que la determinación y la perseverancia son especialmente importantes para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q15",
+    "question": "¿Consideras que la fe religiosa es especialmente importante para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q16",
+    "question": "¿Consideras especialmente importante para que los niños aprendan en casa no ser egoístas (altruismo)? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q17",
+    "question": "¿Consideras que la obediencia es especialmente importante para que los niños aprendan en casa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q18",
+    "question": "¿No te gustaría tener como vecinos a drogadictos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q19",
+    "question": "¿No te gustaría tener como vecinos a personas de otra raza? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q20",
+    "question": "¿No te gustaría tener como vecinos a personas que tienen SIDA? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q21",
+    "question": "¿No le gustaría tener como vecinos inmigrantes o trabajadores extranjeros? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q22",
+    "question": "¿No te gustaría tener homosexuales como vecinos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q23",
+    "question": "¿No le gustaría tener como vecinos a personas de otra religión? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q24",
+    "question": "¿No le gustaría tener como vecinos bebedores empedernidos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q25",
+    "question": "¿No le gustaría tener parejas no casadas viviendo juntas como vecinas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q26",
+    "question": "¿No te gustaría tener como vecinos a personas que hablen otro idioma? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q27",
+    "question": "¿Estás de acuerdo en que uno de tus principales objetivos en la vida ha sido enorgullecer a tus padres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q28",
+    "question": "¿Estás de acuerdo en que cuando una madre trabaja por un sueldo, los hijos sufren? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q29",
+    "question": "¿Está de acuerdo en que, en general, los hombres son mejores líderes políticos que las mujeres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q30",
+    "question": "¿Estás de acuerdo en que la educación universitaria es más importante para un niño que para una niña? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q31",
+    "question": "¿Está de acuerdo en que, en general, los hombres son mejores ejecutivos de empresas que las mujeres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q32",
+    "question": "¿Estás de acuerdo en que ser ama de casa es tan gratificante como trabajar por un sueldo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q33",
+    "question": "¿Está de acuerdo en que cuando los empleos escasean, los hombres deberían tener más derecho a un empleo que las mujeres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q34",
+    "question": "¿Está de acuerdo en que cuando los empleos escasean, los empleadores deberían dar prioridad a la gente de este país sobre los inmigrantes? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q35",
+    "question": "¿Está de acuerdo en que si una mujer gana más dinero que su marido, es casi seguro que esto causará problemas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q36",
+    "question": "¿Estás de acuerdo en que las parejas homosexuales son tan buenos padres como otras parejas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q37",
+    "question": "¿Estás de acuerdo en que es un deber hacia la sociedad tener hijos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q38",
+    "question": "¿Está de acuerdo en que los hijos adultos tienen el deber de proporcionar cuidados a largo plazo a sus padres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q39",
+    "question": "¿Estás de acuerdo en que la gente que no trabaja se vuelve vaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q40",
+    "question": "¿Estás de acuerdo en que el trabajo es un deber hacia la sociedad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q41",
+    "question": "¿Estás de acuerdo en que el trabajo siempre debe ser lo primero, aunque eso signifique menos tiempo libre? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q42",
+    "question": "¿Cuál de las siguientes opciones describe mejor su propia opinión sobre la sociedad en la que vivimos: toda la forma en que está organizada nuestra sociedad debe cambiarse radicalmente mediante una acción revolucionaria, nuestra sociedad debe mejorarse gradualmente mediante reformas o nuestra sociedad actual debe defenderse valientemente contra todas las fuerzas subversivas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The entire way our society is organized must be radically changed by revolutionary action 2. Our society must be gradually improved by reforms 3. Our present society must be valiantly defended against all subversive forces",
+    "option": [
+      "The entire way our society is organized must be radically changed by revolutionary action",
+      "Our society must be gradually improved by reforms",
+      "Our present society must be valiantly defended against all subversive forces"
+    ]
+  },
+  {
+    "Q_id": "Q43",
+    "question": "Si se le diera menos importancia al trabajo en nuestras vidas, ¿pensarías que sería algo bueno, algo malo o no te importa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q44",
+    "question": "Si hubiera más énfasis en el desarrollo de la tecnología, ¿pensarías que sería algo bueno, algo malo o no te importa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q45",
+    "question": "Si hubiera mayor respeto por la autoridad, ¿pensarías que sería algo bueno, algo malo o no te importa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q46",
+    "question": "Tomando todas las cosas en conjunto, ¿diría usted que es muy feliz, bastante feliz, no muy feliz o nada feliz? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very happy 2. Rather happy 3. Not very happy 4. Not at all happy",
+    "option": [
+      "Very happy",
+      "Rather happy",
+      "Not very happy",
+      "Not at all happy"
+    ]
+  },
+  {
+    "Q_id": "Q47",
+    "question": "En definitiva, ¿cómo describiría su estado de salud actualmente? ¿Diría que es muy bueno, bueno, regular, pobre o muy pobre? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Good 3. Fair 4. Poor 5. Very poor",
+    "option": [
+      "Very good",
+      "Good",
+      "Fair",
+      "Poor",
+      "Very poor"
+    ]
+  },
+  {
+    "Q_id": "Q48",
+    "question": "Algunas personas sienten que tienen total libertad de elección y control sobre sus vidas, mientras que otras sienten que lo que hacen no tiene ningún efecto real sobre lo que les sucede. Utilice esta escala donde 1 significa \"ninguna opción en absoluto\" y 10 significa \"muchas opciones\" para indicar cuánta libertad de elección y control cree que tiene sobre la forma en que se desarrolla su vida. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q49",
+    "question": "Considerando todo esto, ¿qué tan satisfecho estás con tu vida en general estos días? Usando esta tarjeta en la que 1 significa que está \"completamente insatisfecho\" y 10 significa que está \"completamente satisfecho\", ¿dónde colocaría su satisfacción con su vida en su conjunto? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q50",
+    "question": "¿Qué tan satisfecho está usted con la situación financiera de su hogar? Usar esta tarjeta en la que 1 significa que está \"completamente insatisfecho\" y 10 significa que está \"completamente satisfecho\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q51",
+    "question": "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han quedado sin suficiente comida para comer? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q52",
+    "question": "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han sentido inseguros ante la delincuencia en su hogar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q53",
+    "question": "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han quedado sin medicamentos o tratamiento médico que necesitaban? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q54",
+    "question": "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han quedado sin ingresos en efectivo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q55",
+    "question": "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han quedado sin un refugio seguro sobre su cabeza? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q56",
+    "question": "Comparando su nivel de vida con el nivel de vida de sus padres cuando tenían aproximadamente su edad, ¿diría que está mejor, peor o más o menos igual? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Better off 2. Worse off 3. About the same",
+    "option": [
+      "Better off",
+      "Worse off",
+      "About the same"
+    ]
+  },
+  {
+    "Q_id": "Q57",
+    "question": "En términos generales, ¿diría que se puede confiar en la mayoría de las personas o que hay que tener mucho cuidado al tratar con ellas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Most people can be trusted 2. Need to be very careful",
+    "option": [
+      "Most people can be trusted",
+      "Need to be very careful"
+    ]
+  },
+  {
+    "Q_id": "Q58",
+    "question": "¿Cuánto confías en tu familia: completamente, algo, poco o nada? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q59",
+    "question": "¿Cuánto confías en tu vecindario: completamente, algo, poco o nada? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q60",
+    "question": "¿Cuánto confías en las personas que conoces personalmente: completamente, algo, poco o nada? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q61",
+    "question": "¿Cuánto confías en las personas que conoces por primera vez: completamente, algo, poco o nada? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q62",
+    "question": "¿Cuánto confías en personas de otra religión: completamente, algo, poco o nada? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q63",
+    "question": "¿Cuánto confías en las personas de otra nacionalidad: completamente, algo, poco o nada? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q64",
+    "question": "¿Cuánta confianza tienes en los lugares utilizados para el culto y otras actividades religiosas: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q65",
+    "question": "¿Cuánta confianza tiene usted en las fuerzas armadas: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q66",
+    "question": "¿Cuánta confianza tiene usted en la prensa: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q67",
+    "question": "¿Cuánta confianza tienes en la televisión: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q68",
+    "question": "¿Cuánta confianza tiene usted en los sindicatos: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q69",
+    "question": "¿Cuánta confianza tiene usted en la policía: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q70",
+    "question": "¿Cuánta confianza tiene usted en los tribunales: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q71",
+    "question": "¿Cuánta confianza tiene usted en el gobierno: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q72",
+    "question": "¿Cuánta confianza tiene usted en los partidos políticos: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q73",
+    "question": "¿Cuánta confianza tiene en el Parlamento: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q74",
+    "question": "¿Cuánta confianza tiene usted en la función pública: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q75",
+    "question": "¿Cuánta confianza tienes en las universidades: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q76",
+    "question": "¿Cuánta confianza tiene usted en las elecciones: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q77",
+    "question": "¿Cuánta confianza tiene en las grandes empresas: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q78",
+    "question": "¿Cuánta confianza tiene en los bancos: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q79",
+    "question": "¿Cuánta confianza tiene en las organizaciones medioambientales: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q80",
+    "question": "¿Cuánta confianza tiene usted en las organizaciones de mujeres: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q81",
+    "question": "¿Cuánta confianza tiene en las organizaciones benéficas o humanitarias: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q82",
+    "question": "¿Cuánta confianza tiene en las organizaciones regionales que apuntan a promover la cooperación y la integración entre países: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q83",
+    "question": "¿Cuánta confianza tiene usted en las Naciones Unidas: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q84",
+    "question": "¿Cuánta confianza tiene en el Fondo Monetario Internacional (FMI): mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q85",
+    "question": "¿Cuánta confianza tiene en la Corte Penal Internacional (CPI): mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q86",
+    "question": "¿Cuánta confianza tiene usted en la Organización del Tratado del Atlántico Norte (OTAN): mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q87",
+    "question": "¿Cuánta confianza tiene usted en el Banco Mundial: mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q88",
+    "question": "¿Cuánta confianza tiene en la Organización Mundial de la Salud (OMS): mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q89",
+    "question": "¿Cuánta confianza tiene usted en la Organización Mundial del Comercio (OMC): mucha, bastante, poca o ninguna? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q90",
+    "question": "Hoy en día se habla mucho de organizaciones internacionales. A veces se dice que las organizaciones internacionales deberían priorizar la mejora de la vida de las personas, incluso si esto implica que las decisiones no se toman democráticamente. ¿Qué cree que deberían priorizar las organizaciones internacionales, ser eficaces o ser democráticas? Usando esta tarjeta en la que 1 significa \"Ser eficaz\" y 10 significa \"Ser democrático\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q91",
+    "question": "¿Cuál de los siguientes no es miembro de los cinco países con asientos permanentes en el Consejo de Seguridad de las Naciones Unidas: Francia, China o India? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. France 2. China 3. India",
+    "option": [
+      "France",
+      "China",
+      "India"
+    ]
+  },
+  {
+    "Q_id": "Q92",
+    "question": "¿Dónde está ubicada la sede del Fondo Monetario Internacional (FMI): Washington DC, Londres o Ginebra? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Washington DC 2. London 3. Geneva",
+    "option": [
+      "Washington DC",
+      "London",
+      "Geneva"
+    ]
+  },
+  {
+    "Q_id": "Q93",
+    "question": "¿Con cuál de los siguientes problemas se ocupa la organización Amnistía Internacional: cambio climático, derechos humanos o destrucción de monumentos históricos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Climate change 2. Human rights 3. Destruction of historic monuments",
+    "option": [
+      "Climate change",
+      "Human rights",
+      "Destruction of historic monuments"
+    ]
+  },
+  {
+    "Q_id": "Q94",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de una iglesia u organización religiosa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q95",
+    "question": "¿Es usted miembro activo, inactivo o no miembro de una organización deportiva o recreativa, equipo de fútbol/béisbol/rugby? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q96",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de una organización de arte, música o educación? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q97",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de un sindicato? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q98",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de un partido político? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q99",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de una organización ambiental? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q100",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de una asociación profesional? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q101",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de una organización humanitaria o benéfica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q102",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de una organización de consumidores? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q103",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de un grupo de autoayuda, grupo de ayuda mutua? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q104",
+    "question": "¿Es usted miembro activo, miembro inactivo o no miembro de un grupo de mujeres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q105",
+    "question": "¿Es usted miembro activo, miembro inactivo o no es miembro de otro tipo de organización? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q106",
+    "question": "¿Está de acuerdo con la afirmación1 'Los ingresos deberían ser más equitativos' o con la afirmación2 'Debería haber mayores incentivos para el esfuerzo individual'? Usando esta tarjeta en la que 1 significa que está completamente de acuerdo con la 'declaración1' y 10 significa que está completamente de acuerdo con la 'declaración2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q107",
+    "question": "¿Está de acuerdo con la afirmación1 \"Debería aumentarse la propiedad privada de las empresas y la industria\" o con la afirmación2 \"Debería aumentarse la propiedad gubernamental de las empresas y la industria\"? Usando esta tarjeta en la que 1 significa que está completamente de acuerdo con la 'declaración1' y 10 significa que está completamente de acuerdo con la 'declaración2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q108",
+    "question": "¿Está de acuerdo con la afirmación1 'El gobierno debería asumir más responsabilidad para garantizar que todos reciban sustento' o con la afirmación2 'La gente debería asumir más responsabilidad para sustentarse a sí misma'? Usando esta tarjeta en la que 1 significa que está completamente de acuerdo con la 'declaración1' y 10 significa que está completamente de acuerdo con la 'declaración2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q109",
+    "question": "¿Está de acuerdo con la afirmación1 \"La competencia es buena\" o con la afirmación2 \"La competencia es perjudicial\"? Usando esta tarjeta en la que 1 significa que está completamente de acuerdo con la 'declaración1' y 10 significa que está completamente de acuerdo con la 'declaración2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q110",
+    "question": "¿Está de acuerdo con la afirmación1: \"A la larga, el trabajo duro suele traer una vida mejor\" o con la afirmación2: \"El trabajo duro generalmente no trae éxito; es más una cuestión de suerte y conexiones\"? Usando esta tarjeta en la que 1 significa que está completamente de acuerdo con la 'declaración1' y 10 significa que está completamente de acuerdo con la 'declaración2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q111",
+    "question": "¿Cuál de estas afirmaciones se acerca más a su propio punto de vista? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs. 2. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent. 3. Other answer",
+    "option": [
+      "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.",
+      "Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.",
+      "Other answer"
+    ]
+  },
+  {
+    "Q_id": "Q112",
+    "question": "¿Cómo calificaría la corrupción en su país en una escala que va desde \"1\", que significa \"no hay corrupción en mi país\", hasta \"10\", que significa \"hay abundante corrupción en mi país\"? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q113",
+    "question": "¿Cuántas autoridades estatales cree usted que están involucradas en corrupción: ninguna, pocas, la mayoría o todas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q114",
+    "question": "¿Cuántos ejecutivos de empresas cree usted que están involucrados en corrupción: ninguno, pocos, la mayoría o todos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q115",
+    "question": "¿Cuántas autoridades locales cree usted que están involucradas en corrupción: ninguna, pocas, la mayoría o todas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q116",
+    "question": "¿Cuántos proveedores de servicios públicos (policía, poder judicial, funcionarios públicos, médicos, docentes) cree que están involucrados en corrupción: ninguno de ellos, pocos de ellos, la mayoría de ellos o todos ellos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q117",
+    "question": "¿Cuántos periodistas y medios cree usted que están involucrados en corrupción: ninguno, pocos, la mayoría o todos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q118",
+    "question": "¿Con qué frecuencia cree que la gente común tiene que pagar un soborno, dar un regalo o hacer un favor a funcionarios y proveedores de servicios locales para obtener los servicios que necesita: nunca, rara vez, con frecuencia o siempre? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Never 2. Rarely 3. Frequently 4. Always",
+    "option": [
+      "Never",
+      "Rarely",
+      "Frequently",
+      "Always"
+    ]
+  },
+  {
+    "Q_id": "Q119",
+    "question": "¿Hasta qué punto está de acuerdo o en desacuerdo con la afirmación \"en general, las mujeres son menos corruptas que los hombres\", o le resulta difícil decirlo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Hard to say 2. Strongly agree 3. Agree 4. Disagree 5. Strongly disagree",
+    "option": [
+      "Hard to say",
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q120",
+    "question": "¿Cómo calificaría el riesgo de ser considerado responsable por dar o recibir un soborno, regalo o favor a cambio de un servicio público en este país en una escala que va del '1', que significa 'ningún riesgo en absoluto' al '10', que significa 'riesgo muy alto'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q121",
+    "question": "¿Cómo evaluaría el impacto de los inmigrantes en el desarrollo de su país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very bad 2. Quite bad 3. Neither good, nor bad 4. Quite good 5. Very good",
+    "option": [
+      "Very bad",
+      "Quite bad",
+      "Neither good, nor bad",
+      "Quite good",
+      "Very good"
+    ]
+  },
+  {
+    "Q_id": "Q122",
+    "question": "¿Está de acuerdo en que la inmigración cubre importantes puestos vacantes? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q123",
+    "question": "¿Estás de acuerdo en que la inmigración fortalece la diversidad cultural? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q124",
+    "question": "¿Estás de acuerdo en que la inmigración aumenta la tasa de criminalidad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q125",
+    "question": "¿Está de acuerdo en que la inmigración da asilo a refugiados políticos que son perseguidos en otros lugares? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q126",
+    "question": "¿Está de acuerdo en que la inmigración aumenta los riesgos de terrorismo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q127",
+    "question": "¿Está de acuerdo en que la inmigración ofrece una vida mejor a las personas de países pobres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q128",
+    "question": "¿Estás de acuerdo en que la inmigración aumenta el desempleo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q129",
+    "question": "¿Estás de acuerdo en que la inmigración conduce al conflicto social? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q130",
+    "question": "¿Qué debería hacer el gobierno con respecto a la gente de otros países que viene aquí a trabajar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Let anyone come who wants to 2. Let people come as long as there are jobs available 3. Place strict limits on the number of foreigners who can come here 4. Prohibit people coming here from other countries",
+    "option": [
+      "Let anyone come who wants to",
+      "Let people come as long as there are jobs available",
+      "Place strict limits on the number of foreigners who can come here",
+      "Prohibit people coming here from other countries"
+    ]
+  },
+  {
+    "Q_id": "Q131",
+    "question": "¿Qué tan seguro te sientes estos días? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very secure 2. Quite secure 3. Not very secure 4. Not at all secure",
+    "option": [
+      "Very secure",
+      "Quite secure",
+      "Not very secure",
+      "Not at all secure"
+    ]
+  },
+  {
+    "Q_id": "Q132",
+    "question": "¿Con qué frecuencia ocurren robos en su vecindario? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q133",
+    "question": "¿Con qué frecuencia se consume alcohol en las calles de su barrio? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q134",
+    "question": "¿Con qué frecuencia la policía o el ejército interfieren con la vida privada de las personas en su vecindario? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q135",
+    "question": "¿Con qué frecuencia ocurre comportamiento racista en su vecindario? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q136",
+    "question": "¿Con qué frecuencia hay venta de drogas en las calles de su barrio? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q137",
+    "question": "¿Con qué frecuencia ocurren violencia callejera y peleas en tu vecindario? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q138",
+    "question": "¿Con qué frecuencia ocurre acoso sexual en su vecindario? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q139",
+    "question": "¿Te has abstenido de llevar mucho dinero por motivos de seguridad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q140",
+    "question": "¿Has preferido no salir de noche por motivos de seguridad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q141",
+    "question": "¿Ha portado un cuchillo, pistola u otra arma por razones de seguridad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q142",
+    "question": "¿Qué tan preocupado está por perder su trabajo o no encontrar trabajo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q143",
+    "question": "¿Qué tan preocupado estás por no poder darles una buena educación a tus hijos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q144",
+    "question": "¿Ha sido víctima de un delito durante el último año? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q145",
+    "question": "¿Alguien de su familia inmediata ha sido víctima de un delito durante el último año? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q146",
+    "question": "¿Qué tan preocupado estás por una guerra que involucre a tu país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q147",
+    "question": "¿Qué tan preocupado estás por un ataque terrorista? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q148",
+    "question": "¿Qué tan preocupado estás por una guerra civil? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q149",
+    "question": "Si tuvieras que elegir entre libertad e igualdad, ¿cuál considerarías más importante? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Equality",
+    "option": [
+      "Freedom",
+      "Equality"
+    ]
+  },
+  {
+    "Q_id": "Q150",
+    "question": "Si tuvieras que elegir entre libertad y seguridad, ¿cuál considerarías más importante? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Security",
+    "option": [
+      "Freedom",
+      "Security"
+    ]
+  },
+  {
+    "Q_id": "Q151",
+    "question": "Si llegara a ser así, ¿estaría dispuesto a luchar por su país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q152",
+    "question": "¿Cuál de las siguientes opciones considera usted más importante para los objetivos de su país para los próximos diez años? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q153",
+    "question": "¿Cuál de los siguientes sería el segundo más importante para los objetivos de su país para los próximos diez años? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q154",
+    "question": "Si tuvieras que elegir, ¿cuál de las cosas dirías que es la más importante? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q155",
+    "question": "Si tuvieras que elegir, ¿cuál de las cosas dirías que es la segunda más importante? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q156",
+    "question": "¿En tu opinión, cuál de estos es el más importante? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q157",
+    "question": "¿En tu opinión, cuál de ellos es el segundo más importante? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q158",
+    "question": "¿Estás de acuerdo en que la ciencia y la tecnología están haciendo nuestras vidas más saludables, más fáciles y más cómodas? Usando esta tarjeta en la que 1 significa que estás \"completamente en desacuerdo\" y 10 significa que \"completamente de acuerdo\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q159",
+    "question": "¿Está de acuerdo en que gracias a la ciencia y la tecnología habrá más oportunidades para la próxima generación? Usando esta tarjeta en la que 1 significa que estás \"completamente en desacuerdo\" y 10 significa que \"completamente de acuerdo\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q160",
+    "question": "¿Estás de acuerdo en que dependemos demasiado de la ciencia y poco de la fe? Usando esta tarjeta en la que 1 significa que estás \"completamente en desacuerdo\" y 10 significa que \"completamente de acuerdo\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q161",
+    "question": "¿Estás de acuerdo en que uno de los efectos negativos de la ciencia es que desbarata las ideas de lo que está bien y lo que está mal? Usando esta tarjeta en la que 1 significa que estás \"completamente en desacuerdo\" y 10 significa que \"completamente de acuerdo\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q162",
+    "question": "¿Estás de acuerdo en que no es importante para ti saber de ciencia en tu vida diaria? Usando esta tarjeta en la que 1 significa que estás \"completamente en desacuerdo\" y 10 significa que \"completamente de acuerdo\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q163",
+    "question": "Considerando todo esto, ¿diría usted que el mundo está mejor o peor gracias a la ciencia y la tecnología? Usando esta tarjeta en la que 1 significa \"Mucho peor\" y 10 significa \"Mucho mejor\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q164",
+    "question": "¿Qué importancia tiene Dios en tu vida en una escala que va del '1' que significa 'nada importante' al '10' que significa 'muy importante'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q165",
+    "question": "¿Crees en Dios? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q166",
+    "question": "¿Crees en la vida después de la muerte? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q167",
+    "question": "¿Crees en el infierno? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q168",
+    "question": "¿Crees en el cielo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q169",
+    "question": "¿Está totalmente de acuerdo, de acuerdo, en desacuerdo o totalmente en desacuerdo con que cuando la ciencia y la religión entran en conflicto, la religión siempre tiene la razón? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q170",
+    "question": "¿Está totalmente de acuerdo, de acuerdo, en desacuerdo o totalmente en desacuerdo con que la única religión aceptable es la suya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q171",
+    "question": "Aparte de bodas y funerales, ¿con qué frecuencia asiste a servicios religiosos en estos días? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. More than once a week 2. Once a week 3. Once a month 4. Only on special holy days 5. Once a year 6. Less often 7. Never, practically never",
+    "option": [
+      "More than once a week",
+      "Once a week",
+      "Once a month",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q172",
+    "question": "Aparte de bodas y funerales, ¿con qué frecuencia rezas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Several times a day 2. Once a day 3. Several times each week 4. Only when attending religious services 5. Only on special holy days 6. Once a year 7. Less often 8. Never, practically never",
+    "option": [
+      "Several times a day",
+      "Once a day",
+      "Several times each week",
+      "Only when attending religious services",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q173",
+    "question": "Independientemente de si asiste a servicios religiosos o no, ¿diría que es una persona religiosa, no religiosa o atea? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A religious person 2. Not a religious person 3. An atheist",
+    "option": [
+      "A religious person",
+      "Not a religious person",
+      "An atheist"
+    ]
+  },
+  {
+    "Q_id": "Q174",
+    "question": "¿Con cuál de las siguientes afirmaciones estás más de acuerdo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to follow religious norms and ceremonies 2. The basic meaning of religion is to do good to other people",
+    "option": [
+      "The basic meaning of religion is to follow religious norms and ceremonies",
+      "The basic meaning of religion is to do good to other people"
+    ]
+  },
+  {
+    "Q_id": "Q175",
+    "question": "¿Con cuál de las siguientes afirmaciones estás más de acuerdo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to make sense of life after death 2. The basic meaning of religion is to make sense of life in this world",
+    "option": [
+      "The basic meaning of religion is to make sense of life after death",
+      "The basic meaning of religion is to make sense of life in this world"
+    ]
+  },
+  {
+    "Q_id": "Q176",
+    "question": "¿Qué tan de acuerdo o en desacuerdo está usted con la afirmación de que hoy en día a menudo uno tiene problemas para decidir qué reglas morales son las correctas a seguir? Usando esta tarjeta en la que 1 significa que estás \"completamente en desacuerdo\" y 10 significa que \"completamente de acuerdo\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q177",
+    "question": "¿Cree que reclamar beneficios gubernamentales a los que no tiene derecho siempre puede estar justificado, nunca estar justificado o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q178",
+    "question": "¿Cree que evitar un billete en el transporte público siempre puede estar justificado, nunca estar justificado o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q179",
+    "question": "¿Crees que el robo de propiedad siempre puede estar justificado, nunca estar justificado o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q180",
+    "question": "¿Cree que hacer trampa en los impuestos, si se tiene la oportunidad, siempre puede estar justificado, nunca estar justificado, o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q181",
+    "question": "¿Cree que alguien que acepte un soborno en el desempeño de sus funciones siempre puede estar justificado, nunca estarlo, o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q182",
+    "question": "¿Crees que la homosexualidad siempre se puede justificar, nunca se puede justificar o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q183",
+    "question": "¿Crees que la prostitución siempre puede estar justificada, nunca estar justificada o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q184",
+    "question": "¿Crees que el aborto siempre puede estar justificado, nunca estar justificado o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q185",
+    "question": "¿Crees que el divorcio siempre puede estar justificado, nunca estar justificado o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q186",
+    "question": "¿Crees que el sexo antes del matrimonio siempre puede justificarse, nunca justificarse o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q187",
+    "question": "¿Crees que el suicidio siempre puede estar justificado, nunca estar justificado o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q188",
+    "question": "¿Crees que la eutanasia siempre puede estar justificada, nunca estar justificada o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q189",
+    "question": "¿Crees que que un hombre golpee a su esposa siempre puede estar justificado, nunca estarlo, o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q190",
+    "question": "¿Crees que los padres que golpean a sus hijos siempre pueden estar justificados, nunca estar justificados o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q191",
+    "question": "¿Crees que la violencia contra otras personas siempre se puede justificar, nunca se puede justificar o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q192",
+    "question": "¿Cree que el terrorismo como medio político, ideológico o religioso siempre puede justificarse, nunca justificarse o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q193",
+    "question": "¿Crees que tener sexo casual siempre puede estar justificado, nunca estar justificado o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q194",
+    "question": "¿Cree que la violencia política siempre se puede justificar, nunca se puede justificar o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q195",
+    "question": "¿Cree que la pena de muerte siempre puede estar justificada, nunca estar justificada o algo intermedio? Usando esta tarjeta en la que 1 significa \"Nunca justificable\" y 10 significa \"Siempre justificable\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q196",
+    "question": "¿Cree que el gobierno de su país debería o no tener derecho a mantener a las personas bajo videovigilancia en áreas públicas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q197",
+    "question": "¿Cree que el gobierno de su país debería o no tener derecho a controlar todos los correos electrónicos y cualquier otra información intercambiada en Internet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q198",
+    "question": "¿Cree que el gobierno de su país debería o no tener derecho a recopilar información sobre cualquier persona que viva en este país sin su conocimiento? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q199",
+    "question": "¿Qué tan interesado dirías que estás en la política? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very interested 2. Somewhat interested 3. Not very interested 4. Not at all interested",
+    "option": [
+      "Very interested",
+      "Somewhat interested",
+      "Not very interested",
+      "Not at all interested"
+    ]
+  },
+  {
+    "Q_id": "Q200",
+    "question": "Cuando te reúnes con tus amigos, ¿dirías que hablas de temas políticos con frecuencia, ocasionalmente o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Frequently 2. Occasionally 3. Never",
+    "option": [
+      "Frequently",
+      "Occasionally",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q201",
+    "question": "¿Con qué frecuencia utiliza los periódicos para obtener información: diaria, semanal, mensual, menos de una vez al mes o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q202",
+    "question": "¿Con qué frecuencia utiliza las noticias de televisión para obtener información: diaria, semanal, mensual, menos de una vez al mes o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q203",
+    "question": "¿Con qué frecuencia utiliza las noticias de radio para obtener información: diaria, semanal, mensual, menos de mensual o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q204",
+    "question": "¿Con qué frecuencia utiliza el teléfono móvil para obtener información: diariamente, semanalmente, mensualmente, menos de una vez al mes o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q205",
+    "question": "¿Con qué frecuencia utiliza el correo electrónico para obtener información: diariamente, semanalmente, mensualmente, menos de una vez al mes o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q206",
+    "question": "¿Con qué frecuencia utiliza Internet para obtener información: diariamente, semanalmente, mensualmente, menos de una vez al mes o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q207",
+    "question": "¿Con qué frecuencia utiliza las redes sociales para obtener información: diariamente, semanalmente, mensualmente, menos de una vez al mes o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q208",
+    "question": "¿Con qué frecuencia obtiene información hablando con amigos o colegas: diariamente, semanalmente, mensualmente, menos de una vez al mes o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q209",
+    "question": "¿Ha firmado, podría firmar o nunca firmaría una petición? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q210",
+    "question": "¿Se ha unido, podría hacerlo o nunca se uniría a boicots? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q211",
+    "question": "¿Ha asistido, podría o nunca asistiría a manifestaciones pacíficas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q212",
+    "question": "¿Se ha unido, podría hacerlo o nunca se uniría a huelgas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q213",
+    "question": "¿Ha hecho, podría hacer o nunca haría donaciones a un grupo o campaña? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q214",
+    "question": "¿Ha contactado, podría hacerlo o nunca se comunicaría con un funcionario del gobierno? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q215",
+    "question": "¿Ha hecho, podría hacer o nunca alentaría a otros a tomar medidas sobre cuestiones políticas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q216",
+    "question": "¿Ha hecho, podría hacer o nunca alentaría a otros a votar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q217",
+    "question": "¿Ha buscado, podría hacerlo o nunca buscaría información sobre política y eventos políticos en línea? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q218",
+    "question": "¿Ha firmado, podría firmar o nunca firmaría una petición electrónica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q219",
+    "question": "¿Ha hecho, podría hacer o nunca alentaría a otras personas a emprender algún tipo de acción política? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q220",
+    "question": "¿Ha organizado, podría organizar o nunca organizaría actividades políticas, eventos o protestas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q221",
+    "question": "Cuando se realizan elecciones a nivel local, ¿vota usted siempre, normalmente o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q222",
+    "question": "Cuando se realizan elecciones a nivel nacional, ¿vota usted siempre, normalmente o nunca? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q223",
+    "question": "Si mañana hubiera elecciones nacionales, ¿por qué partido de esta lista votaría usted? Si NO LO SABE: ¿Qué partido le atrae más? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Party 1 2. Party 2 3. Party 3 4. etc.",
+    "option": [
+      "Party 1",
+      "Party 2",
+      "Party 3",
+      "etc."
+    ]
+  },
+  {
+    "Q_id": "Q224",
+    "question": "¿Con qué frecuencia se cuentan los votos de manera justa en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q225",
+    "question": "¿Con qué frecuencia se impide a los candidatos de la oposición presentarse a las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q226",
+    "question": "¿Con qué frecuencia los informativos de televisión favorecen al partido gobernante en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q227",
+    "question": "¿Con qué frecuencia se soborna a los votantes en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q228",
+    "question": "¿Con qué frecuencia los periodistas brindan una cobertura justa de las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q229",
+    "question": "¿Con qué frecuencia los funcionarios electorales son justos en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q230",
+    "question": "¿Con qué frecuencia los ricos compran elecciones en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q231",
+    "question": "¿Con qué frecuencia los votantes son amenazados con violencia en las urnas en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q232",
+    "question": "¿Con qué frecuencia se ofrece a los votantes una opción genuina en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q233",
+    "question": "¿Con qué frecuencia las mujeres tienen igualdad de oportunidades para postularse para cargos públicos en las elecciones de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q234",
+    "question": "¿Qué importancia tiene para usted tener elecciones honestas: muy importantes, bastante importantes, poco importantes o nada importantes? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q234A",
+    "question": "¿Hasta qué punto cree que el sistema político de su país permite que personas como usted tengan voz y voto en lo que hace el gobierno: mucho, mucho, algo, muy poco o nada? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. A lot 3. Some 4. Very little 5. Not at all",
+    "option": [
+      "A great deal",
+      "A lot",
+      "Some",
+      "Very little",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q235",
+    "question": "¿Cómo se siente al tener un líder fuerte que no tiene que preocuparse por el parlamento y las elecciones como forma de gobernar este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q236",
+    "question": "¿Qué opina de que los expertos, no el gobierno, tomen decisiones de acuerdo con lo que creen que es mejor para el país como forma de gobernar este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q237",
+    "question": "¿Qué opina de que el ejército gobierne como forma de gobernar este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q238",
+    "question": "¿Qué opina de tener un sistema político democrático como forma de gobernar este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q239",
+    "question": "¿Cómo se siente al tener un sistema regido por la ley religiosa en el que no hay partidos políticos ni elecciones como forma de gobernar este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q240",
+    "question": "En materia política, ¿cómo ubicaría sus opiniones en esta escala de \"izquierda\" a \"derecha\"? Usando esta tarjeta en la que 1 significa \"izquierda\" y 10 significa \"derecha\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q241",
+    "question": "¿Hasta qué punto cree usted que es esencial para la democracia que los gobiernos graven a los ricos y subvencionen a los pobres? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q242",
+    "question": "¿Hasta qué punto cree que es esencial para la democracia que las autoridades religiosas interpreten en última instancia las leyes? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q243",
+    "question": "¿Hasta qué punto cree que es esencial para la democracia que la gente elija a sus líderes en elecciones libres? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q244",
+    "question": "¿Hasta qué punto cree que es esencial para la democracia que las personas reciban ayudas estatales por desempleo? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q245",
+    "question": "¿Hasta qué punto cree que es esencial para la democracia que el ejército asuma el poder cuando el gobierno es incompetente? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q246",
+    "question": "¿Cuán esencial cree usted que es para la democracia que los derechos civiles protejan a las personas de la opresión estatal? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q247",
+    "question": "¿Hasta qué punto cree que es esencial para la democracia que el Estado iguale los ingresos de las personas? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q248",
+    "question": "¿Hasta qué punto cree que es esencial para la democracia que la gente obedezca a sus gobernantes? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q249",
+    "question": "¿Hasta qué punto cree que es esencial para la democracia que las mujeres tengan los mismos derechos que los hombres? Usando esta tarjeta en la que 0 significa \"va en contra de la democracia\", 1 significa \"no es en absoluto una característica esencial de la democracia\" y 10 significa \"una característica esencial de la democracia\". Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q250",
+    "question": "¿Qué importancia tiene para usted vivir en un país gobernado democráticamente? Usando esta tarjeta en la que 1 significa \"nada importante\" y 10 significa \"absolutamente importante\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q251",
+    "question": "¿Cuán democráticamente se gobierna este país hoy? Usando esta tarjeta en la que 1 significa \"nada democrático\" y 10 significa \"completamente democrático\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q252",
+    "question": "¿Qué tan satisfecho está usted con el funcionamiento del sistema político en su país actualmente? Usando esta tarjeta en la que 1 significa \"nada satisfecho\" y 10 significa \"completamente satisfecho\" Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q253",
+    "question": "¿Cuánto respeto hay hoy en día por los derechos humanos individuales en este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal of respect for individual human rights 2. Fairly much respect 3. Not much respect 4. No respect at all",
+    "option": [
+      "A great deal of respect for individual human rights",
+      "Fairly much respect",
+      "Not much respect",
+      "No respect at all"
+    ]
+  },
+  {
+    "Q_id": "Q254",
+    "question": "¿Qué tan orgulloso estás de tu nacionalidad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very proud 2. Quite proud 3. Not very proud 4. Not at all proud 5. I am not of this nationality",
+    "option": [
+      "Very proud",
+      "Quite proud",
+      "Not very proud",
+      "Not at all proud",
+      "I am not of this nationality"
+    ]
+  },
+  {
+    "Q_id": "Q255",
+    "question": "¿Qué tan cerca te sientes de tu pueblo, pueblo o ciudad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q256",
+    "question": "¿Qué tan cerca se siente de su condado, región o distrito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q257",
+    "question": "¿Qué tan cerca te sientes de tu país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q258",
+    "question": "¿Qué tan cerca se siente de su continente (por ejemplo, Europa, Asia, etc.)? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q259",
+    "question": "¿Qué tan cerca te sientes del mundo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q260",
+    "question": "¿Cuál es tu sexo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Male 2. Female",
+    "option": [
+      "Male",
+      "Female"
+    ]
+  },
+  {
+    "Q_id": "Q263",
+    "question": "¿Nació usted en este país o es inmigrante en este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q264",
+    "question": "¿Tu madre es inmigrante en este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q265",
+    "question": "¿Tu padre es un inmigrante en este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q269",
+    "question": "¿Es usted ciudadano de este país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, I am a citizen of this country 2. No, I am not a citizen of this country",
+    "option": [
+      "Yes, I am a citizen of this country",
+      "No, I am not a citizen of this country"
+    ]
+  },
+  {
+    "Q_id": "Q271",
+    "question": "¿Vives con tus padres o con tus suegros? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No 2. Yes, own parent(s) 3. Yes, parent(s) in law 4. Yes, both own parent(s) and parent(s) in law",
+    "option": [
+      "No",
+      "Yes, own parent(s)",
+      "Yes, parent(s) in law",
+      "Yes, both own parent(s) and parent(s) in law"
+    ]
+  },
+  {
+    "Q_id": "Q273",
+    "question": "¿Cuál es su estado civil actual? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Married 2. Living together as married 3. Divorced 4. Separated 5. Widowed 6. Single",
+    "option": [
+      "Married",
+      "Living together as married",
+      "Divorced",
+      "Separated",
+      "Widowed",
+      "Single"
+    ]
+  },
+  {
+    "Q_id": "Q275",
+    "question": "¿Cuál es el nivel educativo más alto que ha alcanzado? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q276",
+    "question": "¿Cuál es el nivel educativo más alto que ha alcanzado su cónyuge? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q277",
+    "question": "¿Cuál es el nivel educativo más alto que ha alcanzado su madre? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q278",
+    "question": "¿Cuál es el nivel educativo más alto que ha alcanzado su padre? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q279",
+    "question": "¿Está actualmente empleado? En caso afirmativo, ¿aproximadamente cuántas horas a la semana? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q280",
+    "question": "¿Su cónyuge está actualmente empleado? En caso afirmativo, ¿estuvo empleado (ya sea a tiempo completo o parcial) o trabajó por cuenta propia en su último trabajo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q281",
+    "question": "¿A cuál de los siguientes grupos ocupacionales pertenece? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q282",
+    "question": "¿A cuál de los siguientes grupos ocupacionales pertenece su cónyuge? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q283",
+    "question": "Cuando tenías 14 años, ¿a cuál de los siguientes grupos ocupacionales pertenecía tu padre? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q284",
+    "question": "¿Trabaja para el gobierno o una institución pública, para una empresa o industria privada o para una organización privada sin fines de lucro? Si no trabaja actualmente, caracterice su trabajo principal en el pasado. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Government or public institution 2. Private business or industry 3. Private non-profit organization",
+    "option": [
+      "Government or public institution",
+      "Private business or industry",
+      "Private non-profit organization"
+    ]
+  },
+  {
+    "Q_id": "Q285",
+    "question": "¿Es usted el principal sostén de su hogar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q286",
+    "question": "Durante el año pasado, ¿su familia ahorró dinero, simplemente se las arregló, gastó algunos ahorros o gastó ahorros y dinero prestado? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Saved money 2. Just get by 3. Spent some savings 4. Spent savings and borrowed money",
+    "option": [
+      "Saved money",
+      "Just get by",
+      "Spent some savings",
+      "Spent savings and borrowed money"
+    ]
+  },
+  {
+    "Q_id": "Q287",
+    "question": "¿Se describiría usted como perteneciente a la clase alta, clase media alta, clase media baja, clase trabajadora o clase baja? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Upper class 2. Upper middle class 3. Lower middle class 4. Working class 5. Lower class",
+    "option": [
+      "Upper class",
+      "Upper middle class",
+      "Lower middle class",
+      "Working class",
+      "Lower class"
+    ]
+  },
+  {
+    "Q_id": "Q288",
+    "question": "En una escala de ingresos donde 1 indica el grupo de ingresos más bajos y 10 el grupo de ingresos más altos de su país, ¿en qué grupo se encuentra su hogar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q289",
+    "question": "¿Perteneces a una religión o denominación religiosa? En caso afirmativo, ¿cuál? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No denomination 2. Roman Catholic 3. Protestant 4. Orthodox (Russian/Greek/etc.) 5. Jew 6. Muslim 7. Hindu 8. Buddhist 9. Other (write in):",
+    "option": [
+      "No denomination",
+      "Roman Catholic",
+      "Protestant",
+      "Orthodox (Russian/Greek/etc.)",
+      "Jew",
+      "Muslim",
+      "Hindu",
+      "Buddhist",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q290",
+    "question": "¿Cuál es tu grupo étnico? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. White 2. Black 3. South Asian Indian, Pakistani, etc. 4. East Asian Chinese, Japanese, etc. 5. Arabic, Central Asian 6. Other (write in):",
+    "option": [
+      "White",
+      "Black",
+      "South Asian Indian, Pakistani, etc.",
+      "East Asian Chinese, Japanese, etc.",
+      "Arabic, Central Asian",
+      "Other (write in):"
+    ]
+  }
+]

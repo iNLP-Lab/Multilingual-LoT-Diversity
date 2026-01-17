@@ -1,0 +1,3115 @@
+[
+  {
+    "Q_id": "Q1",
+    "question": "Qué tan importanta es la familha dins vòstra vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q2",
+    "question": "Qué tan importants son los amics dins vòstra vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q3",
+    "question": "Qué tan important es lo temps de léser dins vòstra vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q4",
+    "question": "Qué tan importanta es la politica dins vòstra vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q5",
+    "question": "Qué tan important es lo trabalh dins vòstra vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q6",
+    "question": "Qué tan importanta a la religion dins vòstra vida? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q7",
+    "question": "Consideratz que las bonas manièras son mai que mai importantas pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q8",
+    "question": "Consideratz que l'independéncia es mai que mai importanta pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q9",
+    "question": "Consideratz que lo trabalh dur es mai que mai important pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q10",
+    "question": "Consideratz qu'un sentiment de responsabilitat es mai que mai important pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q11",
+    "question": "Consideratz que l'imaginacion es mai que mai importanta pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q12",
+    "question": "Consideratz que la tolerància e lo respècte per las autras personas son mai que mai importants pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q13",
+    "question": "Consideratz l'economia, l'estalvi d'argent e de causas coma mai que mai importants pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q14",
+    "question": "Consideratz que la determinacion e la perseverància son mai que mai importantas pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q15",
+    "question": "Consideratz que la fe religiosa es mai que mai importanta pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q16",
+    "question": "Consideratz pas èsser egoïsta (desinteressament) coma mai que mai important pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q17",
+    "question": "Consideratz l'obedíncia coma mai que mai importanta pels enfants per aprene a l'ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q18",
+    "question": "Vos agradariá pas d'aver de toxicomans coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q19",
+    "question": "Vos agradariá pas d'aver de personas d'una raça diferenta coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q20",
+    "question": "Vos agradariá pas d'aver de personas qu'an lo sida coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q21",
+    "question": "Vos agradariá pas d'aver d'immigrants o de trabalhadors estrangièrs coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q22",
+    "question": "Vos agradariá pas d'aver d'omosexuals coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q23",
+    "question": "Vos agradariá pas d'aver de personas d'una religion diferenta coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q24",
+    "question": "Vos agradariá pas d'aver de beveires pesucs coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q25",
+    "question": "Vos agradariá pas d'aver de cobles non maridats que vivon amassa coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q26",
+    "question": "Vos agradariá pas d’aver de personas que parlan una lenga diferenta coma vesins? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q27",
+    "question": "Sètz d'acòrdi qu'un de vòstres objectius principals dins la vida es estat de far fièrs vòstres parents? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q28",
+    "question": "Sètz d'acòrdi que quand una maire trabalha per paga, los enfants patisson? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q29",
+    "question": "Sètz d'acòrdi que dins l'ensems, los òmes fan de melhors dirigents politics que las femnas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q30",
+    "question": "Sètz d'acòrdi qu'una formacion universitària es mai importanta per un garçon que per una gojata? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q31",
+    "question": "Sètz d'acòrdi que dins l'ensems, los òmes fan de melhors executius d'entrepresas que las femnas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q32",
+    "question": "Sètz d'acòrdi qu'èsser femna de l'ostal es tan satisfasent coma trabalhar per pagar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q33",
+    "question": "Sètz d'acòrdi que quand los emplecs son escasses, los òmes deurián aver mai de drech a un emplec que las femnas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q34",
+    "question": "Sètz d'acòrdi que quand los emplecs son escasses, los emplegaires deurián donar la prioritat a las personas d'aquel país al dessús dels immigrants? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q35",
+    "question": "Sètz d'acòrdi que se una femna ganha mai d'argent que son òme, es gaireben segur de causar de problèmas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q36",
+    "question": "Sètz d'acòrdi que los cobles omosexuals son tan bons parents coma los autres cobles? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q37",
+    "question": "Sètz d'acòrdi qu'es un dever cap a la societat d'aver d'enfants? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q38",
+    "question": "Sètz d'acòrdi que los enfants adultes an lo dever de provesir de suènhs a long tèrme a lors parents? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q39",
+    "question": "Sètz d'acòrdi que las personas que trabalhan pas venon mandras? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q40",
+    "question": "Sètz d'acòrdi que lo trabalh es un dever cap a la societat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q41",
+    "question": "Sètz d'acòrdi que lo trabalh deuriá totjorn venir primièr, quitament se significa mens de temps liure? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q42",
+    "question": "Quala de las seguentas descriu melhor vòstra pròpria opinion a prepaus de la societat ont vivèm: tota la manièra que nòstra societat es organizada deu èsser radicalament cambiada per l'accion revolucionària, nòstra societat deu èsser gradualament melhorada per de reformas, o nòstra societat actuala deu èsser valentament defenduda contra totas las fòrças subversivas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The entire way our society is organized must be radically changed by revolutionary action 2. Our society must be gradually improved by reforms 3. Our present society must be valiantly defended against all subversive forces",
+    "option": [
+      "The entire way our society is organized must be radically changed by revolutionary action",
+      "Our society must be gradually improved by reforms",
+      "Our present society must be valiantly defended against all subversive forces"
+    ]
+  },
+  {
+    "Q_id": "Q43",
+    "question": "Se mens d'importància èra plaçada al trabalh dins nòstras vidas, creiriás que seriá una bona causa, una marrida causa, o te fas pas mal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q44",
+    "question": "Se i aviá mai d'accent sul desvolopament de la tecnologia, creiriás que seriá una bona causa, una marrida causa, o te fas pas mal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q45",
+    "question": "Se i aviá un respècte mai grand per l'autoritat, creiriás que seriá una bona causa, una marrida causa, o te fas pas mal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q46",
+    "question": "En prenent totas las causas amassa, diriás qu'es fòrça content, puslèu content, pas fòrça content, o pas brica content? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very happy 2. Rather happy 3. Not very happy 4. Not at all happy",
+    "option": [
+      "Very happy",
+      "Rather happy",
+      "Not very happy",
+      "Not at all happy"
+    ]
+  },
+  {
+    "Q_id": "Q47",
+    "question": "En tot, cossí descriuriás ton estat de santat aquestes jorns? Diriás qu'es fòrça bon, bon, just, paure, o fòrça paure? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Good 3. Fair 4. Poor 5. Very poor",
+    "option": [
+      "Very good",
+      "Good",
+      "Fair",
+      "Poor",
+      "Very poor"
+    ]
+  },
+  {
+    "Q_id": "Q48",
+    "question": "Qualques personas senton qu'an de causida e de contraròtle completament liures sus lor vida, del temps que d'autras personas senton que çò que fan a pas cap d'efièch real sus çò que lor arriba. Mercés d'utilizar aquesta escala ont 1 significa 'pas de causida brica' e 10 significa 'una granda quantitat de causida' per indicar quanta libertat de causida e de contraròtle sentissètz aver sus la manièra que vòstra vida se debana. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q49",
+    "question": "Totas las causas consideradas, cossí sètz satisfach de vòstra vida dins son ensemble aquestes jorns? En utilizant aquesta carta que 1 significa que sètz 'completament insatisfach' e 10 significa que sètz 'completament satisfach', ont metriátz vòstra satisfaccion amb vòstra vida dins son ensemble? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q50",
+    "question": "Qué tan satisfach sètz de la situacion financièra de vòstre ostal? Utilizar aquesta carta sus la quala 1 significa que sètz 'totalament insatisfach' e 10 significa que sètz 'totalament satisfach'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q51",
+    "question": "Dins los darrièrs 12 meses, quant de còps sètz passats vos o vòstra familha sens pro de manjar per manjar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q52",
+    "question": "Dins los darrièrs 12 meses, quant de còps vos o vòstra familha vos sètz sentits pas segurs del crime dins vòstre ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q53",
+    "question": "Dins los darrièrs 12 meses, quant de còps vos o vòstra familha sètz anats sens medecina o tractament medical que ne caliá? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q54",
+    "question": "Dins los darrièrs 12 meses, quant de còps vos o vòstra familha avètz passat sens revengut en espèça? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q55",
+    "question": "Dins los darrièrs 12 meses, quant de còps sètz passats vos o vòstra familha sens un abric segur al dessús de vòstre cap? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q56",
+    "question": "En comparant vòstre nivèl de vida amb lo nivèl de vida de vòstres parents quand avián aperaquí vòstra edat, diriatz que sètz melhor, pièger, o aperaquí parièr? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Better off 2. Worse off 3. About the same",
+    "option": [
+      "Better off",
+      "Worse off",
+      "About the same"
+    ]
+  },
+  {
+    "Q_id": "Q57",
+    "question": "En general, diriás que la màger part de las personas pòdon èsser fisadas o que cal èsser fòrça prudent en tractar amb las personas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Most people can be trusted 2. Need to be very careful",
+    "option": [
+      "Most people can be trusted",
+      "Need to be very careful"
+    ]
+  },
+  {
+    "Q_id": "Q58",
+    "question": "Quant fasètz fisança a vòstra familha: completament, un pauc, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q59",
+    "question": "Quant fasètz fisança a vòstre barri: completament, un pauc, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q60",
+    "question": "Quant fasètz fisança a las personas que coneissètz personalament: completament, un pauc, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q61",
+    "question": "Quant fasètz fisança a las personas que rescontratz pel primièr còp: completament, un pauc, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q62",
+    "question": "Quant fasètz fisança a las gents d'una autra religion: completament, un pauc, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q63",
+    "question": "Quant fasètz fisança a las gents d'una autra nacionalitat: completament, un pauc, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q64",
+    "question": "Quant de confiéncia avètz dins los luòcs utilizats pel culte e d'autras activitats religiosas: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q65",
+    "question": "Quant de confiéncia avètz dins las fòrças armadas: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q66",
+    "question": "Quant de fisança avètz dins la premsa : fòrça, plan, pas gaire, o pas brica ? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q67",
+    "question": "Quant de fisança avètz dins la television: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q68",
+    "question": "Quant de confiéncia avètz dins los sindicats: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q69",
+    "question": "Quant de fisança avètz dins la polícia: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q70",
+    "question": "Quant de confiéncia avètz dins los tribunals: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q71",
+    "question": "Quant de fisança avètz dins lo govèrn: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q72",
+    "question": "Quant de confiéncia avètz dins los partits politics: fòrça, plan, pas gaire, o pas cap? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q73",
+    "question": "Quant de fisança avètz dins lo parlament: fòrça, pron, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q74",
+    "question": "Quant de fisança avètz dins la foncion publica: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q75",
+    "question": "Quant de confiéncia avètz dins las universitats: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q76",
+    "question": "Quant de confiéncia avètz dins las eleccions: fòrça, plan fòrça, pas gaire, o pas cap? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q77",
+    "question": "Quant de confiéncia avètz dins las entrepresas màgers: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q78",
+    "question": "Quant de confiéncia avètz dins las bancas: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q79",
+    "question": "Quant de confiéncia avètz dins las organizacions environamentalas: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q80",
+    "question": "Quant de fisança avètz dins las organizacions de femnas: fòrça, plan, pas gaire, o pas cap? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q81",
+    "question": "Quant de fisança avètz dins las organizacions caritativas o umanitàrias: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q82",
+    "question": "Quant de fisança avètz dins las organizacions regionalas qu’an per objectiu de promòure la cooperacion e l’integracion entre los païses: fòrça, pron, pas gaire, o pas cap? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q83",
+    "question": "Quant de confiéncia avètz dins las Nacions Unidas: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q84",
+    "question": "Quant de fisança avètz dins lo Fons Monetari Internacional (FMI): fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q85",
+    "question": "Quant de confiéncia avètz dins la Cort Penala Internacionala (CPI): fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q86",
+    "question": "Quant de fisança avètz dins l'Organizacion del Tractat de l'Atlantic Nòrd (OTAN): fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q87",
+    "question": "Quant de fisança avètz dins la Banca Mondiala: fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q88",
+    "question": "Quant de confiéncia avètz dins l'Organizacion Mondiala de la Santat (OMS): fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q89",
+    "question": "Quant de fisança avètz dins l'Organizacion Mondiala del Comèrci (OMC): fòrça, plan, pas gaire, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q90",
+    "question": "Uèi lo jorn se parla fòrça d'organizacions internacionalas. Las gents dison de còps que las organizacions internacionalas deurián priorizar la melhoracion de la vida de las personas, quitament s'aquò pòt implicar que las decisions son pas presas democraticament. Qué pensatz que deurián priorizar las organizacions internacionalas, èsser eficaças o èsser democraticas? Utilizar aguesta ficha sus era quau 1 vò díder ‘Èster eficaç’ e 10 vò díder ‘Èster democratic’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q91",
+    "question": "Qual dels seguents es pas membre dels cinc païses amb de sètis permanents al Conselh de Seguretat de las Nacions Unidas: França, China, o Índia? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. France 2. China 3. India",
+    "option": [
+      "France",
+      "China",
+      "India"
+    ]
+  },
+  {
+    "Q_id": "Q92",
+    "question": "Ont se situan los sètis del Fons Monetari Internacional (FMI) : Washington DC, Londres, o Genèva? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Washington DC 2. London 3. Geneva",
+    "option": [
+      "Washington DC",
+      "London",
+      "Geneva"
+    ]
+  },
+  {
+    "Q_id": "Q93",
+    "question": "Quin dels problèmas seguents s'ocupa l'organizacion Amnestia Internacionala: lo cambiament climatic, los dreches umans, o la destruccion dels monuments istorics? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Climate change 2. Human rights 3. Destruction of historic monuments",
+    "option": [
+      "Climate change",
+      "Human rights",
+      "Destruction of historic monuments"
+    ]
+  },
+  {
+    "Q_id": "Q94",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'una glèisa o d'una organizacion religiosa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q95",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'una organizacion esportiva o recreativa, d'una equipa de fotbòl/beisbòl/rugbi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q96",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'una organizacion d'art, de musica o d'educacion? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q97",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'un sindicat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q98",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'un partit politic? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q99",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'una organizacion environamentala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q100",
+    "question": "Sètz membre actiu, membre inactiu, o pas membre d'una associacion professionala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q101",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'una organizacion umanitària o caritativa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q102",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'una organizacion de consum? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q103",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'un grop d'autoajuda, d'un grop d'ajuda mutuala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q104",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'un grop de femnas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q105",
+    "question": "Sètz un membre actiu, un membre inactiu, o pas un membre d'un autre tipe d'organizacion? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q106",
+    "question": "Sètz d'acòrdi amb l'afirmacion1 'Los revenguts deurián èsser faches mai egals' o l'afirmacion2 'I deuriá aver d'incentius mai grands per l'esfòrç individual'? Utilizar aquesta ficha sus la quala 1 significa que sètz completament d'acòrdi amb l''afirmacion1' e 10 significa que sètz completament d'acòrdi amb l''afirmacion2'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q107",
+    "question": "Sètz d'acòrdi amb l'afirmacion1 'La proprietat privada de las entrepresas e de l'industria deuriá èsser aumentada' o l'afirmacion2 'La proprietat del govèrn de las entrepresas e de l'industria deuriá èsser aumentada'? Utilizar aquesta ficha sus la quala 1 significa que sètz completament d'acòrdi amb l''afirmacion1' e 10 significa que sètz completament d'acòrdi amb l''afirmacion2'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q108",
+    "question": "Sètz d'acòrdi amb l'afirmacion1 'Lo govèrn deuriá prene mai de responsabilitat per s'assegurar que totes son provesits' o l'afirmacion2 'Las personas deurián prene mai de responsabilitat per provesir eles meteisses'? Utilizar aquesta ficha sus la quala 1 significa que sètz completament d'acòrdi amb l''afirmacion1' e 10 significa que sètz completament d'acòrdi amb l''afirmacion2'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q109",
+    "question": "Sètz d'acòrdi amb l'afirmacion1 'La competéncia es bona' o l'afirmacion2 'La competéncia es nociva'? Utilizar aquesta ficha sus la quala 1 significa que sètz completament d'acòrdi amb l''afirmacion1' e 10 significa que sètz completament d'acòrdi amb l''afirmacion2'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q110",
+    "question": "Sètz d'acòrdi amb l'afirmacion1 'A la longa, lo trabalh dur pòrta generalament una vida melhora' o l'afirmacion2 'Lo trabalh dur pòrta pas generalament de succès — es mai una question de sòrt e de connexions'? Utilizar aquesta ficha sus la quala 1 significa que sètz completament d'acòrdi amb l''afirmacion1' e 10 significa que sètz completament d'acòrdi amb l''afirmacion2'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q111",
+    "question": "Quala d'aquelas afirmacions s'apròcha mai de vòstre pròpri punt de vista ? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs. 2. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent. 3. Other answer",
+    "option": [
+      "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.",
+      "Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.",
+      "Other answer"
+    ]
+  },
+  {
+    "Q_id": "Q112",
+    "question": "Cossí classariás la corrupcion dins ton país sus una escala de '1' que vòl dire 'i a pas de corrupcion dins mon país' a '10' que vòl dire 'i a de corrupcion abondiua dins mon país'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q113",
+    "question": "Quantas autoritats estatalas cresètz que son implicadas dins la corrupcion: cap d'elas, qualques unas, la màger part, o totas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q114",
+    "question": "Quantes executius d'entrepresas cresètz que son implicats dins la corrupcion: cap d'eles, qualques unes, la màger part, o totes? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q115",
+    "question": "Quantas collectivitats localas cresètz que son implicadas dins la corrupcion: cap d'elas, qualques unas, la màger part, o totas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q116",
+    "question": "Quantes provesidors de servicis publics (polícia, justícia, foncionaris, mètges, ensenhaires) cresètz que son implicats dins la corrupcion: cap d'eles, paucs d'eles, la màger part d'eles, o totes? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q117",
+    "question": "Quantes jornalistas e mèdias cresètz que son implicats dins la corrupcion: cap d'eles, pauc d'eles, la màger part d'eles, o totes? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q118",
+    "question": "Quant de còps pensatz que las personas comunas devon pagar un suborn, far un present, o far un favor als foncionaris locals e als provesidors de servicis per fin d'obténer los servicis que ne cal: jamai, rarament, sovent, o totjorn? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Never 2. Rarely 3. Frequently 4. Always",
+    "option": [
+      "Never",
+      "Rarely",
+      "Frequently",
+      "Always"
+    ]
+  },
+  {
+    "Q_id": "Q119",
+    "question": "Qué tan fòrtament sètz d'acòrdi o desacòrdi amb l'afirmacion 'dins l'ensems, las femnas son mens corrompudas que los òmes', o trobatz malaisit de dire? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Hard to say 2. Strongly agree 3. Agree 4. Disagree 5. Strongly disagree",
+    "option": [
+      "Hard to say",
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q120",
+    "question": "Cossí classariás lo risc d'èsser tengut responsable de donar o recebre un suborn, un present o un favor en retorn de servici public dins aquel país sus una escala de '1' que significa 'pas de risc brica' a '10' que significa 'risc fòrça naut'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q121",
+    "question": "Cossí avalorariás l'impacte dels immigrants sul desvolopament de ton país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very bad 2. Quite bad 3. Neither good, nor bad 4. Quite good 5. Very good",
+    "option": [
+      "Very bad",
+      "Quite bad",
+      "Neither good, nor bad",
+      "Quite good",
+      "Very good"
+    ]
+  },
+  {
+    "Q_id": "Q122",
+    "question": "Sètz d'acòrdi que l'immigracion emplena de vacanças importantas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q123",
+    "question": "Sètz d'acòrdi que l'immigracion afortís la diversitat culturala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q124",
+    "question": "Sètz d'acòrdi que l'immigracion aumenta lo taus de criminalitat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q125",
+    "question": "Sètz d'acòrdi que l'immigracion balha asil als refugiats politics que son perseguits endacòm mai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q126",
+    "question": "Sètz d'acòrdi que l'immigracion aumenta los risques de terrorisme? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q127",
+    "question": "Sètz d'acòrdi que l'immigracion ofrís a las personas de païses paures una vida melhora? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q128",
+    "question": "Sètz d'acòrdi que l'immigracion aumenta lo caumatge? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q129",
+    "question": "Sètz d'acòrdi que l'immigracion mena al conflicte social? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q130",
+    "question": "Qué deuriá far lo govèrn a prepaus de las personas d'autres païses que venon aicí per trabalhar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Let anyone come who wants to 2. Let people come as long as there are jobs available 3. Place strict limits on the number of foreigners who can come here 4. Prohibit people coming here from other countries",
+    "option": [
+      "Let anyone come who wants to",
+      "Let people come as long as there are jobs available",
+      "Place strict limits on the number of foreigners who can come here",
+      "Prohibit people coming here from other countries"
+    ]
+  },
+  {
+    "Q_id": "Q131",
+    "question": "Qué tan segur te sentisses aquestes jorns? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very secure 2. Quite secure 3. Not very secure 4. Not at all secure",
+    "option": [
+      "Very secure",
+      "Quite secure",
+      "Not very secure",
+      "Not at all secure"
+    ]
+  },
+  {
+    "Q_id": "Q132",
+    "question": "Qué frequéncia se produson los panatòris dins vòstre quartièr? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q133",
+    "question": "Amb quina frequéncia se consoma d'alcòl dins las carrièras de vòstre quartièr? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q134",
+    "question": "Qué frequéncia la polícia o l'armada interferisson amb la vida privada de las personas dins vòstre quartièr? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q135",
+    "question": "Qué frequéncia se produsís lo comportament racista dins vòstre quartièr? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q136",
+    "question": "Qué frequéncia es la venda de drògas dins las carrièras de vòstre barri? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q137",
+    "question": "Amb quina frequéncia se produson de violéncias de carrièra e de pelejas dins vòstre barri? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q138",
+    "question": "Qué frequéncia se produsís lo secutament sexual dins vòstre barri? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q139",
+    "question": "S'es abstengut de portar fòrça sòus per de rasons de seguretat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q140",
+    "question": "Avètz preferit sortir pas de nuèch per de rasons de seguretat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q141",
+    "question": "Avètz portat un cotèu, un fusilh, o una autra arma per de rasons de seguretat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q142",
+    "question": "Qué tan preocupatz sètz de pèrdre vòstre trabalh o de pas trobar un trabalh? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q143",
+    "question": "Qué tan preocupatz sètz de pas poder donar a vòstres enfants una bona educacion? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q144",
+    "question": "Sètz estat victima d'un crime pendent l'an passat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q145",
+    "question": "Qualqu'un de vòstra familha pròcha es estat victima d'un crime pendent l'an passat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q146",
+    "question": "Qué tant sètz preocupat per una guèrra qu'implica vòstre país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q147",
+    "question": "Qué tant sètz preocupat per un atac terrorista? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q148",
+    "question": "Qué tant sètz preocupat per una guèrra civila? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q149",
+    "question": "Se deviás causir entre libertat e egalitat, qual considerariás mai important? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Equality",
+    "option": [
+      "Freedom",
+      "Equality"
+    ]
+  },
+  {
+    "Q_id": "Q150",
+    "question": "Se deviás causir entre libertat e seguretat, qual considerariás mai important? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Security",
+    "option": [
+      "Freedom",
+      "Security"
+    ]
+  },
+  {
+    "Q_id": "Q151",
+    "question": "Se arribava a aquò, seriás dispòsat a luchar per ton país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q152",
+    "question": "Qual dels seguents consideratz lo mai important pels objectius de vòstre país pels dètz ans avenidors? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q153",
+    "question": "Qual de las seguentas seriá la segonda mai importanta pels objectius de vòstre país pels dètz ans avenidors? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q154",
+    "question": "Se deviás causir, quala de las causas diriás qu'es la mai importanta? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q155",
+    "question": "Se deviás causir, quala de las causas diriás es la segonda mai importanta? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q156",
+    "question": "A vòstre vejaire, qual d'aqueles es lo mai important? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q157",
+    "question": "A vòstre vejaire, qual d'aqueles es lo segond mai important? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q158",
+    "question": "Sètz d'acòrdi que la sciéncia e la tecnologia fan nòstras vidas mai sanas, mai aisidas e mai confortables? Utilizar aquesta ficha sus la quala 1 significa que sètz 'totalament pas d'acòrdi' e 10 significa que sètz 'totalament d'acòrdi'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q159",
+    "question": "Sètz d'acòrdi que pr'amor de la sciéncia e de la tecnologia, i aurà mai d'escasenças per la generacion venenta? Utilizar aquesta ficha sus la quala 1 significa que sètz 'totalament pas d'acòrdi' e 10 significa que sètz 'totalament d'acòrdi'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q160",
+    "question": "Sètz d'acòrdi que dependèm tròp de la sciéncia e pas pro de la fe? Utilizar aquesta ficha sus la quala 1 significa que sètz 'totalament pas d'acòrdi' e 10 significa que sètz 'totalament d'acòrdi'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q161",
+    "question": "Sètz d'acòrdi qu'un dels marrits efièches de la sciéncia es que descompausa las idèas de las personas del plan e del mal? Utilizar aquesta ficha sus la quala 1 significa que sètz 'totalament pas d'acòrdi' e 10 significa que sètz 'totalament d'acòrdi'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q162",
+    "question": "Sètz d'acòrdi qu'es pas important per vos de conéisser la sciéncia dins vòstra vida quotidiana? Utilizar aquesta ficha sus la quala 1 significa que sètz 'totalament pas d'acòrdi' e 10 significa que sètz 'totalament d'acòrdi'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q163",
+    "question": "Totas las causas consideradas, diriás que lo mond es melhor, o pièger, a causa de la sciéncia e de la tecnologia? Utilizar aquesta carta que 1 significa 'Fòrça pièger' e 10 significa 'Fòrça melhor' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q164",
+    "question": "Qué tan important es Dieu dins vòstra vida sus una escala de '1' que vòl dire 'pas brica important' a '10' que vòl dire 'fòrça important'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q165",
+    "question": "Cresètz en Dieu? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q166",
+    "question": "Cresètz a la vida après la mòrt? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q167",
+    "question": "Cresètz a l'Infèrn? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q168",
+    "question": "Cresètz al Cèl? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q169",
+    "question": "Sètz fòrtament d'acòrdi, sètz d'acòrdi, sètz pas d'acòrdi, o sètz fòrtament pas d'acòrdi que cada còp que la sciéncia e la religion se conflicta, la religion a totjorn rason? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q170",
+    "question": "Sètz fòrtament d'acòrdi, sètz d'acòrdi, sètz pas d'acòrdi, o sètz fòrtament pas d'acòrdi que la sola religion acceptabla es vòstra religion? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q171",
+    "question": "A despart dels maridatges e dels enterraments, amb quina frequéncia assistissètz als servicis religioses aquestes jorns? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. More than once a week 2. Once a week 3. Once a month 4. Only on special holy days 5. Once a year 6. Less often 7. Never, practically never",
+    "option": [
+      "More than once a week",
+      "Once a week",
+      "Once a month",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q172",
+    "question": "A despart dels maridatges e dels enterraments, amb quina frequéncia pregatz? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Several times a day 2. Once a day 3. Several times each week 4. Only when attending religious services 5. Only on special holy days 6. Once a year 7. Less often 8. Never, practically never",
+    "option": [
+      "Several times a day",
+      "Once a day",
+      "Several times each week",
+      "Only when attending religious services",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q173",
+    "question": "Independentament de s'assistissètz a de servicis religioses o pas, diriatz qu'ètz una persona religiosa, pas una persona religiosa, o un atèu? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A religious person 2. Not a religious person 3. An atheist",
+    "option": [
+      "A religious person",
+      "Not a religious person",
+      "An atheist"
+    ]
+  },
+  {
+    "Q_id": "Q174",
+    "question": "Amb quala de las afirmacions seguentas sètz mai d'acòrdi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to follow religious norms and ceremonies 2. The basic meaning of religion is to do good to other people",
+    "option": [
+      "The basic meaning of religion is to follow religious norms and ceremonies",
+      "The basic meaning of religion is to do good to other people"
+    ]
+  },
+  {
+    "Q_id": "Q175",
+    "question": "Amb quala de las afirmacions seguentas sètz mai d'acòrdi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to make sense of life after death 2. The basic meaning of religion is to make sense of life in this world",
+    "option": [
+      "The basic meaning of religion is to make sense of life after death",
+      "The basic meaning of religion is to make sense of life in this world"
+    ]
+  },
+  {
+    "Q_id": "Q176",
+    "question": "Quant sètz d'acòrdi o desacòrdi amb l'afirmacion que uèi lo jorn òm a sovent de mal a decidir quinas règlas moralas son las justas de seguir? Utilizar aquesta ficha sus la quala 1 significa que sètz 'totalament pas d'acòrdi' e 10 significa que sètz 'totalament d'acòrdi'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q177",
+    "question": "Pensatz que reclamar de prestacions del govèrn que n'avètz pas drech pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q178",
+    "question": "Pensatz qu'evitar un prètz sul transpòrt public pòt totjorn èsser justificat, pas jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q179",
+    "question": "Pensatz que panar de bens pòt totjorn èsser justificat, pas jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q180",
+    "question": "Pensatz que trufar los impòstes s'avètz una escasença pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q181",
+    "question": "Pensatz que qualqu'un qu'accepta un suborn dins lo corrent de sos devers pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q182",
+    "question": "Cresètz que l'omosexualitat pòt totjorn èsser justificada, jamai èsser justificada, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q183",
+    "question": "Cresètz que la prostitucion pòt totjorn èsser justificada, jamai èsser justificada, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q184",
+    "question": "Pensatz que l'avortament pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q185",
+    "question": "Pensatz que lo divòrci pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q186",
+    "question": "Pensatz que lo sèxe abans lo maridatge pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q187",
+    "question": "Cresètz que lo suicidi pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q188",
+    "question": "Cresètz que l'eutanasia pòt totjorn èsser justificada, jamai èsser justificada, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q189",
+    "question": "Cresètz que per un òme de tustar sa femna pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q190",
+    "question": "Pensatz que los parents que tustan los enfants pòdon totjorn èsser justificats, jamai èsser justificats, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q191",
+    "question": "Pensatz que la violéncia contra d'autras personas pòt totjorn èsser justificada, jamai èsser justificada, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q192",
+    "question": "Pensatz que lo terrorisme coma mejan politic, ideologic o religiós pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q193",
+    "question": "Pensatz qu'aver de sèxe casual pòt totjorn èsser justificat, jamai èsser justificat, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q194",
+    "question": "Cresètz que la violéncia politica pòt totjorn èsser justificada, jamai èsser justificada, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q195",
+    "question": "Pensatz que la pena de mòrt pòt totjorn èsser justificada, jamai èsser justificada, o quicòm entremièg? En utilizant aquesta carta sus la quala 1 significa 'Mai justificable' e 10 significa 'Totjorn justificable'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q196",
+    "question": "Pensatz que lo govèrn de vòstre país deuriá o deuriá pas aver lo drech de gardar las personas jos vidèo susvelhança dins las zònas publicas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q197",
+    "question": "Pensatz que lo govèrn de vòstre país deuriá o deuriá pas aver lo drech de susvelhar totes los corrièls e tota autra informacion escambiada sus Internet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q198",
+    "question": "Pensatz que lo govèrn de vòstre país deuriá o deuriá pas aver lo drech de collectar d'informacions sus qual que siá que viu dins aquel país sens lor coneissença? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q199",
+    "question": "Qué tan interessat diriás que siás per la politica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very interested 2. Somewhat interested 3. Not very interested 4. Not at all interested",
+    "option": [
+      "Very interested",
+      "Somewhat interested",
+      "Not very interested",
+      "Not at all interested"
+    ]
+  },
+  {
+    "Q_id": "Q200",
+    "question": "Quand vos amassatz amb vòstres amics, diriatz que discutitz de questions politicas sovent, de temps en temps, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Frequently 2. Occasionally 3. Never",
+    "option": [
+      "Frequently",
+      "Occasionally",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q201",
+    "question": "Quant de còps utilizatz los jornals quotidians per obténer d'informacions: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q202",
+    "question": "Quant de còps utilizatz las novèlas de television per obténer d'informacions: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q203",
+    "question": "Quant de còps utilizatz las novèlas de ràdio per obténer d'informacions: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q204",
+    "question": "Quant de còps utilizatz un telefòn mobil per obténer d'informacions: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q205",
+    "question": "Quant de còps utilizatz lo corrièl per obténer d'informacions: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q206",
+    "question": "Quant de còps utilizatz internet per obténer d'informacions: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q207",
+    "question": "Quant de còps utilizatz los mèdias socials per obténer d'informacions: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q208",
+    "question": "Quant de còps obtenètz d'informacions en parlant amb d'amics o collègas: quotidianament, setmanièrament, mensualament, mens que mensualament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q209",
+    "question": "Avètz fach, podètz far, o fariatz pas jamai la signatura d'una peticion? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q210",
+    "question": "As fach, o poiriás far, o fariás pas jamai de s'inscriure dins de boicòts? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q211",
+    "question": "As fach, o poiriás far, o fariás pas jamai d'assistir a de manifestacions pacificas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q212",
+    "question": "Avètz fach, podètz far, o fariatz pas jamai de caumas de joining? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q213",
+    "question": "Avètz fach, podètz far, o fariatz pas jamai de dons a un grop o a una campanha? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q214",
+    "question": "Avètz fach, podètz far, o fariatz pas jamai de contactar un foncionari del govèrn? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q215",
+    "question": "Avètz fach, podètz far, o fariatz pas jamai d'encoratjar los autres a prene d'accions a prepaus de questions politicas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q216",
+    "question": "As fach, o poiriás far, o fariás pas jamai d'encoratjar los autres a votar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q217",
+    "question": "Avètz fach, o podètz far, o fariatz pas jamai la recèrca d'informacions sus la politica e los eveniments politics en linha? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q218",
+    "question": "Avètz fach, o podètz far, o o fariatz pas jamai la signatura d'una peticion electronica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q219",
+    "question": "Avètz fach, podètz far, o fariatz pas jamai en encoratjant d'autras personas a prene quina forma que siá d'accion politica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q220",
+    "question": "Avètz fach, podètz far, o fariatz pas jamai l'organizacion d'activitats politicas, d'eveniments, de protèstas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q221",
+    "question": "Quand las eleccions se debanan al nivèl local, votatz totjorn, generalament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q222",
+    "question": "Quand las eleccions se debanan al nivèl nacional, votatz totjorn, generalament, o jamai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q223",
+    "question": "Se i aviá una eleccion nacionala deman, per quin partit d'aquela lista votariás? Se SABES PAS: Quin partit t'apela lo mai? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Party 1 2. Party 2 3. Party 3 4. etc.",
+    "option": [
+      "Party 1",
+      "Party 2",
+      "Party 3",
+      "etc."
+    ]
+  },
+  {
+    "Q_id": "Q224",
+    "question": "Quant de còps los vòtes son comptats justament dins las eleccions d'aqueste país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q225",
+    "question": "Quant de còps los candidats de l'oposicion son empachats de se presentar a las eleccions d'aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q226",
+    "question": "Quant de còps las novèlas de television favorizan lo partit al govèrn dins las eleccions d'aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q227",
+    "question": "Quant de còps los votants son subornats dins las eleccions d'aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q228",
+    "question": "Quant de còps los jornalistas provesisson una cobertura justa de las eleccions dins las eleccions d'aqueste país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q229",
+    "question": "Quant de còps los responsables electorals son justes dins las eleccions d'aqueste país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q230",
+    "question": "Quant de còps los rics crompan d'eleccions dins las eleccions d'aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q231",
+    "question": "Quant de còps los votants son menaçats de violéncia als burèus de vòte dins las eleccions d'aqueste país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q232",
+    "question": "Quant de còps los votants son ofèrts una causida vertadièra dins las eleccions d'aqueste país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q233",
+    "question": "Quant de còps las femnas an d'oportunitats egalas de se presentar a las eleccions d'aqueste país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q234",
+    "question": "Qu'es important d'aver d'eleccions onèstas per vos: fòrça importantas, puslèu importantas, pas gaire importantas, o pas brica importantas? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q234A",
+    "question": "Quant cresètz que lo sistèma politic de vòstre país permet a de personas coma vos d'aver una paraula dins çò que fa lo govèrn: fòrça, fòrça, qualques unes, fòrça pauc, o pas brica? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. A lot 3. Some 4. Very little 5. Not at all",
+    "option": [
+      "A great deal",
+      "A lot",
+      "Some",
+      "Very little",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q235",
+    "question": "Cossí te sentisses d'aver un cap fòrt que se deu pas preocupar del parlament e de las eleccions coma biais de governar aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q236",
+    "question": "Cossí te sentisses a prepaus d'aver d'expèrts, pas lo govèrn, que prenon de decisions segon çò que pensan qu'es lo melhor pel país coma biais de governar aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q237",
+    "question": "Cossí te sentisses a prepaus d'aver lo govèrn de l'armada coma un biais de governar aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q238",
+    "question": "Cossí te sentisses a prepaus d'aver un sistèma politic democratic coma biais de governar aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q239",
+    "question": "Cossí te sentisses a prepaus d'aver un sistèma governat per la lei religiosa que i a pas de partits politics o d'eleccions coma un biais de governar aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q240",
+    "question": "En matèria politica, cossí plaçariás vòstres punts de vista sus aquela escala de 'esquèrra' a 'drecha'? En utilizant aquesta carta sus la quala 1 significa 'esquèrra' e 10 significa 'drecha'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q241",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que los govèrns taxen los rics e subvencionen los paures? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q242",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que las autoritats religiosas interpreten finalament las leis? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q243",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que las gents causisson lors dirigents dins d'eleccions liuras? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q244",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que las personas recebon d'ajuda de l'estat pel caumatge? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q245",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que l'armada prenga lo poder quand lo govèrn es incompetent? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q246",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que los dreches civils protegisson las personas de l'opression de l'estat? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q247",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que l'estat faga egal los revenguts de las personas? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q248",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que las gents obedisson a lors governants? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q249",
+    "question": "Qué tan essencial cresètz qu'es per la democracia que las femnas ajan los meteisses dreches que los òmes? En utilizant aquela ficha sus la quala 0 significa ‘es contra la democracia’, 1 significa ‘pas brica una caracteristica essenciala de la democracia’ e 10 significa ‘una caracteristica essenciala de la democracia’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q250",
+    "question": "Qu'es important per tu de viure dins un país que se governa democraticament? En utilizant aquesta ficha sus la quala 1 significa 'pas brica important' e 10 significa 'absoludament important'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q251",
+    "question": "De quina manièra democratica se governa aquel país uèi? En tot utilizar aguesta ficha sus era quau 1 vò díder ‘pas bric democratic’ e 10 vò díder ‘completament democratic’. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q252",
+    "question": "Qué tan satisfach sètz de cossí fonciona lo sistèma politic dins vòstre país aquestes jorns? En utilizant aquesta ficha sus la quala 1 significa 'pas brica satisfach' e 10 significa 'completament satisfach'. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q253",
+    "question": "Quant de respècte i a pels dreches umans individuals uèi lo jorn dins aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal of respect for individual human rights 2. Fairly much respect 3. Not much respect 4. No respect at all",
+    "option": [
+      "A great deal of respect for individual human rights",
+      "Fairly much respect",
+      "Not much respect",
+      "No respect at all"
+    ]
+  },
+  {
+    "Q_id": "Q254",
+    "question": "Qué tan fièr sètz de vòstra nacionalitat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very proud 2. Quite proud 3. Not very proud 4. Not at all proud 5. I am not of this nationality",
+    "option": [
+      "Very proud",
+      "Quite proud",
+      "Not very proud",
+      "Not at all proud",
+      "I am not of this nationality"
+    ]
+  },
+  {
+    "Q_id": "Q255",
+    "question": "Qué tan pròche te sentisses de ton vilatge, vila o vila? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q256",
+    "question": "Qué tan pròche te sentisses de ton comtat, region o districte? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q257",
+    "question": "Qué tan pròche te sentisses de ton país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q258",
+    "question": "Qué tan pròche te sentisses de ton continent (p. ex., Euròpa, Asia, etc.)? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q259",
+    "question": "Qué tan pròche te sentisses del mond? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q260",
+    "question": "Qual es vòstre sèxe? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Male 2. Female",
+    "option": [
+      "Male",
+      "Female"
+    ]
+  },
+  {
+    "Q_id": "Q263",
+    "question": "Nasquères dins aquel país o sètz un immigrant dins aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q264",
+    "question": "Ta maire es una immigranta dins aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q265",
+    "question": "Vòstre paire es un immigrant dins aquel país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q269",
+    "question": "Sètz un ciutadan d'aqueste país? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, I am a citizen of this country 2. No, I am not a citizen of this country",
+    "option": [
+      "Yes, I am a citizen of this country",
+      "No, I am not a citizen of this country"
+    ]
+  },
+  {
+    "Q_id": "Q271",
+    "question": "Vives amb tos parents o tos sògres? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No 2. Yes, own parent(s) 3. Yes, parent(s) in law 4. Yes, both own parent(s) and parent(s) in law",
+    "option": [
+      "No",
+      "Yes, own parent(s)",
+      "Yes, parent(s) in law",
+      "Yes, both own parent(s) and parent(s) in law"
+    ]
+  },
+  {
+    "Q_id": "Q273",
+    "question": "Quin es vòstre estat civil actual? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Married 2. Living together as married 3. Divorced 4. Separated 5. Widowed 6. Single",
+    "option": [
+      "Married",
+      "Living together as married",
+      "Divorced",
+      "Separated",
+      "Widowed",
+      "Single"
+    ]
+  },
+  {
+    "Q_id": "Q275",
+    "question": "Quin es lo nivèl educatiu mai naut qu'avètz atench? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q276",
+    "question": "Quin es lo nivèl educatiu mai naut que vòstre cònjo a atench? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q277",
+    "question": "Quin es lo nivèl educatiu mai naut que vòstra maire a atench? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q278",
+    "question": "Quin es lo nivèl educatiu mai naut que vòstre paire a atench? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q279",
+    "question": "Sètz emplegat actualament? Se òc, aperaquí quantas oras per setmana? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q280",
+    "question": "Vòstre conjoint es actualament emplegat? Se òc, èra emplegat (siá a temps plen siá a temps parcial) o autonòm dins son darrièr emplec? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q281",
+    "question": "A quin dels grops professionals seguents apartenètz? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q282",
+    "question": "A quin dels grops professionals seguents aperten vòstre cònjo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q283",
+    "question": "Quand aviás 14 ans, a quin dels grops professionals seguents aparteniá ton paire? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q284",
+    "question": "Trabalhatz pel govèrn o una institucion publica, per una entrepresa o l'industria privada, o per una organizacion privada sens tòca lucrativa? Se trabalhatz pas actualament, caracterizatz vòstre trabalh màger dins lo passat. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Government or public institution 2. Private business or industry 3. Private non-profit organization",
+    "option": [
+      "Government or public institution",
+      "Private business or industry",
+      "Private non-profit organization"
+    ]
+  },
+  {
+    "Q_id": "Q285",
+    "question": "Sètz lo salariat principal de vòstre ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q286",
+    "question": "Pendent l'an passat, vòstra familha a estalviat d'argent, a sonque passat, a despensat qualques estalvis, o a despensat d'estalvis e a manlevat d'argent? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Saved money 2. Just get by 3. Spent some savings 4. Spent savings and borrowed money",
+    "option": [
+      "Saved money",
+      "Just get by",
+      "Spent some savings",
+      "Spent savings and borrowed money"
+    ]
+  },
+  {
+    "Q_id": "Q287",
+    "question": "Te descriuriás coma apartenent a la classa nauta, a la classa mejana nauta, a la classa mejana inferiora, a la classa obrièra o a la classa inferiora? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Upper class 2. Upper middle class 3. Lower middle class 4. Working class 5. Lower class",
+    "option": [
+      "Upper class",
+      "Upper middle class",
+      "Lower middle class",
+      "Working class",
+      "Lower class"
+    ]
+  },
+  {
+    "Q_id": "Q288",
+    "question": "Sus una escala de revengut ont 1 indica lo grop de revengut mai bas e 10 lo grop de revengut mai naut de vòstre país, dins quin grop es vòstre ostal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q289",
+    "question": "Apertenètz a una religion o a una denominacion religiosa? Se òc, qual? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No denomination 2. Roman Catholic 3. Protestant 4. Orthodox (Russian/Greek/etc.) 5. Jew 6. Muslim 7. Hindu 8. Buddhist 9. Other (write in):",
+    "option": [
+      "No denomination",
+      "Roman Catholic",
+      "Protestant",
+      "Orthodox (Russian/Greek/etc.)",
+      "Jew",
+      "Muslim",
+      "Hindu",
+      "Buddhist",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q290",
+    "question": "Quin es vòstre grop etnic? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. White 2. Black 3. South Asian Indian, Pakistani, etc. 4. East Asian Chinese, Japanese, etc. 5. Arabic, Central Asian 6. Other (write in):",
+    "option": [
+      "White",
+      "Black",
+      "South Asian Indian, Pakistani, etc.",
+      "East Asian Chinese, Japanese, etc.",
+      "Arabic, Central Asian",
+      "Other (write in):"
+    ]
+  }
+]

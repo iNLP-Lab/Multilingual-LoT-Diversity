@@ -1,0 +1,3115 @@
+[
+  {
+    "Q_id": "Q1",
+    "question": "Gaano kahalaga ang pamilya sa iyong buhay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q2",
+    "question": "Gaano kahalaga ang mga kaibigan sa iyong buhay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q3",
+    "question": "Gaano kahalaga ang oras ng paglilibang sa iyong buhay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q4",
+    "question": "Gaano kahalaga ang pulitika sa iyong buhay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q5",
+    "question": "Gaano kahalaga ang trabaho sa iyong buhay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q6",
+    "question": "Gaano kahalaga ang relihiyon sa iyong buhay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q7",
+    "question": "Itinuturing mo bang ang mabuting asal ay lalong mahalaga para matutunan ng mga bata sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q8",
+    "question": "Itinuturing mo ba na ang kalayaan ay lalong mahalaga para sa mga bata na matuto sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q9",
+    "question": "Itinuturing mo ba na ang pagsusumikap ay lalong mahalaga para matutunan ng mga bata sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q10",
+    "question": "Itinuturing mo ba na ang pakiramdam ng responsibilidad ay lalong mahalaga para sa mga bata na matuto sa tahanan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q11",
+    "question": "Itinuturing mo bang ang imahinasyon ay lalong mahalaga para matutunan ng mga bata sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q12",
+    "question": "Itinuturing mo ba na ang pagpaparaya at paggalang sa ibang tao ay lalong mahalaga para matutunan ng mga bata sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q13",
+    "question": "Itinuturing mo bang ang pag-iimpok, pag-iipon ng pera at mga bagay ay lalong mahalaga para matutunan ng mga bata sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q14",
+    "question": "Itinuturing mo ba na ang determinasyon at tiyaga ay lalong mahalaga para sa mga bata na matuto sa tahanan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q15",
+    "question": "Itinuturing mo ba na ang pananampalatayang relihiyoso ay lalong mahalaga para matutunan ng mga bata sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q16",
+    "question": "Isinasaalang-alang mo ba na ang hindi pagiging makasarili (hindi pagiging makasarili) ay lalong mahalaga para sa mga bata na matuto sa bahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q17",
+    "question": "Itinuturing mo ba na ang pagsunod ay lalong mahalaga para matutunan ng mga bata sa tahanan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q18",
+    "question": "Hindi mo ba gustong magkaroon ng mga adik sa droga bilang kapitbahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q19",
+    "question": "Hindi mo ba nais na magkaroon ng mga tao sa ibang lahi bilang kapitbahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q20",
+    "question": "Hindi mo ba gustong magkaroon ng mga taong may AIDS bilang kapitbahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q21",
+    "question": "Hindi mo ba gustong magkaroon ng mga imigrante o dayuhang manggagawa bilang kapitbahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q22",
+    "question": "Hindi mo ba gustong magkaroon ng mga bading bilang kapitbahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q23",
+    "question": "Hindi mo ba nanaisin na maging magkapitbahay ang mga taong iba ang relihiyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q24",
+    "question": "Hindi mo ba gugustuhin na magkapitbahay ang mga mahilig uminom? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q25",
+    "question": "Hindi mo ba gugustuhing magkaroon ng magkapitbahay na mag-asawang walang asawa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q26",
+    "question": "Hindi mo ba gustong magkaroon ng mga taong nagsasalita ng ibang wika bilang mga kapitbahay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, i would not like to 2. No, i would like to",
+    "option": [
+      "Yes, i would not like to",
+      "No, i would like to"
+    ]
+  },
+  {
+    "Q_id": "Q27",
+    "question": "Sumasang-ayon ka ba na isa sa iyong pangunahing layunin sa buhay ay ipagmalaki ang iyong mga magulang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q28",
+    "question": "Sang-ayon ka ba na kapag ang isang ina ay nagtatrabaho para sa suweldo, ang mga bata ay nagdurusa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q29",
+    "question": "Sumasang-ayon ka ba na sa kabuuan, ang mga lalaki ay gumagawa ng mas mahusay na mga pinuno sa pulitika kaysa sa mga kababaihan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q30",
+    "question": "Sumasang-ayon ka ba na ang edukasyon sa unibersidad ay mas mahalaga para sa isang lalaki kaysa sa isang babae? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q31",
+    "question": "Sumasang-ayon ka ba na sa kabuuan, ang mga lalaki ay gumagawa ng mas mahusay na mga executive ng negosyo kaysa sa mga babae? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q32",
+    "question": "Sumasang-ayon ka ba na ang pagiging maybahay ay kasing-kasiyahan ng pagtatrabaho para sa suweldo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q33",
+    "question": "Sumasang-ayon ka ba na kapag kakaunti ang trabaho, ang mga lalaki ay dapat magkaroon ng higit na karapatan sa trabaho kaysa sa mga babae? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q34",
+    "question": "Sumasang-ayon ka ba na kapag kakaunti ang mga trabaho, dapat bigyang-priyoridad ng mga employer ang mga tao sa bansang ito kaysa sa mga imigrante? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q35",
+    "question": "Sang-ayon ka ba na kung ang isang babae ay kumikita ng mas maraming pera kaysa sa kanyang asawa, ito ay halos tiyak na magdulot ng mga problema? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q36",
+    "question": "Sumasang-ayon ka ba na ang mga homosexual na mag-asawa ay kasing buti ng ibang mga mag-asawa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q37",
+    "question": "Sang-ayon ka ba na tungkulin sa lipunan ang magkaroon ng mga anak? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q38",
+    "question": "Sumasang-ayon ka ba na ang mga batang nasa hustong gulang ay may tungkulin na magbigay ng pangmatagalang pangangalaga para sa kanilang mga magulang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q39",
+    "question": "Sang-ayon ka ba na ang mga taong hindi nagtatrabaho ay nagiging tamad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q40",
+    "question": "Sumasang-ayon ka ba na ang trabaho ay isang tungkulin sa lipunan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q41",
+    "question": "Sumasang-ayon ka ba na ang trabaho ay dapat palaging mauna, kahit na nangangahulugan ito ng mas kaunting bakanteng oras? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Agree strongly 2. Agree 3. Neither agree nor disagree 4. Disagree 5. Disagree strongly",
+    "option": [
+      "Agree strongly",
+      "Agree",
+      "Neither agree nor disagree",
+      "Disagree",
+      "Disagree strongly"
+    ]
+  },
+  {
+    "Q_id": "Q42",
+    "question": "Alin sa mga sumusunod ang pinakamahusay na naglalarawan ng iyong sariling opinyon tungkol sa lipunang ating ginagalawan: ang buong paraan ng pag-oorganisa ng ating lipunan ay dapat na radikal na mabago sa pamamagitan ng rebolusyonaryong pagkilos, ang ating lipunan ay dapat unti-unting mapabuti sa pamamagitan ng mga reporma, o ang ating kasalukuyang lipunan ay dapat magiting na ipagtanggol laban sa lahat ng subersibong pwersa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The entire way our society is organized must be radically changed by revolutionary action 2. Our society must be gradually improved by reforms 3. Our present society must be valiantly defended against all subversive forces",
+    "option": [
+      "The entire way our society is organized must be radically changed by revolutionary action",
+      "Our society must be gradually improved by reforms",
+      "Our present society must be valiantly defended against all subversive forces"
+    ]
+  },
+  {
+    "Q_id": "Q43",
+    "question": "Kung hindi gaanong mahalaga ang trabaho sa ating buhay, sa tingin mo ba ito ay magiging isang magandang bagay, isang masamang bagay, o hindi mo ba iniisip? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q44",
+    "question": "Kung higit na binibigyang-diin ang pag-unlad ng teknolohiya, sa tingin mo ba ito ay isang magandang bagay, isang masamang bagay, o hindi mo iniisip? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q45",
+    "question": "Kung mayroong higit na paggalang sa awtoridad, sa palagay mo ba ito ay magiging isang magandang bagay, isang masamang bagay, o hindi mo iniisip? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Good 2. Don't mind 3. Bad",
+    "option": [
+      "Good",
+      "Don't mind",
+      "Bad"
+    ]
+  },
+  {
+    "Q_id": "Q46",
+    "question": "Kung pinagsama-sama ang lahat ng bagay, masasabi mo bang napakasaya mo, sa halip masaya, hindi masyadong masaya, o hindi man lang masaya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very happy 2. Rather happy 3. Not very happy 4. Not at all happy",
+    "option": [
+      "Very happy",
+      "Rather happy",
+      "Not very happy",
+      "Not at all happy"
+    ]
+  },
+  {
+    "Q_id": "Q47",
+    "question": "Sa kabuuan, paano mo ilalarawan ang iyong estado ng kalusugan sa mga araw na ito? Sasabihin mo bang ito ay napakabuti, mabuti, patas, mahirap, o napakahirap? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Good 3. Fair 4. Poor 5. Very poor",
+    "option": [
+      "Very good",
+      "Good",
+      "Fair",
+      "Poor",
+      "Very poor"
+    ]
+  },
+  {
+    "Q_id": "Q48",
+    "question": "Ang ilang mga tao ay nararamdaman na mayroon silang ganap na malayang pagpili at kontrol sa kanilang buhay, habang ang ibang mga tao ay nararamdaman na ang kanilang ginagawa ay walang tunay na epekto sa kung ano ang mangyayari sa kanila. Mangyaring gamitin ang sukat na ito kung saan ang ibig sabihin ng 1 ay 'walang pagpipilian sa lahat' at ang 10 ay nangangahulugang 'mahusay na pagpipilian' upang ipahiwatig kung gaano karaming kalayaan sa pagpili at kontrol ang nararamdaman mo sa takbo ng iyong buhay. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q49",
+    "question": "Lahat ng bagay na isinasaalang-alang, gaano ka nasisiyahan sa iyong buhay sa kabuuan sa mga araw na ito? Gamit ang card na ito kung saan ang 1 ay nangangahulugan na ikaw ay 'ganap na hindi nasisiyahan' at ang 10 ay nangangahulugang ikaw ay 'ganap na nasisiyahan', saan mo ilalagay ang iyong kasiyahan sa iyong buhay sa kabuuan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q50",
+    "question": "Gaano ka nasisiyahan sa sitwasyong pinansyal ng iyong sambahayan? Ang paggamit sa card na ito kung saan ang 1 ay nangangahulugan na ikaw ay 'ganap na hindi nasisiyahan' at 10 ay nangangahulugan na ikaw ay 'ganap na nasisiyahan' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q51",
+    "question": "Sa nakalipas na 12 buwan, gaano ka kadalas umalis o ang iyong pamilya nang walang sapat na pagkain? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q52",
+    "question": "Sa nakalipas na 12 buwan, gaano kadalas naramdaman mo o ng iyong pamilya na hindi ligtas sa krimen sa iyong tahanan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q53",
+    "question": "Sa nakalipas na 12 buwan, gaano ka kadalas umalis o ang iyong pamilya nang walang gamot o medikal na paggamot na kailangan mo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q54",
+    "question": "Sa nakalipas na 12 buwan, gaano ka kadalas umalis o ang iyong pamilya nang walang kita? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q55",
+    "question": "Sa nakalipas na 12 buwan, gaano ka kadalas umalis o ang iyong pamilya nang walang ligtas na tirahan sa iyong ulo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Often 2. Sometimes 3. Rarely 4. Never",
+    "option": [
+      "Often",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q56",
+    "question": "Kung ihahambing mo ang iyong antas ng pamumuhay sa antas ng pamumuhay ng iyong mga magulang noong sila ay mga kasing-edad mo, masasabi mo ba na ikaw ay mas mabuti, mas masahol pa, o halos pareho? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Better off 2. Worse off 3. About the same",
+    "option": [
+      "Better off",
+      "Worse off",
+      "About the same"
+    ]
+  },
+  {
+    "Q_id": "Q57",
+    "question": "Sa pangkalahatan, masasabi mo ba na karamihan sa mga tao ay mapagkakatiwalaan o kailangan mong maging maingat sa pakikitungo sa mga tao? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Most people can be trusted 2. Need to be very careful",
+    "option": [
+      "Most people can be trusted",
+      "Need to be very careful"
+    ]
+  },
+  {
+    "Q_id": "Q58",
+    "question": "Gaano mo pinagkakatiwalaan ang iyong pamilya: ganap, medyo, hindi gaanong, o hindi man? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q59",
+    "question": "Gaano ka nagtitiwala sa iyong kapitbahayan: ganap, medyo, hindi gaanong, o hindi man? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q60",
+    "question": "Gaano ka nagtitiwala sa mga taong kilala mo nang personal: ganap, medyo, hindi gaano, o hindi man? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q61",
+    "question": "Gaano ka nagtitiwala sa mga taong nakilala mo sa unang pagkakataon: ganap, medyo, hindi gaanong, o hindi talaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q62",
+    "question": "Gaano ka nagtitiwala sa mga tao ng ibang relihiyon: ganap, medyo, hindi gaanong, o hindi man? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q63",
+    "question": "Gaano ka nagtitiwala sa mga tao ng ibang nasyonalidad: ganap, medyo, hindi gaanong, o hindi man? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Trust completely 2. Trust somewhat 3. Do not trust very much 4. Do not trust at all",
+    "option": [
+      "Trust completely",
+      "Trust somewhat",
+      "Do not trust very much",
+      "Do not trust at all"
+    ]
+  },
+  {
+    "Q_id": "Q64",
+    "question": "Gaano kalaki ang tiwala mo sa mga lugar na ginagamit para sa pagsamba at iba pang mga gawaing panrelihiyon: malaki, marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q65",
+    "question": "Gaano kalaki ang kumpiyansa mo sa sandatahang lakas: malaki, marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q66",
+    "question": "Gaano kalaki ang kumpiyansa mo sa pamamahayag: isang mahusay, medyo marami, hindi gaanong, o wala sa lahat? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q67",
+    "question": "Gaano kalaki ang tiwala mo sa telebisyon: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q68",
+    "question": "Gaano kalaki ang tiwala mo sa mga unyon ng manggagawa: napakalaki, napakalaki, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q69",
+    "question": "Gaano kalaki ang tiwala mo sa pulisya: napakalaki, medyo marami, hindi gaanong, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q70",
+    "question": "Gaano kalaki ang tiwala mo sa mga korte: napakalaki, medyo marami, hindi gaanong, o wala man lang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q71",
+    "question": "Gaano kalaki ang tiwala mo sa gobyerno: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q72",
+    "question": "Gaano kalaki ang tiwala mo sa mga partidong pampulitika: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q73",
+    "question": "Gaano kalaki ang tiwala mo sa parlamento: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q74",
+    "question": "Gaano kalaki ang tiwala mo sa serbisyong sibil: napakalaki, napakalaki, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q75",
+    "question": "Gaano kalaki ang tiwala mo sa mga unibersidad: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q76",
+    "question": "Gaano kalaki ang tiwala mo sa mga halalan: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q77",
+    "question": "Gaano kalaki ang kumpiyansa mo sa mga pangunahing kumpanya: napakahusay, medyo marami, hindi gaanong, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q78",
+    "question": "Gaano kalaki ang tiwala mo sa mga bangko: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q79",
+    "question": "Gaano kalaki ang tiwala mo sa mga organisasyong pangkapaligiran: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q80",
+    "question": "Gaano kalaki ang tiwala mo sa mga organisasyon ng kababaihan: napakalaki, napakalaki, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q81",
+    "question": "Gaano kalaki ang tiwala mo sa mga organisasyong pangkawanggawa o makatao: napakalaki, napakalaki, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q82",
+    "question": "Gaano kalaki ang tiwala mo sa mga organisasyong pangrehiyon na naglalayong isulong ang kooperasyon at pagsasama-sama ng mga bansa: napakalaki, medyo marami, hindi gaanong, o wala man lang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q83",
+    "question": "Gaano kalaki ang tiwala mo sa United Nations: napakalaki, napakalaki, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q84",
+    "question": "Gaano kalaki ang kumpiyansa mo sa International Monetary Fund (IMF): napakalaki, medyo marami, hindi masyado, o wala man lang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q85",
+    "question": "Gaano kalaki ang tiwala mo sa International Criminal Court (ICC): napakalaki, medyo marami, hindi gaano, o wala man lang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q86",
+    "question": "Gaano kalaki ang kumpiyansa mo sa North Atlantic Treaty Organization (NATO): malaki, marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q87",
+    "question": "Gaano kalaki ang tiwala mo sa World Bank: napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q88",
+    "question": "Gaano kalaki ang tiwala mo sa World Health Organization (WHO): napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q89",
+    "question": "Gaano kalaki ang tiwala mo sa World Trade Organization (WTO): napakalaki, medyo marami, hindi gaano, o wala? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. Quite a lot 3. Not very much 4. None at all",
+    "option": [
+      "A great deal",
+      "Quite a lot",
+      "Not very much",
+      "None at all"
+    ]
+  },
+  {
+    "Q_id": "Q90",
+    "question": "Sa ngayon, maraming usapan tungkol sa mga internasyonal na organisasyon. Minsan sinasabi ng mga tao na dapat unahin ng mga internasyonal na organisasyon ang pagpapabuti ng buhay ng mga tao, kahit na ito ay maaaring magpahiwatig na ang mga desisyon ay hindi ginawa sa demokratikong paraan. Ano sa palagay mo ang dapat unahin ng mga internasyonal na organisasyon, pagiging epektibo o pagiging demokratiko? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Pagiging epektibo' at ang 10 ay nangangahulugang 'Pagiging demokratiko' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q91",
+    "question": "Alin sa mga sumusunod ang hindi miyembro ng limang bansang may permanenteng upuan sa Security Council ng United Nations: France, China, o India? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. France 2. China 3. India",
+    "option": [
+      "France",
+      "China",
+      "India"
+    ]
+  },
+  {
+    "Q_id": "Q92",
+    "question": "Saan matatagpuan ang punong-tanggapan ng International Monetary Fund (IMF): Washington DC, London, o Geneva? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Washington DC 2. London 3. Geneva",
+    "option": [
+      "Washington DC",
+      "London",
+      "Geneva"
+    ]
+  },
+  {
+    "Q_id": "Q93",
+    "question": "Alin sa mga sumusunod na problema ang tinutugunan ng organisasyong Amnesty International: Pagbabago ng klima, Mga karapatang pantao, o Pagkasira ng mga makasaysayang monumento? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Climate change 2. Human rights 3. Destruction of historic monuments",
+    "option": [
+      "Climate change",
+      "Human rights",
+      "Destruction of historic monuments"
+    ]
+  },
+  {
+    "Q_id": "Q94",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang simbahan o relihiyosong organisasyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q95",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang sport o recreational organization, football/baseball/rugby team? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q96",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang sining, musika o organisasyong pang-edukasyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q97",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang unyon ng manggagawa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q98",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang partidong pampulitika? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q99",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang organisasyong pangkalikasan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q100",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang propesyonal na asosasyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q101",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang humanitarian o charitable na organisasyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q102",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang organisasyon ng consumer? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q103",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang self-help group, mutual aid group? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q104",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng isang grupo ng kababaihan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q105",
+    "question": "Ikaw ba ay isang aktibong miyembro, isang hindi aktibong miyembro, o hindi isang miyembro ng ibang uri ng organisasyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Don't belong 2. Inactive member 3. Active member",
+    "option": [
+      "Don't belong",
+      "Inactive member",
+      "Active member"
+    ]
+  },
+  {
+    "Q_id": "Q106",
+    "question": "Sumasang-ayon ka ba sa pahayag1 'Dapat gawing mas pantay ang mga kita' o ang pahayag2 'Dapat magkaroon ng mas malaking insentibo para sa indibidwal na pagsisikap'? Ang paggamit sa card na ito kung saan ang 1 ay nangangahulugang ganap kang sumasang-ayon sa 'statement1' at ang 10 ay nangangahulugan na lubos kang sumasang-ayon sa 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q107",
+    "question": "Sumasang-ayon ka ba sa pahayag1 'Dapat dagdagan ang pribadong pagmamay-ari ng negosyo at industriya' o ang pahayag2 'Dapat dagdagan ang pagmamay-ari ng pamahalaan sa negosyo at industriya'? Ang paggamit sa card na ito kung saan ang 1 ay nangangahulugang ganap kang sumasang-ayon sa 'statement1' at ang 10 ay nangangahulugan na lubos kang sumasang-ayon sa 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q108",
+    "question": "Sumasang-ayon ka ba sa pahayag1 'Ang pamahalaan ay dapat kumuha ng higit na pananagutan upang matiyak na ang lahat ay ipagkakaloob para sa' o ang pahayag2 'Ang mga tao ay dapat kumuha ng higit na responsibilidad na tustusan ang kanilang sarili'? Ang paggamit sa card na ito kung saan ang 1 ay nangangahulugang ganap kang sumasang-ayon sa 'statement1' at ang 10 ay nangangahulugan na lubos kang sumasang-ayon sa 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q109",
+    "question": "Sumasang-ayon ka ba sa pahayag1 'Ang kumpetisyon ay mabuti' o ang pahayag2 'Ang kumpetisyon ay nakakapinsala'? Ang paggamit sa card na ito kung saan ang 1 ay nangangahulugang ganap kang sumasang-ayon sa 'statement1' at ang 10 ay nangangahulugan na lubos kang sumasang-ayon sa 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q110",
+    "question": "Sumasang-ayon ka ba sa pahayag na1 'Sa katagalan, ang pagsusumikap ay kadalasang nagdudulot ng mas mabuting buhay' o ang pahayag2 'Ang pagsusumikap ay hindi karaniwang nagdudulot ng tagumpay—ito ay higit na swerte at mga koneksyon'? Ang paggamit sa card na ito kung saan ang 1 ay nangangahulugang ganap kang sumasang-ayon sa 'statement1' at ang 10 ay nangangahulugan na lubos kang sumasang-ayon sa 'statement2' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q111",
+    "question": "Alin sa mga pahayag na ito ang mas malapit sa iyong sariling pananaw? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs. 2. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent. 3. Other answer",
+    "option": [
+      "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.",
+      "Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.",
+      "Other answer"
+    ]
+  },
+  {
+    "Q_id": "Q112",
+    "question": "Paano mo ire-rate ang katiwalian sa iyong bansa sa isang sukat mula sa '1' na nangangahulugang 'walang katiwalian sa aking bansa' hanggang sa '10' na nangangahulugang 'may masaganang katiwalian sa aking bansa'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q113",
+    "question": "Ilang awtoridad ng estado ang pinaniniwalaan mong sangkot sa katiwalian: wala sa kanila, iilan sa kanila, karamihan sa kanila, o lahat sila? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q114",
+    "question": "Ilang executive ng negosyo ang pinaniniwalaan mong sangkot sa katiwalian: wala sa kanila, iilan sa kanila, karamihan sa kanila, o lahat sila? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q115",
+    "question": "Ilang lokal na awtoridad ang pinaniniwalaan mong sangkot sa katiwalian: wala sa kanila, iilan sa kanila, karamihan sa kanila, o lahat sila? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q116",
+    "question": "Ilang tagapagbigay ng serbisyong sibil (pulis, hudikatura, lingkod-bayan, doktor, guro) ang pinaniniwalaan mong sangkot sa katiwalian: wala sa kanila, iilan sa kanila, karamihan sa kanila, o lahat sila? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q117",
+    "question": "Ilang mamamahayag at media ang pinaniniwalaan mong sangkot sa katiwalian: wala sa kanila, kakaunti sa kanila, karamihan sa kanila, o lahat sila? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. None of them 2. Few of them 3. Most of them 4. All of them",
+    "option": [
+      "None of them",
+      "Few of them",
+      "Most of them",
+      "All of them"
+    ]
+  },
+  {
+    "Q_id": "Q118",
+    "question": "Gaano kadalas sa tingin mo ang mga ordinaryong tao ay kailangang magbayad ng suhol, magbigay ng regalo, o gumawa ng pabor sa mga lokal na opisyal at tagapagbigay ng serbisyo upang makuha ang mga serbisyong kailangan mo: hindi kailanman, bihira, madalas, o palagi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Never 2. Rarely 3. Frequently 4. Always",
+    "option": [
+      "Never",
+      "Rarely",
+      "Frequently",
+      "Always"
+    ]
+  },
+  {
+    "Q_id": "Q119",
+    "question": "Gaano ka katibay na sumasang-ayon o hindi sumasang-ayon sa pahayag na 'sa kabuuan, ang mga babae ay hindi gaanong corrupt kaysa sa mga lalaki', o nahihirapan kang sabihin? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Hard to say 2. Strongly agree 3. Agree 4. Disagree 5. Strongly disagree",
+    "option": [
+      "Hard to say",
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q120",
+    "question": "Paano mo ire-rate ang panganib na mapapanagot sa pagbibigay o pagtanggap ng suhol, regalo, o pabor bilang kapalit ng serbisyo publiko sa bansang ito sa sukat mula sa '1' na nangangahulugang 'walang panganib sa lahat' hanggang '10' na nangangahulugang 'napakataas na panganib'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q121",
+    "question": "Paano mo susuriin ang epekto ng mga imigrante sa pag-unlad ng iyong bansa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very bad 2. Quite bad 3. Neither good, nor bad 4. Quite good 5. Very good",
+    "option": [
+      "Very bad",
+      "Quite bad",
+      "Neither good, nor bad",
+      "Quite good",
+      "Very good"
+    ]
+  },
+  {
+    "Q_id": "Q122",
+    "question": "Sumasang-ayon ka ba na pinupunan ng imigrasyon ang mahahalagang bakanteng trabaho? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q123",
+    "question": "Sumasang-ayon ka ba na pinalalakas ng imigrasyon ang pagkakaiba-iba ng kultura? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q124",
+    "question": "Sumasang-ayon ka ba na pinapataas ng imigrasyon ang bilang ng krimen? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q125",
+    "question": "Sumasang-ayon ka ba na ang imigrasyon ay nagbibigay ng asylum sa mga political refugee na inuusig sa ibang lugar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q126",
+    "question": "Sumasang-ayon ka ba na pinapataas ng imigrasyon ang mga panganib ng terorismo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q127",
+    "question": "Sumasang-ayon ka ba na ang imigrasyon ay nag-aalok sa mga tao mula sa mahihirap na bansa ng mas magandang pamumuhay? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q128",
+    "question": "Sumasang-ayon ka ba na pinapataas ng imigrasyon ang kawalan ng trabaho? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q129",
+    "question": "Sumasang-ayon ka ba na ang imigrasyon ay humahantong sa panlipunang salungatan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Disagree 2. Hard to say 3. Agree",
+    "option": [
+      "Disagree",
+      "Hard to say",
+      "Agree"
+    ]
+  },
+  {
+    "Q_id": "Q130",
+    "question": "Ano ang dapat gawin ng gobyerno sa mga taong galing sa ibang bansa na pumupunta rito para magtrabaho? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Let anyone come who wants to 2. Let people come as long as there are jobs available 3. Place strict limits on the number of foreigners who can come here 4. Prohibit people coming here from other countries",
+    "option": [
+      "Let anyone come who wants to",
+      "Let people come as long as there are jobs available",
+      "Place strict limits on the number of foreigners who can come here",
+      "Prohibit people coming here from other countries"
+    ]
+  },
+  {
+    "Q_id": "Q131",
+    "question": "Gaano ka katiwasayan ang pakiramdam mo sa mga araw na ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very secure 2. Quite secure 3. Not very secure 4. Not at all secure",
+    "option": [
+      "Very secure",
+      "Quite secure",
+      "Not very secure",
+      "Not at all secure"
+    ]
+  },
+  {
+    "Q_id": "Q132",
+    "question": "Gaano kadalas nangyayari ang mga pagnanakaw sa iyong lugar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q133",
+    "question": "Gaano kadalas ang pag-inom ng alak sa mga lansangan sa iyong lugar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q134",
+    "question": "Gaano kadalas nakikialam ang pulisya o militar sa pribadong buhay ng mga tao sa iyong lugar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q135",
+    "question": "Gaano kadalas nangyayari ang racist na pag-uugali sa iyong kapitbahayan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q136",
+    "question": "Gaano kadalas ang pagbebenta ng droga sa mga kalye sa iyong kapitbahayan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q137",
+    "question": "Gaano kadalas nangyayari ang karahasan at away sa kalye sa iyong kapitbahayan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q138",
+    "question": "Gaano kadalas nangyayari ang sekswal na panliligalig sa iyong kapitbahayan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very frequently 2. Quite frequently 3. Not frequently 4. Not at all frequently",
+    "option": [
+      "Very frequently",
+      "Quite frequently",
+      "Not frequently",
+      "Not at all frequently"
+    ]
+  },
+  {
+    "Q_id": "Q139",
+    "question": "Pinigilan mo bang magdala ng maraming pera para sa mga kadahilanan ng seguridad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q140",
+    "question": "Mas pinili mo bang huwag lumabas sa gabi para sa seguridad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q141",
+    "question": "Nagdala ka ba ng kutsilyo, baril, o iba pang sandata para sa seguridad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q142",
+    "question": "Gaano ka nag-aalala tungkol sa pagkawala ng iyong trabaho o hindi paghahanap ng trabaho? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q143",
+    "question": "Gaano ka nag-aalala tungkol sa hindi mo mabigyan ng magandang edukasyon ang iyong mga anak? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q144",
+    "question": "Naging biktima ka ba ng isang krimen noong nakaraang taon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q145",
+    "question": "May isang tao ba sa iyong malapit na pamilya ang naging biktima ng isang krimen noong nakaraang taon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q146",
+    "question": "Gaano ka nag-aalala tungkol sa isang digmaang kinasasangkutan ng iyong bansa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q147",
+    "question": "Gaano ka nag-aalala tungkol sa isang pag-atake ng terorista? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q148",
+    "question": "Gaano ka nag-aalala tungkol sa isang digmaang sibil? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very much 2. A good deal 3. Not much 4. Not at all",
+    "option": [
+      "Very much",
+      "A good deal",
+      "Not much",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q149",
+    "question": "Kung kailangan mong pumili sa pagitan ng kalayaan at pagkakapantay-pantay, alin ang ituturing mong mas mahalaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Equality",
+    "option": [
+      "Freedom",
+      "Equality"
+    ]
+  },
+  {
+    "Q_id": "Q150",
+    "question": "Kung kailangan mong pumili sa pagitan ng kalayaan at seguridad, alin ang ituturing mong mas mahalaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Freedom 2. Security",
+    "option": [
+      "Freedom",
+      "Security"
+    ]
+  },
+  {
+    "Q_id": "Q151",
+    "question": "Kung ito ay dumating sa ganyan, handa ka bang ipaglaban ang iyong bansa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q152",
+    "question": "Alin sa mga sumusunod ang itinuturing mong pinakamahalaga para sa mga layunin ng iyong bansa sa susunod na sampung taon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q153",
+    "question": "Alin sa mga sumusunod ang magiging pangalawa sa pinakamahalaga para sa mga layunin ng iyong bansa sa susunod na sampung taon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A high level of economic growth 2. Making sure this country has strong defense forces 3. Seeing that people have more say about how things are done at their jobs and in their communities 4. Trying to make our cities and countryside more beautiful",
+    "option": [
+      "A high level of economic growth",
+      "Making sure this country has strong defense forces",
+      "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "Trying to make our cities and countryside more beautiful"
+    ]
+  },
+  {
+    "Q_id": "Q154",
+    "question": "Kung papipiliin ka, alin sa mga bagay ang masasabi mong pinakamahalaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q155",
+    "question": "Kung papipiliin ka, alin sa mga bagay ang masasabi mong pangalawa sa pinakamahalaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Maintaining order in the nation 2. Giving people more say in important government decisions 3. Fighting rising prices 4. Protecting freedom of speech",
+    "option": [
+      "Maintaining order in the nation",
+      "Giving people more say in important government decisions",
+      "Fighting rising prices",
+      "Protecting freedom of speech"
+    ]
+  },
+  {
+    "Q_id": "Q156",
+    "question": "Sa iyong palagay, alin sa mga ito ang pinakamahalaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q157",
+    "question": "Sa iyong palagay, alin sa mga ito ang pangalawa sa pinakamahalaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A stable economy 2. Progress toward a less impersonal and more humane society 3. Progress toward a society in which ideas count more than money 4. The fight against crime",
+    "option": [
+      "A stable economy",
+      "Progress toward a less impersonal and more humane society",
+      "Progress toward a society in which ideas count more than money",
+      "The fight against crime"
+    ]
+  },
+  {
+    "Q_id": "Q158",
+    "question": "Sumasang-ayon ka ba na ang agham at teknolohiya ay ginagawang mas malusog, mas madali, at mas komportable ang ating buhay? Ang paggamit ng card na ito kung saan ang 1 ay nangangahulugang 'ganap na hindi sumasang-ayon' at ang 10 ay nangangahulugang 'ganap na sumasang-ayon' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q159",
+    "question": "Sang-ayon ka ba na dahil sa agham at teknolohiya, magkakaroon ng mas maraming pagkakataon para sa susunod na henerasyon? Ang paggamit ng card na ito kung saan ang 1 ay nangangahulugang 'ganap na hindi sumasang-ayon' at ang 10 ay nangangahulugang 'ganap na sumasang-ayon' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q160",
+    "question": "Sumasang-ayon ka ba na masyado tayong umaasa sa agham at hindi sapat sa pananampalataya? Ang paggamit ng card na ito kung saan ang 1 ay nangangahulugang 'ganap na hindi sumasang-ayon' at ang 10 ay nangangahulugang 'ganap na sumasang-ayon' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q161",
+    "question": "Sumasang-ayon ka ba na isa sa masamang epekto ng agham ay ang pagsira ng mga ideya ng mga tao sa tama at mali? Ang paggamit ng card na ito kung saan ang 1 ay nangangahulugang 'ganap na hindi sumasang-ayon' at ang 10 ay nangangahulugang 'ganap na sumasang-ayon' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q162",
+    "question": "Sumasang-ayon ka ba na hindi mahalaga para sa iyo na malaman ang tungkol sa agham sa iyong pang-araw-araw na buhay? Ang paggamit ng card na ito kung saan ang 1 ay nangangahulugang 'ganap na hindi sumasang-ayon' at ang 10 ay nangangahulugang 'ganap na sumasang-ayon' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q163",
+    "question": "Lahat ng bagay na isinasaalang-alang, masasabi mo ba na ang mundo ay mas mabuti, o mas masahol pa, dahil sa agham at teknolohiya? Gamit ang card na ito kung saan ang ibig sabihin ng 1 ay 'Mas masahol pa' at ang 10 ay nangangahulugang 'Mas maganda ang kalagayan' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q164",
+    "question": "Gaano kahalaga ang Diyos sa iyong buhay sa sukat mula sa '1' na nangangahulugang 'hindi mahalaga' hanggang sa '10' na nangangahulugang 'napakahalaga'? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q165",
+    "question": "Naniniwala ka ba sa Diyos? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q166",
+    "question": "Naniniwala ka ba sa buhay pagkatapos ng kamatayan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q167",
+    "question": "Naniniwala ka ba sa Impiyerno? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q168",
+    "question": "Naniniwala ka ba sa Langit? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q169",
+    "question": "Lubos ka bang sumasang-ayon, sumasang-ayon, hindi sumasang-ayon, o lubos na hindi sumasang-ayon na sa tuwing magkasalungat ang agham at relihiyon, ang relihiyon ay laging tama? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q170",
+    "question": "Lubos ka bang sumasang-ayon, sumasang-ayon, hindi sumasang-ayon, o lubos na hindi sumasang-ayon na ang tanging katanggap-tanggap na relihiyon ay ang iyong relihiyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Strongly agree 2. Agree 3. Disagree 4. Strongly disagree",
+    "option": [
+      "Strongly agree",
+      "Agree",
+      "Disagree",
+      "Strongly disagree"
+    ]
+  },
+  {
+    "Q_id": "Q171",
+    "question": "Bukod sa mga kasalan at libing, gaano ka kadalas dumadalo sa mga relihiyosong serbisyo sa mga araw na ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. More than once a week 2. Once a week 3. Once a month 4. Only on special holy days 5. Once a year 6. Less often 7. Never, practically never",
+    "option": [
+      "More than once a week",
+      "Once a week",
+      "Once a month",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q172",
+    "question": "Bukod sa kasalan at libing, gaano ka kadalas nagdarasal? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Several times a day 2. Once a day 3. Several times each week 4. Only when attending religious services 5. Only on special holy days 6. Once a year 7. Less often 8. Never, practically never",
+    "option": [
+      "Several times a day",
+      "Once a day",
+      "Several times each week",
+      "Only when attending religious services",
+      "Only on special holy days",
+      "Once a year",
+      "Less often",
+      "Never, practically never"
+    ]
+  },
+  {
+    "Q_id": "Q173",
+    "question": "Malaya kung dumadalo ka sa mga relihiyosong serbisyo o hindi, masasabi mo bang ikaw ay isang relihiyosong tao, hindi isang taong relihiyoso, o isang ateista? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A religious person 2. Not a religious person 3. An atheist",
+    "option": [
+      "A religious person",
+      "Not a religious person",
+      "An atheist"
+    ]
+  },
+  {
+    "Q_id": "Q174",
+    "question": "Alin sa mga sumusunod na pahayag ang pinakasinasang-ayunan mo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to follow religious norms and ceremonies 2. The basic meaning of religion is to do good to other people",
+    "option": [
+      "The basic meaning of religion is to follow religious norms and ceremonies",
+      "The basic meaning of religion is to do good to other people"
+    ]
+  },
+  {
+    "Q_id": "Q175",
+    "question": "Alin sa mga sumusunod na pahayag ang pinakasinasang-ayunan mo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. The basic meaning of religion is to make sense of life after death 2. The basic meaning of religion is to make sense of life in this world",
+    "option": [
+      "The basic meaning of religion is to make sense of life after death",
+      "The basic meaning of religion is to make sense of life in this world"
+    ]
+  },
+  {
+    "Q_id": "Q176",
+    "question": "Gaano ka sumasang-ayon o hindi sumasang-ayon sa pahayag na sa kasalukuyan ay madalas na nahihirapan ang isang tao sa pagpapasya kung aling mga tuntuning moral ang nararapat na sundin? Ang paggamit ng card na ito kung saan ang 1 ay nangangahulugang 'ganap na hindi sumasang-ayon' at ang 10 ay nangangahulugang 'ganap na sumasang-ayon' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q177",
+    "question": "Sa palagay mo, ang pag-claim ng mga benepisyo ng gobyerno na hindi mo karapat-dapat ay maaaring palaging makatwiran, hindi kailanman mabibigyang katwiran, o anumang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q178",
+    "question": "Sa palagay mo, ang pag-iwas sa pamasahe sa pampublikong sasakyan ay maaaring palaging makatwiran, hindi kailanman makatwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q179",
+    "question": "Sa palagay mo ba ang pagnanakaw ng ari-arian ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q180",
+    "question": "Sa palagay mo ba ang pagdaraya sa mga buwis kung mayroon kang pagkakataon ay maaaring palaging makatwiran, hindi kailanman mabibigyang katwiran, o anumang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q181",
+    "question": "Sa palagay mo, ang isang taong tumatanggap ng suhol sa kurso ng kanilang mga tungkulin ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o anumang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q182",
+    "question": "Sa palagay mo ba ang homosexuality ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q183",
+    "question": "Sa palagay mo ba ang prostitusyon ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q184",
+    "question": "Sa palagay mo ba ang pagpapalaglag ay maaaring palaging makatwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q185",
+    "question": "Sa palagay mo ba ang diborsiyo ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q186",
+    "question": "Sa palagay mo ba ang pakikipagtalik bago ang kasal ay maaaring palaging makatwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q187",
+    "question": "Sa palagay mo ba ang pagpapakamatay ay maaaring palaging makatwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q188",
+    "question": "Sa palagay mo ba ang euthanasia ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q189",
+    "question": "Sa palagay mo, para sa isang lalaki na bugbugin ang kanyang asawa ay maaaring palaging makatwiran, hindi kailanman mabibigyang-katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q190",
+    "question": "Sa palagay mo ba ang mga magulang na nambubugbog sa mga bata ay maaaring palaging makatwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q191",
+    "question": "Sa palagay mo ba ang karahasan laban sa ibang mga tao ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q192",
+    "question": "Sa palagay mo ba ang terorismo bilang isang politikal, ideolohikal, o relihiyosong ibig sabihin ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q193",
+    "question": "Sa palagay mo, ang pakikipagtalik sa kaswal na pakikipagtalik ay maaaring palaging makatwiran, hindi kailanman mabibigyang-katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q194",
+    "question": "Sa palagay mo ba ang pampulitikang karahasan ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o anumang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q195",
+    "question": "Sa palagay mo ba ang parusang kamatayan ay palaging mabibigyang katwiran, hindi kailanman mabibigyang katwiran, o isang bagay sa pagitan? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'Hindi kailanman makatwiran' at 10 ay nangangahulugang 'Palaging makatwiran' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q196",
+    "question": "Sa palagay mo, dapat o hindi dapat magkaroon ng karapatan ang gobyerno ng iyong bansa na panatilihin ang mga tao sa ilalim ng video surveillance sa mga pampublikong lugar? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q197",
+    "question": "Sa palagay mo, dapat o hindi dapat magkaroon ng karapatan ang gobyerno ng iyong bansa na subaybayan ang lahat ng mga e-mail at anumang iba pang impormasyon na ipinagpapalit sa Internet? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q198",
+    "question": "Sa palagay mo, dapat ba o hindi dapat magkaroon ng karapatan ang gobyerno ng iyong bansa na mangolekta ng impormasyon tungkol sa sinumang naninirahan sa bansang ito nang hindi nila nalalaman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Definitely should have the right 2. Probably should have the right 3. Probably should not have the right 4. Definitely should not have the right",
+    "option": [
+      "Definitely should have the right",
+      "Probably should have the right",
+      "Probably should not have the right",
+      "Definitely should not have the right"
+    ]
+  },
+  {
+    "Q_id": "Q199",
+    "question": "Gaano mo masasabing interesado ka sa pulitika? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very interested 2. Somewhat interested 3. Not very interested 4. Not at all interested",
+    "option": [
+      "Very interested",
+      "Somewhat interested",
+      "Not very interested",
+      "Not at all interested"
+    ]
+  },
+  {
+    "Q_id": "Q200",
+    "question": "Kapag nagsasama-sama kayo ng iyong mga kaibigan, masasabi mo bang madalas, paminsan-minsan, o hindi kailanman tinatalakay mo ang mga bagay na pampulitika? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Frequently 2. Occasionally 3. Never",
+    "option": [
+      "Frequently",
+      "Occasionally",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q201",
+    "question": "Gaano kadalas ka gumagamit ng pang-araw-araw na pahayagan upang makakuha ng impormasyon: araw-araw, lingguhan, buwanan, mas mababa kaysa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q202",
+    "question": "Gaano kadalas mo ginagamit ang balita sa TV upang makakuha ng impormasyon: araw-araw, lingguhan, buwanan, mas mababa sa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q203",
+    "question": "Gaano ka kadalas gumagamit ng mga balita sa radyo upang makakuha ng impormasyon: araw-araw, lingguhan, buwanan, mas mababa sa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q204",
+    "question": "Gaano kadalas ka gumagamit ng mobile phone upang makakuha ng impormasyon: araw-araw, lingguhan, buwanan, mas mababa sa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q205",
+    "question": "Gaano kadalas ka gumagamit ng email upang makakuha ng impormasyon: araw-araw, lingguhan, buwanan, mas mababa sa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q206",
+    "question": "Gaano kadalas mo ginagamit ang internet upang makakuha ng impormasyon: araw-araw, lingguhan, buwanan, mas mababa sa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q207",
+    "question": "Gaano kadalas mo ginagamit ang social media upang makakuha ng impormasyon: araw-araw, lingguhan, buwanan, mas mababa sa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q208",
+    "question": "Gaano ka kadalas nakakakuha ng impormasyon sa pamamagitan ng pakikipag-usap sa mga kaibigan o kasamahan: araw-araw, lingguhan, buwanan, mas mababa sa buwanan, o hindi kailanman? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Daily 2. Weekly 3. Monthly 4. Less than monthly 5. Never",
+    "option": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Less than monthly",
+      "Never"
+    ]
+  },
+  {
+    "Q_id": "Q209",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawa ng pagpirma ng petisyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q210",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawin ang pagsali sa mga boycott? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q211",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman dadalo sa mapayapang demonstrasyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q212",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawa ng mga strike sa pagsali? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q213",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawa ng donasyon sa isang grupo o kampanya? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q214",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman makipag-ugnayan sa isang opisyal ng gobyerno? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q215",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawa ng paghikayat sa iba na kumilos tungkol sa mga isyung pampulitika? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q216",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi mo gagawin ang paghikayat sa iba na bumoto? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q217",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawa ng paghahanap ng impormasyon tungkol sa pulitika at mga kaganapang pampulitika online? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q218",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawa ng pagpirma sa isang elektronikong petisyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q219",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawin ang paghikayat sa ibang tao na gumawa ng anumang uri ng pampulitikang aksyon? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q220",
+    "question": "Nagawa mo na ba, maaaring gawin, o hindi kailanman gagawin ang pag-oorganisa ng mga aktibidad, kaganapan, protesta? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Have done 2. Might do 3. Would never do",
+    "option": [
+      "Have done",
+      "Might do",
+      "Would never do"
+    ]
+  },
+  {
+    "Q_id": "Q221",
+    "question": "Kapag naganap ang halalan sa lokal na antas, bumoto ka ba palagi, karaniwan, o hindi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q222",
+    "question": "Kapag naganap ang halalan sa pambansang antas, bumoto ka ba palagi, karaniwan, o hindi? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Always 2. Usually 3. Never 4. Not allowed to vote",
+    "option": [
+      "Always",
+      "Usually",
+      "Never",
+      "Not allowed to vote"
+    ]
+  },
+  {
+    "Q_id": "Q223",
+    "question": "Kung magkakaroon ng pambansang halalan bukas, aling partido sa listahang ito ang iboboto mo? Kung HINDI ALAM: Aling partido ang pinakanaaakit sa iyo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Party 1 2. Party 2 3. Party 3 4. etc.",
+    "option": [
+      "Party 1",
+      "Party 2",
+      "Party 3",
+      "etc."
+    ]
+  },
+  {
+    "Q_id": "Q224",
+    "question": "Gaano kadalas binibilang nang patas ang mga boto sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q225",
+    "question": "Gaano kadalas pinipigilan ang mga kandidato ng oposisyon na tumakbo sa halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q226",
+    "question": "Gaano kadalas pinapaboran ng balita sa TV ang namumunong partido sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q227",
+    "question": "Gaano kadalas nasusuhulan ang mga botante sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q228",
+    "question": "Gaano kadalas nagbibigay ang mga mamamahayag ng patas na saklaw ng mga halalan sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q229",
+    "question": "Gaano kadalas patas ang mga opisyal ng halalan sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q230",
+    "question": "Gaano kadalas bumibili ng halalan ang mayayaman sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q231",
+    "question": "Gaano kadalas banta ng karahasan ang mga botante sa mga botohan sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q232",
+    "question": "Gaano kadalas inaalok ang mga botante ng isang tunay na pagpipilian sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q233",
+    "question": "Gaano kadalas nagkakaroon ng pantay na pagkakataon ang mga kababaihan na tumakbo sa mga halalan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very often 2. Fairly often 3. Not often 4. Not at all",
+    "option": [
+      "Very often",
+      "Fairly often",
+      "Not often",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q234",
+    "question": "Gaano kahalaga ang pagkakaroon ng tapat na halalan para sa iyo: napakahalaga, sa halip mahalaga, hindi masyadong mahalaga, o hindi talaga mahalaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very important 2. Rather important 3. Not very important 4. Not at all important",
+    "option": [
+      "Very important",
+      "Rather important",
+      "Not very important",
+      "Not at all important"
+    ]
+  },
+  {
+    "Q_id": "Q234A",
+    "question": "Sa palagay mo, gaano sa palagay mo ang sistemang pampulitika sa iyong bansa ay nagpapahintulot sa mga taong tulad mo na magkaroon ng masasabi sa kung ano ang ginagawa ng gobyerno: marami, marami, ilan, napakaliit, o hindi talaga? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal 2. A lot 3. Some 4. Very little 5. Not at all",
+    "option": [
+      "A great deal",
+      "A lot",
+      "Some",
+      "Very little",
+      "Not at all"
+    ]
+  },
+  {
+    "Q_id": "Q235",
+    "question": "Ano ang pakiramdam mo tungkol sa pagkakaroon ng isang malakas na pinuno na hindi kailangang mag-abala sa parlyamento at halalan bilang isang paraan ng pamamahala sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q236",
+    "question": "Ano ang pakiramdam mo tungkol sa pagkakaroon ng mga eksperto, hindi sa gobyerno, na gumawa ng mga desisyon ayon sa kung ano ang sa tingin nila ay pinakamahusay para sa bansa bilang isang paraan ng pamamahala sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q237",
+    "question": "Ano ang pakiramdam mo tungkol sa pagkakaroon ng pamamahala ng hukbo bilang isang paraan ng pamamahala sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q238",
+    "question": "Ano ang pakiramdam mo tungkol sa pagkakaroon ng isang demokratikong sistemang pampulitika bilang isang paraan ng pamamahala sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q239",
+    "question": "Ano ang pakiramdam mo tungkol sa pagkakaroon ng isang sistemang pinamamahalaan ng batas ng relihiyon kung saan walang mga partidong pampulitika o halalan bilang isang paraan ng pamamahala sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very good 2. Fairly good 3. Fairly bad 4. Very bad",
+    "option": [
+      "Very good",
+      "Fairly good",
+      "Fairly bad",
+      "Very bad"
+    ]
+  },
+  {
+    "Q_id": "Q240",
+    "question": "Sa mga usaping pampulitika, paano mo ilalagay ang iyong mga pananaw sa sukat na ito mula sa 'kaliwa' hanggang sa 'kanan'? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'kaliwa' at 10 ay nangangahulugang 'kanan' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q241",
+    "question": "Sa tingin mo, gaano kahalaga para sa demokrasya na buwisan ng mga gobyerno ang mayayaman at bigyan ng subsidyo ang mahihirap? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q242",
+    "question": "Gaano kahalaga sa palagay mo para sa demokrasya na ang mga awtoridad ng relihiyon sa huli ay nagbibigay-kahulugan sa mga batas? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q243",
+    "question": "Sa palagay mo, gaano kahalaga para sa demokrasya ang pagpili ng mga tao ng kanilang mga pinuno sa malayang halalan? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q244",
+    "question": "Gaano kahalaga sa palagay mo para sa demokrasya ang pagtanggap ng mga tao ng tulong ng estado para sa kawalan ng trabaho? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q245",
+    "question": "Sa palagay mo, gaano kahalaga para sa demokrasya na ang hukbo ang pumalit kapag ang gobyerno ay walang kakayahan? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q246",
+    "question": "Gaano kahalaga sa palagay mo para sa demokrasya na ang mga karapatang sibil ay nagpoprotekta sa mga tao mula sa pang-aapi ng estado? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q247",
+    "question": "Sa tingin mo, gaano kahalaga para sa demokrasya na gawing pantay ng estado ang kita ng mga tao? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q248",
+    "question": "Sa palagay mo, gaano kahalaga para sa demokrasya ang pagsunod ng mga tao sa kanilang mga pinuno? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q249",
+    "question": "Sa tingin mo, gaano kahalaga para sa demokrasya na ang mga kababaihan ay may parehong mga karapatan tulad ng mga lalaki? Gamit ang card na ito kung saan ang 0 ay nangangahulugang 'laban ito sa demokrasya', ang 1 ay nangangahulugang 'hindi lahat ng mahalagang katangian ng demokrasya' at 10 ay nangangahulugang 'isang mahalagang katangian ng demokrasya' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 0 2. 1 3. 2 4. 3 5. 4 6. 5 7. 6 8. 7 9. 8 10. 9 11. 10",
+    "option": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q250",
+    "question": "Gaano kahalaga para sa iyo na manirahan sa isang bansa na pinamamahalaan nang demokratiko? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'hindi mahalaga' at ang 10 ay nangangahulugang 'ganap na mahalaga' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q251",
+    "question": "Gaano demokratiko ang pamamahala sa bansang ito ngayon? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'hindi talaga demokratiko' at ang 10 ay nangangahulugang 'ganap na demokratiko' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q252",
+    "question": "Gaano ka nasisiyahan sa kung paano gumagana ang sistemang pampulitika sa iyong bansa ngayon? Gamit ang card na ito kung saan ang 1 ay nangangahulugang 'hindi nasiyahan sa lahat' at 10 ay nangangahulugang 'ganap na nasisiyahan' Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q253",
+    "question": "Gaano kalaki ang paggalang sa mga indibidwal na karapatang pantao sa kasalukuyan sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. A great deal of respect for individual human rights 2. Fairly much respect 3. Not much respect 4. No respect at all",
+    "option": [
+      "A great deal of respect for individual human rights",
+      "Fairly much respect",
+      "Not much respect",
+      "No respect at all"
+    ]
+  },
+  {
+    "Q_id": "Q254",
+    "question": "Gaano mo ipinagmamalaki ang iyong nasyonalidad? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very proud 2. Quite proud 3. Not very proud 4. Not at all proud 5. I am not of this nationality",
+    "option": [
+      "Very proud",
+      "Quite proud",
+      "Not very proud",
+      "Not at all proud",
+      "I am not of this nationality"
+    ]
+  },
+  {
+    "Q_id": "Q255",
+    "question": "Gaano kalapit ang pakiramdam mo sa iyong nayon, bayan, o lungsod? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q256",
+    "question": "Gaano kalapit ang pakiramdam mo sa iyong county, rehiyon, o distrito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q257",
+    "question": "Gaano kalapit ang pakiramdam mo sa iyong bansa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q258",
+    "question": "Gaano kalapit ang pakiramdam mo sa iyong kontinente (hal., Europe, Asia, atbp.)? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q259",
+    "question": "Gaano kalapit ang pakiramdam mo sa mundo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Very close 2. Close 3. Not very close 4. Not close at all",
+    "option": [
+      "Very close",
+      "Close",
+      "Not very close",
+      "Not close at all"
+    ]
+  },
+  {
+    "Q_id": "Q260",
+    "question": "Ano ang iyong kasarian? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Male 2. Female",
+    "option": [
+      "Male",
+      "Female"
+    ]
+  },
+  {
+    "Q_id": "Q263",
+    "question": "Ipinanganak ka ba sa bansang ito o isa kang imigrante sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q264",
+    "question": "Ang iyong ina ba ay isang imigrante sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q265",
+    "question": "Ang iyong ama ba ay isang imigrante sa bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Born in this country 2. Immigrant to this country",
+    "option": [
+      "Born in this country",
+      "Immigrant to this country"
+    ]
+  },
+  {
+    "Q_id": "Q269",
+    "question": "Ikaw ba ay isang mamamayan ng bansang ito? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes, I am a citizen of this country 2. No, I am not a citizen of this country",
+    "option": [
+      "Yes, I am a citizen of this country",
+      "No, I am not a citizen of this country"
+    ]
+  },
+  {
+    "Q_id": "Q271",
+    "question": "Nakatira ka ba sa iyong mga magulang o sa iyong mga biyenan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No 2. Yes, own parent(s) 3. Yes, parent(s) in law 4. Yes, both own parent(s) and parent(s) in law",
+    "option": [
+      "No",
+      "Yes, own parent(s)",
+      "Yes, parent(s) in law",
+      "Yes, both own parent(s) and parent(s) in law"
+    ]
+  },
+  {
+    "Q_id": "Q273",
+    "question": "Ano ang iyong kasalukuyang marital status? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Married 2. Living together as married 3. Divorced 4. Separated 5. Widowed 6. Single",
+    "option": [
+      "Married",
+      "Living together as married",
+      "Divorced",
+      "Separated",
+      "Widowed",
+      "Single"
+    ]
+  },
+  {
+    "Q_id": "Q275",
+    "question": "Ano ang pinakamataas na antas ng edukasyon na iyong natamo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q276",
+    "question": "Ano ang pinakamataas na antas ng edukasyon na natamo ng iyong asawa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q277",
+    "question": "Ano ang pinakamataas na antas ng edukasyon na natamo ng iyong ina? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q278",
+    "question": "Ano ang pinakamataas na antas ng edukasyon na natamo ng iyong ama? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Early childhood education (ISCED 0) / no education 2. Primary education (ISCED 1) 3. Lower secondary education (ISCED 2) 4. Upper secondary education (ISCED 3) 5. Post-secondary non-tertiary education (ISCED 4) 6. Short-cycle tertiary education (ISCED 5) 7. Bachelor or equivalent (ISCED 6) 8. Master or equivalent (ISCED 7) 9. Doctoral or equivalent (ISCED 8)",
+    "option": [
+      "Early childhood education (ISCED 0) / no education",
+      "Primary education (ISCED 1)",
+      "Lower secondary education (ISCED 2)",
+      "Upper secondary education (ISCED 3)",
+      "Post-secondary non-tertiary education (ISCED 4)",
+      "Short-cycle tertiary education (ISCED 5)",
+      "Bachelor or equivalent (ISCED 6)",
+      "Master or equivalent (ISCED 7)",
+      "Doctoral or equivalent (ISCED 8)"
+    ]
+  },
+  {
+    "Q_id": "Q279",
+    "question": "Ikaw ba ay kasalukuyang may trabaho? Kung oo, mga ilang oras kada linggo? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q280",
+    "question": "Kasalukuyang may trabaho ba ang iyong asawa? Kung oo, nagtrabaho ba siya (full time man o part time) o self-employed sa kanyang huling trabaho? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Full time employee (30 hours a week or more) 2. Part time employee (less than 30 hours a week) 3. Self employed 4. Retired/pensioned 5. Housewife not otherwise employed 6. Student 7. Unemployed 8. Other (write in):",
+    "option": [
+      "Full time employee (30 hours a week or more)",
+      "Part time employee (less than 30 hours a week)",
+      "Self employed",
+      "Retired/pensioned",
+      "Housewife not otherwise employed",
+      "Student",
+      "Unemployed",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q281",
+    "question": "Alin sa mga sumusunod na pangkat ng trabaho ang nabibilang? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q282",
+    "question": "Alin sa mga sumusunod na grupo ng trabaho nabibilang ang iyong asawa? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q283",
+    "question": "Noong ikaw ay 14 taong gulang, alin sa mga sumusunod na pangkat ng trabaho ang iyong ama? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Professional and technical 2. Higher administrative 3. Clerical 4. Sales 5. Service 6. Skilled worker 7. Semi-skilled worker 8. Unskilled worker 9. Farm worker 10. Farm proprietor, farm manager 11. Never had a job",
+    "option": [
+      "Professional and technical",
+      "Higher administrative",
+      "Clerical",
+      "Sales",
+      "Service",
+      "Skilled worker",
+      "Semi-skilled worker",
+      "Unskilled worker",
+      "Farm worker",
+      "Farm proprietor, farm manager",
+      "Never had a job"
+    ]
+  },
+  {
+    "Q_id": "Q284",
+    "question": "Nagtatrabaho ka ba para sa gobyerno o pampublikong institusyon, para sa pribadong negosyo o industriya, o para sa isang pribadong non-profit na organisasyon? Kung hindi ka nagtatrabaho sa kasalukuyan, tukuyin ang iyong pangunahing gawain sa nakaraan. Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Government or public institution 2. Private business or industry 3. Private non-profit organization",
+    "option": [
+      "Government or public institution",
+      "Private business or industry",
+      "Private non-profit organization"
+    ]
+  },
+  {
+    "Q_id": "Q285",
+    "question": "Ikaw ba ang punong kumikita ng sahod sa iyong sambahayan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Yes 2. No",
+    "option": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Q_id": "Q286",
+    "question": "Sa nakalipas na taon, nag-ipon ba ng pera ang iyong pamilya, nakakapagpatuloy lang, gumastos ng kaunting ipon, o gumastos ng ipon at nanghiram ng pera? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Saved money 2. Just get by 3. Spent some savings 4. Spent savings and borrowed money",
+    "option": [
+      "Saved money",
+      "Just get by",
+      "Spent some savings",
+      "Spent savings and borrowed money"
+    ]
+  },
+  {
+    "Q_id": "Q287",
+    "question": "Ilalarawan mo ba ang iyong sarili bilang kabilang sa upper class, upper middle class, lower middle class, working class, o lower class? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. Upper class 2. Upper middle class 3. Lower middle class 4. Working class 5. Lower class",
+    "option": [
+      "Upper class",
+      "Upper middle class",
+      "Lower middle class",
+      "Working class",
+      "Lower class"
+    ]
+  },
+  {
+    "Q_id": "Q288",
+    "question": "Sa sukat ng kita kung saan ang 1 ay nagpapahiwatig ng pinakamababang pangkat ng kita at 10 ang pinakamataas na pangkat ng kita sa iyong bansa, sa aling grupo ang iyong sambahayan? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. 1 2. 2 3. 3 4. 4 5. 5 6. 6 7. 7 8. 8 9. 9 10. 10",
+    "option": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Q_id": "Q289",
+    "question": "Nabibilang ka ba sa isang relihiyon o relihiyon? Kung oo, alin? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. No denomination 2. Roman Catholic 3. Protestant 4. Orthodox (Russian/Greek/etc.) 5. Jew 6. Muslim 7. Hindu 8. Buddhist 9. Other (write in):",
+    "option": [
+      "No denomination",
+      "Roman Catholic",
+      "Protestant",
+      "Orthodox (Russian/Greek/etc.)",
+      "Jew",
+      "Muslim",
+      "Hindu",
+      "Buddhist",
+      "Other (write in):"
+    ]
+  },
+  {
+    "Q_id": "Q290",
+    "question": "Ano ang iyong pangkat etniko? Choose only one of the following options (e.g., 1, 2, 3, ...): 1. White 2. Black 3. South Asian Indian, Pakistani, etc. 4. East Asian Chinese, Japanese, etc. 5. Arabic, Central Asian 6. Other (write in):",
+    "option": [
+      "White",
+      "Black",
+      "South Asian Indian, Pakistani, etc.",
+      "East Asian Chinese, Japanese, etc.",
+      "Arabic, Central Asian",
+      "Other (write in):"
+    ]
+  }
+]

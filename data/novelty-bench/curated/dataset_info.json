@@ -1,0 +1,52 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "novelty-bench",
+  "dataset_size": 189810,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/yimingzhang/novelty-bench@255584e0f4538d1f2acb4c1d287b4d3bb30fe2f9/data/curated-00000-of-00001.parquet": {
+      "num_bytes": 6531,
+      "checksum": null
+    },
+    "hf://datasets/yimingzhang/novelty-bench@255584e0f4538d1f2acb4c1d287b4d3bb30fe2f9/data/wildchat-00000-of-00001.parquet": {
+      "num_bytes": 128537,
+      "checksum": null
+    }
+  },
+  "download_size": 135068,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 324878,
+  "splits": {
+    "curated": {
+      "name": "curated",
+      "num_bytes": 7986,
+      "num_examples": 100,
+      "dataset_name": "novelty-bench"
+    },
+    "wildchat": {
+      "name": "wildchat",
+      "num_bytes": 181824,
+      "num_examples": 1000,
+      "dataset_name": "novelty-bench"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
