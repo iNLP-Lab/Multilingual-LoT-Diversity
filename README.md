@@ -1,6 +1,6 @@
 # Multilingual-LoT-Diversity
 
-The official code of "Language of Thought Shapes Output Diversity in Large Language Model".
+The official code of [Language of Thought Shapes Output Diversity in Large Language Models](https://arxiv.org/abs/2601.11227).
 
 ## Get up
 
