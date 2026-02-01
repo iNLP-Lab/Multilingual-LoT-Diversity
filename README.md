@@ -108,3 +108,17 @@ The codes for cultural pluralism experiments (Section 6 in paper) are in `cultur
 # Others
 
 Scripts for evaluating quality on generated outputs are in `output_quality_evaluation` folder.
+
+# Citation
+
+If you find this repo useful, please cite:
+
+```
+@article{xu2026language,
+  title={Language of Thought Shapes Output Diversity in Large Language Models},
+  author={Xu, Shaoyang and Zhang, Wenxuan},
+  journal={arXiv preprint arXiv:2601.11227},
+  year={2026}
+}
+```
+
